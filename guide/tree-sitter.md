@@ -120,3 +120,5 @@ We'll need to recompile the grammar with the changes we've made.
 -   Run `node-gyp build`
 
 _NOTE_: Run `npm run build` to do all of the required steps in one command
+
+We will eventually need to publish the tree-sitter parser to npm, but in the meantime for developing the package and the grammar, you can test it locally using `apm link`.
