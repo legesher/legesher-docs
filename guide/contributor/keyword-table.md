@@ -17,7 +17,7 @@
 |  ALIGNOF |   | | | |
 |  ALL |   | | | |
 |  ALWAYS |   | | | |
-|  AND |   | | | |
+|  AND |   |will result into True only if both the operands are True | python | |
 |  AND_EQ |   | | | |
 |  ANIMATION |   | | | |
 |  ANIMATION-COUNT |   | | | |
@@ -292,7 +292,7 @@
 |  FONT-VARIANT |   | | | |
 |  FONT-WEIGHT |   | | | |
 |  FOOTER |   | | | |
-|  FOR |   | | | |
+|  FOR |   |  used for looping, generally when we know the number of times we want to loop with any type of sequence like a list or string | | |
 |  FORALL |   | | | |
 |  FORCE |   | | | |
 |  FOREACH |   | | | |
@@ -465,7 +465,7 @@
 |  NONREC | | | | |
 |  NOR | | | | |
 |  NOSCRIPT | | | | |
-|  NOT | | | | |
+|  NOT | | used to invert the truth value | | |
 |  NOT_EQ | | | | |
 |  NOTE | | | | |
 |  NOTIF0 | | | | |
@@ -489,7 +489,7 @@
 |  OPTIMIZE | | | | |
 |  OPTION | | | | |
 |  OPTIONAL | | | | |
-|  OR | | | | |
+|  OR | |  will result into True if any the operands are True | python | |
 |  OR_EQ | | | | |
 |  ORDER | | | | |
 |  ORDERBY | | | | |
