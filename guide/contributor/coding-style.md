@@ -1,6 +1,7 @@
+<!-- this coding style was modified from the Electron style guide -->
 # Coding Style
 
-These are the style guidelines for coding in Electron.
+These are the style guidelines for coding in Legesher.
 
 You can run `npm run lint` to show any style issues detected by `cpplint` and
 `eslint`.
@@ -64,7 +65,7 @@ formatted correctly.
 
 ## Naming Things
 
-Electron APIs uses the same capitalization scheme as Node.js:
+Legesher APIs uses the same capitalization scheme as Node.js:
 
 - When the module itself is a class like `BrowserWindow`, use `PascalCase`.
 - When the module is a set of APIs, like `globalShortcut`, use `camelCase`.

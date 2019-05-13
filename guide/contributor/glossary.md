@@ -1,5 +1,6 @@
 # Glossary 📖
-For all the words that would be of benefit to know. If there is a word you believe should be on this list, open an `issue`.  
+
+For all the words that would be of benefit to know. If there is a word you believe should be on this list, please open an `issue`.  
 
 - [Keywords](https://github.com/madiedgar/Legesher/blob/master/docs/glossary.md#keywords)  
   - [Truth Values](https://github.com/madiedgar/Legesher/blob/master/docs/glossary.md#truth-values)

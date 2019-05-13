@@ -1,6 +1,7 @@
-# Electron Documentation Styleguide
+<!-- this coding style was modified from the Electron style guide -->
+# Legesher Documentation Style Guide
 
-These are the guidelines for writing Electron documentation.
+These are the guidelines for writing Legesher documentation. 
 
 ## Titles
 
