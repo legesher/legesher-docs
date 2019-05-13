@@ -251,6 +251,7 @@
 |  EXTERN |   | | | |
 |  EXTERNAL |   | | | |
 |  FALLTHROUGH |   | | | |
+|  FALSE | Boolean logic for what is considered **false** | `python`, `c++`, `c#`, `javascript`, `julia`, `ocaml`, `ruby`, `rust`, `scala`, `swift`,`typescript` |  `truth-values`  | |
 |  FALSEABSTRACT |   | | | |
 |  FI |   | | | |
 |  FIELD |   | | | |
@@ -699,6 +700,7 @@
 |  TRI1 | | | | |
 |  TRIAND | | | | |
 |  TRIOR | | | | |
+|  TRUE | Boolean logic for what is considered **true** | `python`, `c++`, `c#`, `javascript`, `julia`, `ocaml`, `ruby`, `rust`, `scala`, `swift`,`typescript` | `truth-values` | |
 |  TRY | | | | |
 |  TT | | | | |
 |  TUTORIAL | | | | |
@@ -770,5 +772,3 @@
 |  XOR_EQ | | | | |
 |  YIELD | | | | |
 |  Z-INDEX | | | | |
-|  FALSE | | | | |
-|  TRUE | | | | |
