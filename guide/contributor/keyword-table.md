@@ -34,12 +34,12 @@
 |  ARGUMENTS |   | | | |
 |  ARRAY |   | | | |
 |  ARTICLE |   | | | |
-|  AS |   | | | |
+|  AS |used to create an alias while importing a module, giving a different name to a module while importing it   | | | |
 |  ASCENDING |   | | | |
 |  ASIDE |   | | | |
 |  ASM |   | | | |
 |  ASR |   | | | |
-|  ASSERT |   | | | |
+|  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true   | | | |
 |  ASSIGN |   | | | |
 |  ASSOCIATEDTYPE |   | | | |
 |  ASSOCIATIVITY |   | | | |
@@ -100,7 +100,7 @@
 |  BOX-SHADOW |   | | | |
 |  BOX-SIZING |   | | | |
 |  BR |   | | | |
-|  BREAK |   | | | |
+|  BREAK | used to alter the loop's normal behavior; this will end the smallest loop it is in and control flows to the statement immediately below the loop  | | | |
 |  BREAK-AFTER |   | | | |
 |  BREAK-BEFORE |   | | | |
 |  BREAK-INSIDE |   | | | |
@@ -128,7 +128,7 @@
 |  CHECKED |   | | | |
 |  CHGME |   | | | |
 |  CITE |   | | | |
-|  CLASS |   | | | |
+|  CLASS | used to define a new user-defined class - which is a collection of related attributes and methods that try to represent a real world situation  | | | |
 |  CLEAR |   | | | |
 |  CLIP |   | | | |
 |  CLONE |   | | | |
@@ -158,7 +158,7 @@
 |  CONSTRAINT |   | | | |
 |  CONSTRUCTOR |   | | | |
 |  CONTENT |   | | | |
-|  CONTINUE |   | | | |
+|  CONTINUE |used to alter the loop's normal behavior; causes to end the current iteration of the loop, but not the whole loop   | | | |
 |  CONVENIENCE |   | | | |
 |  COUNTER-INCREMENT |   | | | |
 |  COUNTER-RESET |   | | | |
@@ -173,7 +173,7 @@
 |  DECIMAL |   | | | |
 |  DECLARE |   | | | |
 |  DECLTYPE |   | | | |
-|  DEF |   | | | |
+|  DEF | used to define a new user-defined function  | | | |
 |  DEFAULT |   | | | |
 |  DEFER |   | | | |
 |  DEFINE |   | | | |
@@ -181,7 +181,7 @@
 |  DEFINED? |   | | | |
 |  DEFPARAM |   | | | |
 |  DEINIT |   | | | |
-|  DEL |   | | | |
+|  DEL | used to delete the reference to an object  | | | |
 |  DELEGATE |   | | | |
 |  DELETE |   | | | |
 |  DEPRECATED |   | | | |
@@ -311,7 +311,7 @@
 |  FUNCTIONS |   | | | |
 |  FUNCTOR |   | | | |
 |  GET |   | | | |
-|  GLOBAL |   | | | |
+|  GLOBAL | used to declare that a variable inside the function is global (outside the function)  | | | |
 |  GLOBAL: |   | | | |
 |  GO |   | | | |
 |  GOTO |   | | | |
@@ -356,7 +356,7 @@
 |  IMPL |   | | | |
 |  IMPLEMENTS |   | | | |
 |  IMPLICIT |   | | | |
-|  IMPORT |   | | | |
+|  IMPORT | used to import modules into the current namespace  | | | |
 |  IMPORTALL |   | | | |
 |  IN |used to test if a sequence (list, tuple, string, etc.) contains a value. It returns TRUE if the value is present. Its secondary use is to traverse through a sequence in a for loop   | | | |
 |  INCLUDE |   | | | |
@@ -384,14 +384,14 @@
 |  INTERFACE |   | | | |
 |  INTERNAL |   | | | |
 |  INTO |   | | | |
-|  IS |   | | | |
+|  IS |used for testing object identity, by testing if the two variables refer to the same object. This will return TRUE if the objects are identical and FALSE if not   | | | |
 |  ISOLATION |   | | | |
 |  ISSET |   | | | |
 |  JOIN |   | | | |
 |  JUSTIFY-CONTENT |   | | | |
 |  KBD |   | | | |
 |  LABEL |   | | | |
-|  LAMBDA |   | | | |
+|  LAMBDA | used to create an inline, anonymous function (function without a name), without a return statement, consisting of an expression that is evaluated and returned  | | | |
 |  LAND |   | | | |
 |  LARGE |   | | | |
 |  LAZY |   | | | |
@@ -459,8 +459,8 @@
 |  NO-ETA-EQUALITY | | | | |
 |  NOEXCEPT | | | | |
 |  NOFRAMES | | | | |
-|  NONE | | | | |
-|  NONLOCAL | | | | |
+|  NONE |special constant in python that represents the absence of a value or null value | | | |
+|  NONLOCAL |used to declare that a variable inside a nested function (function inside a function) is not local to it, meaning it lies in the outer inclosing function. (similar to the global keyword) | | | |
 |  NONMUTATING | | | | |
 |  NONREC | | | | |
 |  NOR | | | | |
@@ -521,7 +521,7 @@
 |  PARAM | | | | |
 |  PARAMS | | | | |
 |  PARTIAL | | | | |
-|  PASS | | | | |
+|  PASS | null statement where nothing happens when executed, mainly used as a placeholder| | | |
 |  PATTERN | | | | |
 |  PERSPECTIVE | | | | |
 |  PERSPECTIVE-ORIGIN | | | | |
@@ -559,7 +559,7 @@
 |  QUOTEGOAL | | | | |
 |  QUOTES | | | | |
 |  QUOTETERM | | | | |
-|  RAISE | | | | |
+|  RAISE |to raise an exception explicitly | | | |
 |  RANGE | | | | |
 |  RCMOS | | | | |
 |  READONLY | | | | |
@@ -701,7 +701,7 @@
 |  TRIAND | | | | |
 |  TRIOR | | | | |
 |  TRUE | Boolean logic for what is considered **true** | `python`, `c++`, `c#`, `javascript`, `julia`, `ocaml`, `ruby`, `rust`, `scala`, `swift`,`typescript` | `truth-values` | |
-|  TRY | | | | |
+|  TRY | used with exceptions, where try...except blocks are used to catch exceptions by trying out a set of instructions to see if an exception occur| | | |
 |  TT | | | | |
 |  TUTORIAL | | | | |
 |  TYPE | | | | |
