@@ -358,7 +358,7 @@
 |  IMPLICIT |   | | | |
 |  IMPORT |   | | | |
 |  IMPORTALL |   | | | |
-|  IN |   | | | |
+|  IN |used to test if a sequence (list, tuple, string, etc.) contains a value. It returns TRUE if the value is present. Its secondary use is to traverse through a sequence in a for loop   | | | |
 |  INCLUDE |   | | | |
 |  INCLUDE_ONCE |   | | | |
 |  INDIRECT |   | | | |
