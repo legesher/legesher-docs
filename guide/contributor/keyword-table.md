@@ -210,8 +210,8 @@
 |  DYNAMICTYPE |   | | | |
 |  ECHO |   | | | |
 |  EDGE |   | | | |
-|  ELIF |   | | | |
-|  ELSE |   | | | |
+|  ELIF | short for "else if" used for conditional branching or decision making  | | | |
+|  ELSE | used for conditional branching or decision making if the condition is false; the last resort  | | | |
 |  ELSEIF |   | | | |
 |  ELSIF |   | | | |
 |  EM |   | | | |
@@ -240,7 +240,7 @@
 |  ETA-EQUALITY |   | | | |
 |  EVAL |   | | | |
 |  EVENT |   | | | |
-|  EXCEPT |   | | | |
+|  EXCEPT | used with exceptions, where try...except blocks are used to catch exceptions if they fail the try set of instructions  | | | |
 |  EXCEPTION |   | | | |
 |  EXIT |   | | | |
 |  EXPLICIT |   | | | |
@@ -262,7 +262,7 @@
 |  FILENAME |   | | | |
 |  FILTER |   | | | |
 |  FINAL |   | | | |
-|  FINALLY |   | | | |
+|  FINALLY | used with try...except statements to close up resources or file streams. This ensures that the block of code inside it gets executed even if there is an unhandled exception  | | | |
 |  FIXED |   | | | |
 |  FLEX |   | | | |
 |  FLEX-BASIS |   | | | |
@@ -304,7 +304,7 @@
 |  FRAME |   | | | |
 |  FRAMESET |   | | | |
 |  FRIEND |   | | | |
-|  FROM |   | | | |
+|  FROM | to import specific attributes or functions into the current namespace, use from...import  | | | |
 |  FUN |   | | | |
 |  FUNC |   | | | |
 |  FUNCTION |   | | | |
@@ -583,7 +583,7 @@
 |  RESIZE | | | | |
 |  RETHROWS | | | | |
 |  RETRY | | | | |
-|  RETURN | | | | |
+|  RETURN |used inside a function to exit and return a value | | | |
 |  REVIEW | | | | |
 |  REWRITE | | | | |
 |  RIGHT | | | | |
@@ -754,13 +754,13 @@
 |  WEAK1 | | | | |
 |  WHEN | | | | |
 |  WHERE | | | | |
-|  WHILE | | | | |
+|  WHILE |used for looping. The statements inside this type of loop will continue to execute until the condition for the while loop evaluates to FALSE or a break statement is encountered | | | |
 |  WHITE-SPACE | | | | |
 |  WIDOWS | | | | |
 |  WIDTH | | | | |
 |  WILLSET | | | | |
 |  WIRE | | | | |
-|  WITH | | | | |
+|  WITH |statement used to wrap the execution of a block of code within methods defined by the context manager | | | |
 |  WOR | | | | |
 |  WORD-BREAK | | | | |
 |  WORD-SPACING | | | | |
@@ -770,5 +770,5 @@
 |  XNOR | | | | |
 |  XOR | | | | |
 |  XOR_EQ | | | | |
-|  YIELD | | | | |
+|  YIELD |used inside a function like a return statement, however it returns a generator | | | |
 |  Z-INDEX | | | | |
