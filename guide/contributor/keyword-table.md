@@ -17,7 +17,7 @@
 |  ALIGNOF |   | | | |
 |  ALL |   | | | |
 |  ALWAYS |   | | | |
-|  AND | will result into True only if both the operands are True  | |  | |
+|  AND | will result into True only if both the operands are True  | `Python` | Logical Operators |  |
 |  AND_EQ |   | | | |
 |  ANIMATION |   | | | |
 |  ANIMATION-COUNT |   | | | |
@@ -34,23 +34,23 @@
 |  ARGUMENTS |   | | | |
 |  ARRAY |   | | | |
 |  ARTICLE |   | | | |
-|  AS |used to create an alias while importing a module, giving a different name to a module while importing it   | | | |
+|  AS |used to create an alias while importing a module, giving a different name to a module while importing it | `python` | References | |
 |  ASCENDING |   | | | |
 |  ASIDE |   | | | |
 |  ASM |   | | | |
 |  ASR |   | | | |
-|  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true   | | | |
+|  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true | `python`| Debugging | |
 |  ASSIGN |   | | | |
 |  ASSOCIATEDTYPE |   | | | |
 |  ASSOCIATIVITY |   | | | |
-|  ASYNC |   | | | |
+|  ASYNC |   | `python`| User Defined Structures | |
 |  ATOMIC_CANCEL |   | | | |
 |  ATOMIC_COMMIT |   | | | |
 |  ATOMIC_NOEXCEPT |   | | | |
 |  AUDIO |   | | | |
 |  AUTO |   | | | |
 |  AVAILABLE |   | | | |
-|  AWAIT |   | | | |
+|  AWAIT |   | `python`| User Defined Structures | |
 |  B |   | | | |
 |  BACKFACE-VISIBILITY |   | | | |
 |  BACKGROUND |   | | | |
@@ -100,7 +100,7 @@
 |  BOX-SHADOW |   | | | |
 |  BOX-SIZING |   | | | |
 |  BR |   | | | |
-|  BREAK | used to alter the loop's normal behavior; this will end the smallest loop it is in and control flows to the statement immediately below the loop  | | | |
+|  BREAK | used to alter the loop's normal behavior; this will end the smallest loop it is in and control flows to the statement immediately below the loop | `python` | Loops | |
 |  BREAK-AFTER |   | | | |
 |  BREAK-BEFORE |   | | | |
 |  BREAK-INSIDE |   | | | |
@@ -128,7 +128,7 @@
 |  CHECKED |   | | | |
 |  CHGME |   | | | |
 |  CITE |   | | | |
-|  CLASS | used to define a new user-defined class - which is a collection of related attributes and methods that try to represent a real world situation  | | | |
+|  CLASS | used to define a new user-defined class - which is a collection of related attributes and methods that try to represent a real world situation | `python`| User Defined Structures | |
 |  CLEAR |   | | | |
 |  CLIP |   | | | |
 |  CLONE |   | | | |
@@ -158,7 +158,7 @@
 |  CONSTRAINT |   | | | |
 |  CONSTRUCTOR |   | | | |
 |  CONTENT |   | | | |
-|  CONTINUE |used to alter the loop's normal behavior; causes to end the current iteration of the loop, but not the whole loop   | | | |
+|  CONTINUE | used to alter the loop's normal behavior; causes to end the current iteration of the loop, but not the whole loop | `python` | Loops | |
 |  CONVENIENCE |   | | | |
 |  COUNTER-INCREMENT |   | | | |
 |  COUNTER-RESET |   | | | |
@@ -173,7 +173,7 @@
 |  DECIMAL |   | | | |
 |  DECLARE |   | | | |
 |  DECLTYPE |   | | | |
-|  DEF | used to define a new user-defined function  | | | |
+|  DEF | used to define a new user-defined function |`python`| User Defined Structures | |
 |  DEFAULT |   | | | |
 |  DEFER |   | | | |
 |  DEFINE |   | | | |
@@ -181,7 +181,7 @@
 |  DEFINED? |   | | | |
 |  DEFPARAM |   | | | |
 |  DEINIT |   | | | |
-|  DEL | used to delete the reference to an object  | | | |
+|  DEL | used to delete the reference to an object | `python` | References | |
 |  DELEGATE |   | | | |
 |  DELETE |   | | | |
 |  DEPRECATED |   | | | |
@@ -210,8 +210,8 @@
 |  DYNAMICTYPE |   | | | |
 |  ECHO |   | | | |
 |  EDGE |   | | | |
-|  ELIF | short for "else if" used for conditional branching or decision making  | | | |
-|  ELSE | used for conditional branching or decision making if the condition is false; the last resort  | | | |
+|  ELIF | short for "else if" used for conditional branching or decision making  | `python` | Loops | |
+|  ELSE | used for conditional branching or decision making if the condition is false; the last resort | `python` | Loops | |
 |  ELSEIF |   | | | |
 |  ELSIF |   | | | |
 |  EM |   | | | |
@@ -240,7 +240,7 @@
 |  ETA-EQUALITY |   | | | |
 |  EVAL |   | | | |
 |  EVENT |   | | | |
-|  EXCEPT | used with exceptions, where try...except blocks are used to catch exceptions if they fail the try set of instructions  | | | |
+|  EXCEPT | used with exceptions, where try...except blocks are used to catch exceptions if they fail the try set of instructions | `python` | Exceptions | |
 |  EXCEPTION |   | | | |
 |  EXIT |   | | | |
 |  EXPLICIT |   | | | |
@@ -262,7 +262,7 @@
 |  FILENAME |   | | | |
 |  FILTER |   | | | |
 |  FINAL |   | | | |
-|  FINALLY | used with try...except statements to close up resources or file streams. This ensures that the block of code inside it gets executed even if there is an unhandled exception  | | | |
+|  FINALLY | used with try...except statements to close up resources or file streams. This ensures that the block of code inside it gets executed even if there is an unhandled exception | `python `| Exceptions | |
 |  FIXED |   | | | |
 |  FLEX |   | | | |
 |  FLEX-BASIS |   | | | |
@@ -292,7 +292,7 @@
 |  FONT-VARIANT |   | | | |
 |  FONT-WEIGHT |   | | | |
 |  FOOTER |   | | | |
-|  FOR |  used for looping, generally when we know the number of times we want to loop with any type of sequence like a list or string |   | | |
+|  FOR | used for looping, generally when we know the number of times we want to loop with any type of sequence like a list or string | `python` | Loops | |
 |  FORALL |   | | | |
 |  FORCE |   | | | |
 |  FOREACH |   | | | |
@@ -304,15 +304,14 @@
 |  FRAME |   | | | |
 |  FRAMESET |   | | | |
 |  FRIEND |   | | | |
-|  FROM | to import specific attributes or functions into the current namespace, use from...import  | | | |
+|  FROM | to import specific attributes or functions into the current namespace, use from...import  | `python` | Module Abstractions | |
 |  FUN |   | | | |
 |  FUNC |   | | | |
 |  FUNCTION |   | | | |
 |  FUNCTIONS |   | | | |
 |  FUNCTOR |   | | | |
 |  GET |   | | | |
-|  GLOBAL | used to declare that a variable inside the function is global (outside the function)  | | | |
-|  GLOBAL: |   | | | |
+|  GLOBAL | used to declare that a variable inside the function is global (outside the function)  | `python` | Variable Abstractions | |
 |  GO |   | | | |
 |  GOTO |   | | | |
 |  GRID |   | | | |
@@ -346,7 +345,7 @@
 |  I |   | | | |
 |  ID |   | | | |
 |  IDEA |   | | | |
-|  IF |   | | | |
+|  IF | used for conditional branching or decision making | `python` | Loops | |
 |  IFDEF |   | | | |
 |  IFNDEF |   | | | |
 |  IFRAME |   | | | |
@@ -356,9 +355,9 @@
 |  IMPL |   | | | |
 |  IMPLEMENTS |   | | | |
 |  IMPLICIT |   | | | |
-|  IMPORT | used to import modules into the current namespace  | | | |
+|  IMPORT | used to import modules into the current namespace  | `python` | Module Abstractions | |
 |  IMPORTALL |   | | | |
-|  IN |used to test if a sequence (list, tuple, string, etc.) contains a value. It returns TRUE if the value is present. Its secondary use is to traverse through a sequence in a for loop   | | | |
+|  IN | used to test if a sequence (list, tuple, string, etc.) contains a value. It returns TRUE if the value is present. Its secondary use is to traverse through a sequence in a for loop | `python` | Loops | |
 |  INCLUDE |   | | | |
 |  INCLUDE_ONCE |   | | | |
 |  INDIRECT |   | | | |
@@ -384,14 +383,14 @@
 |  INTERFACE |   | | | |
 |  INTERNAL |   | | | |
 |  INTO |   | | | |
-|  IS |used for testing object identity, by testing if the two variables refer to the same object. This will return TRUE if the objects are identical and FALSE if not   | | | |
+|  IS | used for testing object identity, by testing if the two variables refer to the same object. This will return TRUE if the objects are identical and FALSE if not | `python` | References | |
 |  ISOLATION |   | | | |
 |  ISSET |   | | | |
 |  JOIN |   | | | |
 |  JUSTIFY-CONTENT |   | | | |
 |  KBD |   | | | |
 |  LABEL |   | | | |
-|  LAMBDA | used to create an inline, anonymous function (function without a name), without a return statement, consisting of an expression that is evaluated and returned  | | | |
+|  LAMBDA | used to create an inline, anonymous function (function without a name), without a return statement, consisting of an expression that is evaluated and returned  | `python` | Variable Abstractions | |
 |  LAND |   | | | |
 |  LARGE |   | | | |
 |  LAZY |   | | | |
@@ -459,13 +458,13 @@
 |  NO-ETA-EQUALITY | | | | |
 |  NOEXCEPT | | | | |
 |  NOFRAMES | | | | |
-|  NONE |special constant in python that represents the absence of a value or null value | | | |
-|  NONLOCAL |used to declare that a variable inside a nested function (function inside a function) is not local to it, meaning it lies in the outer inclosing function. (similar to the global keyword) | | | |
+|  NONE | special constant in python that represents the absence of a value or null value | `python` | References | |
+|  NONLOCAL |used to declare that a variable inside a nested function (function inside a function) is not local to it, meaning it lies in the outer inclosing function. (similar to the global keyword) | `python` | Variable Abstractions | |
 |  NONMUTATING | | | | |
 |  NONREC | | | | |
 |  NOR | | | | |
 |  NOSCRIPT | | | | |
-|  NOT | | used to invert the truth value | | |
+|  NOT | used to invert the truth value |`Python`| Logical Operators | |
 |  NOT_EQ | | | | |
 |  NOTE | | | | |
 |  NOTIF0 | | | | |
@@ -489,7 +488,7 @@
 |  OPTIMIZE | | | | |
 |  OPTION | | | | |
 |  OPTIONAL | | | | |
-|  OR |will result into True if any the operands are True |   |  | |
+|  OR |will result into True if any the operands are True | `python` | Logical Operators | |
 |  OR_EQ | | | | |
 |  ORDER | | | | |
 |  ORDERBY | | | | |
@@ -521,7 +520,7 @@
 |  PARAM | | | | |
 |  PARAMS | | | | |
 |  PARTIAL | | | | |
-|  PASS | null statement where nothing happens when executed, mainly used as a placeholder| | | |
+|  PASS | null statement where nothing happens when executed, mainly used as a placeholder | `python` | Function Properties | |
 |  PATTERN | | | | |
 |  PERSPECTIVE | | | | |
 |  PERSPECTIVE-ORIGIN | | | | |
@@ -559,7 +558,7 @@
 |  QUOTEGOAL | | | | |
 |  QUOTES | | | | |
 |  QUOTETERM | | | | |
-|  RAISE |to raise an exception explicitly | | | |
+|  RAISE |to raise an exception explicitly | `python `| Exceptions | |
 |  RANGE | | | | |
 |  RCMOS | | | | |
 |  READONLY | | | | |
@@ -583,7 +582,7 @@
 |  RESIZE | | | | |
 |  RETHROWS | | | | |
 |  RETRY | | | | |
-|  RETURN |used inside a function to exit and return a value | | | |
+|  RETURN |used inside a function to exit and return a value | `python` | Function Properties | |
 |  REVIEW | | | | |
 |  REWRITE | | | | |
 |  RIGHT | | | | |
@@ -701,7 +700,7 @@
 |  TRIAND | | | | |
 |  TRIOR | | | | |
 |  TRUE | Boolean logic for what is considered **true** | `python`, `c++`, `c#`, `javascript`, `julia`, `ocaml`, `ruby`, `rust`, `scala`, `swift`,`typescript` | `truth-values` | |
-|  TRY | used with exceptions, where try...except blocks are used to catch exceptions by trying out a set of instructions to see if an exception occur| | | |
+|  TRY | used with exceptions, where try...except blocks are used to catch exceptions by trying out a set of instructions to see if an exception occur| `python` | Exceptions | |
 |  TT | | | | |
 |  TUTORIAL | | | | |
 |  TYPE | | | | |
@@ -754,13 +753,13 @@
 |  WEAK1 | | | | |
 |  WHEN | | | | |
 |  WHERE | | | | |
-|  WHILE |used for looping. The statements inside this type of loop will continue to execute until the condition for the while loop evaluates to FALSE or a break statement is encountered | | | |
+|  WHILE | used for looping. The statements inside this type of loop will continue to execute until the condition for the while loop evaluates to FALSE or a break statement is encountered |`python`| Loops | |
 |  WHITE-SPACE | | | | |
 |  WIDOWS | | | | |
 |  WIDTH | | | | |
 |  WILLSET | | | | |
 |  WIRE | | | | |
-|  WITH |statement used to wrap the execution of a block of code within methods defined by the context manager | | | |
+|  WITH |statement used to wrap the execution of a block of code within methods defined by the context manager | `python` | Function Properties | |
 |  WOR | | | | |
 |  WORD-BREAK | | | | |
 |  WORD-SPACING | | | | |
@@ -770,5 +769,5 @@
 |  XNOR | | | | |
 |  XOR | | | | |
 |  XOR_EQ | | | | |
-|  YIELD |used inside a function like a return statement, however it returns a generator | | | |
+|  YIELD | used inside a function like a return statement, however it returns a generator | `python` | Function Properties | |
 |  Z-INDEX | | | | |
