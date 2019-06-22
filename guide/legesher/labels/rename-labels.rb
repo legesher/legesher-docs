@@ -6,7 +6,7 @@ Octokit.auto_paginate = true
 client = Octokit::Client.new(:access_token => "MY_TOKEN")
 
 repos = [
-  'madiedgar/legesher',
+  'legesher/legesher',
   'legesher/legesher-docs',
   'legesher/legesher-dot-io',
   'legesher/tree-sitter-legesher-python',
@@ -54,9 +54,7 @@ default_labels = {
 }
 
 rename_labels = {
-	# "bug" => "type/bug",
-	# "critical" => "impact/critical",
-	# "enhancement" => "type/enhancement",
+	"Epic" => "Type: Epic"
 }
 
 remove_labels = [
