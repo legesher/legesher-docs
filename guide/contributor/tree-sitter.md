@@ -17,7 +17,20 @@ Here is the list of steps we'll go through in order to setup a new language's tr
 Please refer to the [`Requirements` section in this gist](https://gist.github.com/Aerijo/df27228d70c633e088b0591b8857eeef#requirements) for the most up to date requirements for tree-sitter grammar set-up.
 
 ### Setup
-**Quick Check** _(this is adapted from [@Aerijo's](https://gist.github.com/Aerijo) [tree-sitter_guide](https://gist.github.com/Aerijo/df27228d70c633e088b0591b8857eeef))_
+
+<!-- **Install Tree-Sitter**
+- Make sure you have two versions of Python installed: some version of [Python 2](https://www.python.org/downloads/) and [Python 3](https://www.python.org/downloads/release/python-373/)
+    - Run `python --version` to get the python 2 version number (this must point to version 2)
+    - Run `python3 --version` to get the python 3 version number
+- I used [these instructions](https://evansdianga.com/install-pip-osx/) to get pip installed
+- Securely download get-pip.py by running this command `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+- Run the command `pip3 install tree-sitter` to get tree-sitter on your computer -->
+
+**Install node-gyp**
+-   Follow these instructions to [install node-gyp](https://github.com/nodejs/node-gyp/blob/master/README.md) on your computer.
+-   Install `node-gyp` as a global module by running the `npm install -g node-gyp` command
+
+**Project Check** _(this is adapted from [@Aerijo's](https://gist.github.com/Aerijo) [tree-sitter_guide](https://gist.github.com/Aerijo/df27228d70c633e088b0591b8857eeef))_
 -   Clone the new `tree-sitter-LANGUAGE` grammar repository
 `git clone https://github.com/tree-sitter/tree-sitter-LANGUAGE`
     - _NOTE_: this is the normal convention of the tree-sitter grammars, but as they add more languages their might be exceptions to the naming convention.
@@ -26,7 +39,7 @@ Please refer to the [`Requirements` section in this gist](https://gist.github.co
 -   Add `./node_modules/.bin` to your PATH
     -   _NOTE_: you can check if that is added correctly to your PATH variable by running `echo $PATH`
     -   If you don't add this, prefix all tree-sitter commands with `./node_modules/.bin/`; e.g., `tree-sitter` generate becomes `./node_modules/.bin/tree-sitter generate`
-    -   Windows users need to replace forwards slashes with back slashes.
+    -   Windows users need to replace forwards slashes with back slashes. You can do this by typing `export PATH=./node_modules/.bin:$PATH`.
 -   Run `tree-sitter generate`
 -   Run `node-gyp configure`
 -   Run `node-gyp build`
@@ -52,7 +65,7 @@ Please refer to the [`Requirements` section in this gist](https://gist.github.co
 Alright, so here's where it gets fun! 🎉  This is where we will find all of the keywords / reserved words in the respective programming language and template them out. (would love for this to be abstracted out eventually)
 
 **Getting Keyword List**
--   Navigate to the [`**Legesher**` project](https://github.com/madiedgar/legesher)
+-   Navigate to the [`**Legesher**` project](https://github.com/legesher/legesher)
 -   Within the repository, navigate to `/lib/config/locale/language-template.yml` to see all of the keywords / reserved words for each language
 -   Find the programming language that matches the tree-sitter grammar you're creating
 -   For every word in that list under `# << Keywords >> `, we will go through the tree-sitter grammar repo and template out. (this would be a great idea for automation)
@@ -122,3 +135,6 @@ We'll need to recompile the grammar with the changes we've made.
 _NOTE_: Run `npm run build` to do all of the required steps in one command
 
 We will eventually need to publish the tree-sitter parser to npm, but in the meantime for developing the package and the grammar, you can test it locally using `apm link`.
+
+**Syntax Highlighting**
+Tree-sitter grammars are now using the [`tree-sitter/highlight-schema`](https://github.com/tree-sitter/highlight-schema) JSON repository for their styling in the text editor. This can be found in the `src/highlight.css` and `src/highlight.json` files. 
