@@ -17,7 +17,7 @@
 |  ALIGNOF |   | | | |
 |  ALL |   | | | |
 |  ALWAYS |   | | | |
-|  AND | will result into True only if both the operands are True  | `Python` | Logical Operators |  |
+|  AND | will result into True only if both the operands are True  | `python` | Logical Operators |  |
 |  AND_EQ |   | | | |
 |  ANIMATION |   | | | |
 |  ANIMATION-COUNT |   | | | |
@@ -43,14 +43,14 @@
 |  ASSIGN |   | | | |
 |  ASSOCIATEDTYPE |   | | | |
 |  ASSOCIATIVITY |   | | | |
-|  ASYNC |   | `python`| User Defined Structures | |
+|  ASYNC | coroutine keywords that denote the beginning of an asynchronous function (work in parallel). Usually followed by `await` keyword. | `python`| User Defined Structures | |
 |  ATOMIC_CANCEL |   | | | |
 |  ATOMIC_COMMIT |   | | | |
 |  ATOMIC_NOEXCEPT |   | | | |
 |  AUDIO |   | | | |
 |  AUTO |   | | | |
 |  AVAILABLE |   | | | |
-|  AWAIT |   | `python`| User Defined Structures | |
+|  AWAIT | coroutine keywords that denote the beginning of a promise within an asynchronous function. | `python`| User Defined Structures | There can be as many `await` keywords within a function as needed. |
 |  B |   | | | |
 |  BACKFACE-VISIBILITY |   | | | |
 |  BACKGROUND |   | | | |
@@ -464,7 +464,7 @@
 |  NONREC | | | | |
 |  NOR | | | | |
 |  NOSCRIPT | | | | |
-|  NOT | used to invert the truth value |`Python`| Logical Operators | |
+|  NOT | used to invert the truth value |`python`| Logical Operators | |
 |  NOT_EQ | | | | |
 |  NOTE | | | | |
 |  NOTIF0 | | | | |
