@@ -49,6 +49,7 @@ default_labels = {
   "Priority: Low" => "D1A4FF",
   "Language: English" => "F48370",
   "Language: Spanish" => "F48370",
+  "Language: Ukrainian" => "F48370",
   "Language: Python" => "F48370",
   "Language: Javascript" => "F48370",
 }

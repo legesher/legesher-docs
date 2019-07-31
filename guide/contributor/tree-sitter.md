@@ -137,4 +137,11 @@ _NOTE_: Run `npm run build` to do all of the required steps in one command
 We will eventually need to publish the tree-sitter parser to npm, but in the meantime for developing the package and the grammar, you can test it locally using `apm link`.
 
 **Syntax Highlighting**
-Tree-sitter grammars are now using the [`tree-sitter/highlight-schema`](https://github.com/tree-sitter/highlight-schema) JSON repository for their styling in the text editor. This can be found in the `src/highlight.css` and `src/highlight.json` files. 
+Tree-sitter grammars are now using the [`tree-sitter/highlight-schema`](https://github.com/tree-sitter/highlight-schema) JSON repository for their styling in the text editor. This can be found in the `properties/highlights.css` and `src/highlights.json` files.
+
+### Updating Version
+This tool is available within [npm's package listings](https://www.npmjs.com/package/tree-sitter-legesher-python) and needs to be updated within there. Here are the instructions to follow to update this specific package:
+- Update the package.json file with the next version associated with the type of change (major, minor, or patch).
+- commit that change to the master branch
+- run `npm publish` to update package
+- run `npm install` to use new updated version

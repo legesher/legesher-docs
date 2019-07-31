@@ -71,4 +71,10 @@ A couple of changes must be made when support for a new language is incorporated
      ```
 -   `snippets/`: The snippets folder can contain any number of files, but it is essentially the shortcuts for the language itself when it's being worked on within the editor. This will become more of a priority as Legesher evolves, but in the meantime, we'll keep it as it is. This more depends on the language's translation being accurate for more than just the keywords.
 
--   `spec/`: TESTS TESTS TESTS, we all love testing and making sure everything is working correctly. Go through each of these files and make sure the proper things are templated out. Make sure to also go through the `fixtures/` folder for more tests to template out. 
+-   `spec/`: TESTS TESTS TESTS, we all love testing and making sure everything is working correctly. Go through each of these files and make sure the proper things are templated out. Make sure to also go through the `fixtures/` folder for more tests to template out.
+
+### Testing
+Run the command `apm test` to run the language tests in atom.
+
+### Updating Version
+This tool is available within [Atom's package listings](https://atom.io/packages/language-legesher-python) and needs to be updated within there. Here are the [instructions to follow to update this specific package](https://flight-manual.atom.io/hacking-atom/sections/publishing/).
