@@ -109,10 +109,12 @@ The other logical operators. Each operator has their own truth table:
 - **Definition**: used to define a new user-defined function.  
 
 ### `async`
-- **Definition**:
+- **Definition**: coroutine keywords that denote the beginning of an asynchronous function (work in parallel). Usually followed by `await` keyword.
 
 ### `await`
-- **Definition**:
+- **Definition**: coroutine keywords that denote the beginning of a promise within an asynchronous function.
+
+>**NOTE**: There can be as many `await` keywords within a function as needed.  
 
 ## References
 
