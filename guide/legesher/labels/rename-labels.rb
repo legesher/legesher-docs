@@ -52,6 +52,7 @@ default_labels = {
   "Language: Ukrainian" => "F48370",
   "Language: Python" => "F48370",
   "Language: Javascript" => "F48370",
+  "Language: Ruby" => "#F48370"
 }
 
 rename_labels = {
