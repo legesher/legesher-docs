@@ -55,6 +55,9 @@ default_labels = {
   "Language: Javascript" => "F48370",
   "Hacktoberfest" => "FF00AA",
   "Good First Issue" => "66CCFF"
+  "first-timers-only" => "E9EBF8"
+  "help wanted" => "E9EBF8"
+  "up-for-grabs" => "E9EBF8"
 }
 
 rename_labels = {
@@ -69,7 +72,6 @@ remove_labels = [
 	'wontfix',
 	'question',
 	'invalid',
-	'help wanted',
 	'duplicate',
 	'in progress',
 ]
