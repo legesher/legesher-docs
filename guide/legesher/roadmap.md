@@ -68,6 +68,8 @@ We group labels by color, according to broad themes. Labels are consistent acros
 `Language: Python`: Python programming language  
 `Language: Javascript`: Javascript programming language  
 
+In order to update or add the labels to a new project repository, navigate to `legesher-docs/guide/legesher/labels` and run the command `ruby rename-labels.rb`.
+
 ## Becoming a Part of the Flock
 We love our people and we love empowering them to contribute what they know to push the project forward. We've attempted to make a simple flow for users who want to get more involved, to automate as much of the mundane process as possible.
 
@@ -91,7 +93,7 @@ Epics are described as larger feature goals that are set for the project. Epics 
 For example, one of our current epics include [Preparing for Open Source Release](https://github.com/legesher/legesher/issues/1). On Github it looks like a normal issue with another label, but within the ZenHub project management tool it contains a snapshot of all the issues that are associated with the epic, current status of all of the issues as well as their story point estimations.
 
 This is what it might look like on ZenHub:
-[!ZenHubEpicView](/Users/madisonedgar/GitHub/Legesher/legesher-docs/guide/legesher/ZenHubEpicView.png)
+<img src="/lib/images/ZenHubEpicView.png" align="center"/>
 
 ## Pipelines
 Within the ZenHub Project Management tool, the issues are then organized into pipelines depending on the status of the issue.

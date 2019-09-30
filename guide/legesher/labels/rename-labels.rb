@@ -3,12 +3,14 @@ require 'json'
 
 Octokit.auto_paginate = true
 
-client = Octokit::Client.new(:access_token => "MY_TOKEN")
+# :login => '', :password => ''
+client = Octokit::Client.new()
 
 repos = [
   'legesher/legesher',
   'legesher/legesher-docs',
   'legesher/legesher-dot-io',
+  'legesher/legesher-translations',
   'legesher/tree-sitter-legesher-python',
   'legesher/language-legesher-python',
 ]
@@ -20,7 +22,6 @@ default_labels = {
   "Opportunity: User Experience" => "66CCFF",
   "Opportunity: Data" => "66CCFF",
   "Opportunity: Legal" => "66CCFF",
-  "Opportunity: Great First Issue" => "66CCFF",
   "Opportunity: Technical Beginner" => "66CCFF",
   "Opportunity: Technical Intermediate" => "66CCFF",
   "Opportunity: Technical Advanced" => "66CCFF",
@@ -53,17 +54,19 @@ default_labels = {
   "Language: Python" => "F48370",
   "Language: Javascript" => "F48370",
   "Language: Ruby" => "#F48370"
+  "Hacktoberfest" => "FF00AA",
+  "Good First Issue" => "66CCFF"
 }
 
 rename_labels = {
-	"Epic" => "Type: Epic"
+	# "Epic" => "Type: Epic",
+  "good first issue" => "Good First Issue"
 }
 
 remove_labels = [
   'bug',
   'enhancement',
   'critical',
-  'good first issue',
 	'wontfix',
 	'question',
 	'invalid',
