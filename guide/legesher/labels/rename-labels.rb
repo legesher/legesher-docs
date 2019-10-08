@@ -61,6 +61,8 @@ default_labels = {
   "up-for-grabs" => "E9EBF8"
 }
 
+# new hash for all-contributors contribution labels
+# value set to [] to incorporate both color and description
 all_contributors_labels = {
   "💬Opportunity: Question" => ["66CCFF", "Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc."],
   "🐛 Opportunity: Bug" => ["66CCFF", "Links to issues reported by the user on this project"],
