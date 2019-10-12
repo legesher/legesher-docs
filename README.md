@@ -56,9 +56,9 @@
 <!-- SOCIAL MEDIA -->
 
 # Introduction
-Welcome to the documentation of Legesher. This documentation guide is to serve beginners who are learning how to code :laptop:, developers who are using Legesher to program their projects :woman_technologist:, and any individual (whether tech savy or not) who wants to share their creativity 🎨 and innovation 💡 with this project to propel it forward 🎁.
+Welcome to the documentation of Legesher. This documentation guide is to serve beginners who are learning how to code :laptop:, developers who are using Legesher to program their projects :woman_technologist:, and any individual (whether tech savvy or not) who wants to share their creativity 🎨 and innovation 💡 with this project to propel it forward 🎁.
 
-**`legesher-docs`** :loudspeaker: is the home of the documentation for the entire Legesher project. Currently we update docuementation here and it is then transferred to our public facing site from readme.io: [Legesher.readme.io](https://legesher.readme.io/).
+**`legesher-docs`** :loudspeaker: is the home of the documentation for the entire Legesher project. Currently we update documentation  here and it is then transferred to our public facing site from readme.io: [Legesher.readme.io](https://legesher.readme.io/).
 
 _📢 Check if your native language is available in the [Legesher translation repository](https://github.com/legesher/legesher-translations)! If not, we'd love your help to add it!!_
 
@@ -96,9 +96,9 @@ When you start making changes to the code on your local branch, you'll need to t
 
 # Legesher Projects
 Legesher Developer Tools might be useful to you if:
-- you are a non-native english speaker
+- you are a non-native English speaker
 - you are new to programming
-- you work on a team with non-native english speakers
+- you work on a team with non-native English speakers
 - you are a developer (simple enough)
 
 | Project | Purpose |
@@ -113,6 +113,6 @@ Legesher Developer Tools might be useful to you if:
 
 ## The Community
 A message from our [founder, Madi](https://www.instagram.com/withmadico/):
->It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me, and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
+>It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
 
 Meet our [community](https://github.com/legesher/legesher/tree/master/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much.
