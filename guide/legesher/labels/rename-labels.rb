@@ -144,10 +144,10 @@ repos.each do | repo |
 
 		if existing_label
 			puts 'Updating label %s' % (name)
-			client.update_label(repo, name, {:color => color}, {:description => description})
+			client.update_label(repo, name, options={:color => color, :description => description})
 		else
 			puts 'Adding label %s' % (name)
-			client.add_label(repo, name, {:color => color}, {:description => description})
+			client.add_label(repo, name, color, options={:description => description})
 		end
 	end
 
