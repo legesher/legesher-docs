@@ -21,6 +21,33 @@ We group labels by color, according to broad themes. Labels are consistent acros
 `Opportunity: Technical Beginner`: for those who have little to no technical experience  
 `Opportunity: Technical Intermediate`: for those who have some technical experience  
 `Opportunity: Technical Advanced`: for those who have familiarity with specific issues' technologies
+`💬Opportunity: Question`: Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.  
+`🐛 Opportunity: Bug`: Links to issues reported by the user on this project  
+`📝 Opportunity: Blog`: Links to the blog post  
+`💼 Opportunity: Business`: People who execute on the business end  
+`💻 Opportunity: Code`: Links to commits by the user on this project  
+`🖋 Opportunity: Content`: e.g. website copy, blog posts are separate  
+`📖 Opportunity: Doc`: Links to commits by the user on this project, Wiki, or other source of documentation  
+`🎨 Opportunity: Design`: Links to the logo/iconography/visual design/etc.  
+`💡 Opportunity: Example`: Links to the examples  
+`📋 Opportunity: Event Organizing`: Links to event page  
+`💵 Opportunity: Financial`: People or orgs who provide financial support, links to relevant page  
+`🔍 Opportunity: Funding Finding`: People who help find financial support  
+`🤔 Opportunity: Ideas`: People who help with ideas and planning  
+`🚇 Opportunity: Infra`: Hosting, Build-Tools, etc. Links to source file (like travis.yml) in repo, if applicable  
+`🚧 Opportunity: Maintenance`: People who help in maintaining the repo, links to commits by the user on this project  
+`📦 Opportunity: Platform`: Porting to support a new platform  
+`🔌 Opportunity: Plugin`: Links to the repo home  
+`📆 Opportunity: Project Management`: Aids in the intiating, planning, controlling, and closing of a project  
+`👀 Opportunity: Review`: People who review the repo  
+`🛡️ Opportunity: Security`: Identify and/or reduce security threats, GDPR, Privacy, etc  
+`🔧 Opportunity: Tool`: Links to the repo home  
+`🌍 Opportunity: Translation`: Links to the translated content  
+`⚠️ Opportunity: Test`: Links to commits by the user on this project  
+`✅ Opportunity: Tutorial`: Links to the tutorial  
+`📢 Opportunity: Talk`: Links to the slides/recording/repo/etc  
+`📓 Opportunity: User Testing`: Links to user test notes  
+`📹 Opportunity: Video`: Links to the video  
 
 ### Status Labels
 
