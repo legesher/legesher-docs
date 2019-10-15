@@ -1,33 +1,35 @@
 # Roadmap Breakdown
 
-For any project within the Legesher portfolio or any new project that is added, they will all follow this similar guideline and flow.
+Every project within the Legesher portfolio follows a similar guideline and flow. Here's the inside scoop to understand how everything works together. 👍
+
+<!-- Add table of contents -->
+
+---
+
+# Issues
+
+We rely heavily on our repository issues to inform us of minor bugs, feedback from users, and to host our roadmap. Many of the repositories relate to one another, as do the issues. Keep an eye on our public roadmap to better understand where Legesher is headed.
 
 ## Issue Labels
 
 For issues in any repository, they follow the same conventions in terms of the labels that are available. They follow the same style guide for consistency sake across projects.
 
-We group labels by color, according to broad themes. Labels are consistent across repositories, except for a few repository specific concepts. This is for the purpose of making the process of creating new issues and contributing to any repository in the Legesher portfolio easy and consistent.
+We group labels by color, according to broad categories. In most cases, each issue will assign a label from each category.
+
+Labels are consistent across repositories, except for a few repository specific concepts. This is for the purpose of making the process of creating new issues and contributing to any repository in the Legesher portfolio easy and consistent.
 
 ### Opportunity Labels
 
+Opportunities describe the type of contribution that the issue is requesting. This follows the `all-contributors` description of recognizing all types of contributions.
+
 **Color**: Blue (#66CCFF)  
-`Opportunity: Copy`: for those who want to work on any thing copy-related  
-`Opportunity: Design`: for those who want to work on any thing design-related  
-`Opportunity: Marketing`: for those who want to work on any thing marketing-related  
-`Opportunity: User Experience`: for those who want to work on any thing ux-related  
-`Opportunity: Data`: for those who want to work on any thing data-related  
-`Opportunity: Legal`: for those who want to work on any thing legal-related  
-`Opportunity: Great First Issue`: for those who don't know where to start  
-`Opportunity: Technical Beginner`: for those who have little to no technical experience  
-`Opportunity: Technical Intermediate`: for those who have some technical experience  
-`Opportunity: Technical Advanced`: for those who have familiarity with specific issues' technologies
-`💬Opportunity: Question`: Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.  
+`💬 Opportunity: Question`: Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.  
 `🐛 Opportunity: Bug`: Links to issues reported by the user on this project  
 `📝 Opportunity: Blog`: Links to the blog post  
 `💼 Opportunity: Business`: People who execute on the business end  
 `💻 Opportunity: Code`: Links to commits by the user on this project  
 `🖋 Opportunity: Content`: e.g. website copy, blog posts are separate  
-`📖 Opportunity: Doc`: Links to commits by the user on this project, Wiki, or other source of documentation  
+`📖 Opportunity: Documentation`: Links to commits by the user on this project, Wiki, or other source of documentation  
 `🎨 Opportunity: Design`: Links to the logo/iconography/visual design/etc.  
 `💡 Opportunity: Example`: Links to the examples  
 `📋 Opportunity: Event Organizing`: Links to event page  
@@ -47,13 +49,13 @@ We group labels by color, according to broad themes. Labels are consistent acros
 `✅ Opportunity: Tutorial`: Links to the tutorial  
 `📢 Opportunity: Talk`: Links to the slides/recording/repo/etc  
 `📓 Opportunity: User Testing`: Links to user test notes  
-`📹 Opportunity: Video`: Links to the video  
+`📹 Opportunity: Video`: Links to the video
 
 ### Status Labels
 
 **Color**: Yellow (#E9FF70)  
-`Status: Available`: the issue is available for sprint cleaning and delegation  
-`Status: Accepted`: the issue is accepted into an upcoming sprint  
+`Status: Available`: the issue has been through sprint cleaning is available for delegation  
+`Status: Accepted`: the issue has been accepted by development team to be completed in the upcoming sprint  
 **Color**: Light Orange (#FFD670)  
 `Status: In Progress`: the issue is currently a work in progress  
 `Status: On Hold`: the issue has been placed on hold  
@@ -64,22 +66,15 @@ We group labels by color, according to broad themes. Labels are consistent acros
 `Status: Revision Needed`:the issue needs further revision before placed in review  
 **Color**: Green (#70FF74)  
 `Status: Completed`: the issue has been completed  
-**Color**: Grey (#)  
+**Color**: Grey (#CFD3D7)  
 `Status: Abandoned`: the issue has been abandoned, may revisit at a later time
 
 ### Type Labels
 
-**Color**: Coral (#F48370)  
+**Color**: Coral (#FF70A6)  
 `Type: Bug`: this issue is a bug related fix/issue  
 `Type: Epic`: this issue is a larger snapshot of a feature  
-`Type: Duplicate`: this issue has already been mentioned elsewhere  
-`Type: Enhancement`: this issue is a special enhancement of the project  
-`Type: Translation`: this issue is related to translation  
-`Type: Documentation`: this issue is documentation related  
-`Type: Optimization`: this issue is to improve optimization  
-`Type: Maintenance`: this issue is for maintenance  
-`Type: Question`: this issue is a question  
-`Type: Feedback & Discussion`: this issue is marked for discussion
+`Type: Duplicate`: this issue has already been mentioned elsewhere
 
 ### Priority Labels
 
@@ -89,28 +84,48 @@ We group labels by color, according to broad themes. Labels are consistent acros
 `Priority: Medium`: this issue's resolution has a flexible or extended deadline  
 `Priority: Low`: this issue's resolution is non-immediate
 
-### Spoken Language Labels
+### Dialect Labels
 
-**Color**: Coral (#FF70A6)
-`Language: English`: English spoken language  
-`Language: Spanish`: Spanish spoken language
+**Color**: Dark Pink (#CD5A86)
+`Dialect: English`: English spoken language  
+`Dialect: French`: French spoken language
+`Dialect: German`: German spoken language
+`Dialect: Spanish`: Spanish spoken language
+`Dialect: Italian`: Italian spoken language
+`Dialect: Polish`: Polish spoken language
+`Dialect: Portuguese`: Portuguese spoken language
+`Dialect: Russian`: Russian spoken language
+`Dialect: Ukrainian`: Ukrainian spoken language
 
 ### Programming Language Labels
 
 **Color**: Coral (#FF70A6)
 `Language: Python`: Python programming language  
 `Language: Javascript`: Javascript programming language
+`Language: HTML/CSS`: HTML/CSS programming language
+`Language: Ruby`: Ruby programming language
+
+### Technical Experience
+
+**Color**: Teal (#2EC4B6)
+`Technical Experience: None`: Issue that does not require a technical background
+`Technical Experience: Beginner`: Issue that requires a beginner technical background
+`Technical Experience: Intermediate`: Issue that requires an intermediate technical background
+`Technical Experience: Advanced`: Issue that requires an advanced technical background
 
 ### Universal Labels
 
-**Color**: Soft Blue (#E9EBF8)
+**Color**: Grey (#E9EBF8)
 `first-timers-only`: Issues that welcome first-time contributors!
 `up-for-grabs`: Indicates the issue still needs an owner.
 `help wanted`: Indicates we want help on an issue or pull request.
+`good first issue`: Indicates the issue is great for beginners to open source / legesher
 
-In order to update or add the labels to a new project repository, navigate to `legesher-docs/guide/legesher/labels` and run the command `ruby rename-labels.rb`.
+## Label Templates
 
-## Becoming a Part of the Flock
+In order to update or add the labels to a new project repository, navigate to `legesher-docs/guide/legesher/labels` and run the command `ruby legesher-issue-labels.rb`.
+
+# Becoming a Part of the Flock
 
 We love our people and we love empowering them to contribute what they know to push the project forward. We've attempted to make a simple flow for users who want to get more involved, to automate as much of the mundane process as possible.
 
