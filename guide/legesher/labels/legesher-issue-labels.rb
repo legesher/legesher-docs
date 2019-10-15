@@ -6,6 +6,8 @@ Octokit.auto_paginate = true
 # :login => '', :password => ''
 client = Octokit::Client.new()
 
+# list of all the repositories in the legesher organization
+# NOTE: please additional repositories of the legeesher organization if not found here
 repos = [
   'legesher/legesher',
   'legesher/legesher-docs',
@@ -13,18 +15,15 @@ repos = [
   'legesher/legesher-translations',
   'legesher/tree-sitter-legesher-python',
   'legesher/language-legesher-python',
+  'legesher/legesher-pride',
 ]
 
+# labels that best explain the types of issues and the content within them
 default_labels = {
-  "Opportunity: Copy" => "66CCFF",
-  "Opportunity: Design" => "66CCFF",
-  "Opportunity: Marketing" => "66CCFF",
-  "Opportunity: User Experience" => "66CCFF",
-  "Opportunity: Data" => "66CCFF",
-  "Opportunity: Legal" => "66CCFF",
-  "Opportunity: Technical Beginner" => "66CCFF",
-  "Opportunity: Technical Intermediate" => "66CCFF",
-  "Opportunity: Technical Advanced" => "66CCFF",
+  "Technical Experience: None" => "2EC4B6",
+  "Technical Experience: Beginner" => "2EC4B6",
+  "Technical Experience: Intermediate" => "2EC4B6",
+  "Technical Experience: Advanced" => "2EC4B6",
   "Status: Available" => "E9FF70",
   "Status: Accepted" => "E9FF70",
   "Status: In Progress" => "FFD670",
@@ -37,40 +36,40 @@ default_labels = {
 	"Type: Bug" => "FF70A6",
   "Type: Epic" => "FF70A6",
   "Type: Duplicate" => "FF70A6",
-  "Type: Enhancement" => "FF70A6",
-  "Type: Translation" => "FF70A6",
-  "Type: Documentation" => "FF70A6",
-  "Type: Optimization" => "FF70A6",
-  "Type: Maintenance" => "FF70A6",
-  "Type: Question" => "FF70A6",
-  "Type: Feedback & Discussion" => "FF70A6",
   "Priority: Critical" => "D1A4FF",
   "Priority: High" => "D1A4FF",
   "Priority: Medium" => "D1A4FF",
   "Priority: Low" => "D1A4FF",
-  "Language: English" => "F48370",
-  "Language: Spanish" => "F48370",
-  "Language: Ukrainian" => "F48370",
   "Language: Python" => "F48370",
   "Language: Javascript" => "F48370",
-  "Language: Ruby" => "#F48370"
+  "Language: Ruby" => "F48370",
+  "Language: HTML/CSS" => "F48370",
+  "Dialect: English" => "CD5A86",
+  "Dialect: French" => "CD5A86",
+  "Dialect: German" => "CD5A86",
+  "Dialect: Spanish" => "CD5A86",
+  "Dialect: Italian" => "CD5A86",
+  "Dialect: Polish" => "CD5A86",
+  "Dialect: Portuguese" => "CD5A86",
+  "Dialect: Russian" => "CD5A86",
+  "Dialect: Ukrainian" => "CD5A86",
   "Hacktoberfest" => "FF00AA",
-  "Good First Issue" => "66CCFF"
-  "first-timers-only" => "E9EBF8"
-  "help wanted" => "E9EBF8"
-  "up-for-grabs" => "E9EBF8"
+  "help wanted" => "E9EBF8",
+  "good first issue" => "E9EBF8",
+  "first-timers-only" => "E9EBF8",
+  "up-for-grabs" => "E9EBF8",
 }
 
 # new hash for all-contributors contribution labels
 # value set to [] to incorporate both color and description
 all_contributors_labels = {
-  "💬Opportunity: Question" => ["66CCFF", "Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc."],
+  "💬 Opportunity: Question" => ["66CCFF", "Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc."],
   "🐛 Opportunity: Bug" => ["66CCFF", "Links to issues reported by the user on this project"],
   "📝 Opportunity: Blog" => ["66CCFF", "Links to the blog post"],
   "💼 Opportunity: Business" => ["66CCFF", "People who execute on the business end"],
   "💻 Opportunity: Code" => ["66CCFF", "Links to commits by the user on this project"],
   "🖋 Opportunity: Content" => ["66CCFF", "e.g. website copy, blog posts are separate"],
-  "📖 Opportunity: Doc" => ["66CCFF", "Links to commits by the user on this project, Wiki, or other source of documentation"],
+  "📖 Opportunity: Documentation" => ["66CCFF", "Links to commits by the user on this project, Wiki, or other source of documentation"],
   "🎨 Opportunity: Design" => ["66CCFF", "Links to the logo/iconography/visual design/etc."],
   "💡 Opportunity: Example" => ["66CCFF", "Links to the examples"],
   "📋 Opportunity: Event Organizing" => ["66CCFF", "Links to event page"],
@@ -93,19 +92,21 @@ all_contributors_labels = {
   "📹 Opportunity: Video" => ["66CCFF", "Links to the video"]
 }
 
-rename_labels = {
-	# "Epic" => "Type: Epic",
-  "good first issue" => "Good First Issue"
-}
+# for any labels that need to be renamed
+rename_labels = {}
 
+# delete the following default labels
+# typically only applicable for a new repository
 remove_labels = [
   'bug',
+  "Epic",
   'enhancement',
   'critical',
 	'wontfix',
 	'question',
 	'invalid',
 	'duplicate',
+  'documentation',
 	'in progress',
 ]
 
