@@ -77,7 +77,7 @@
 |  BLOCKQUOTE |   | | | |
 |  BODY |   | | | |
 |  BOOL |   | | | |
-|  BOOLEAN | A binary value commonly used to denote 'true' or 'false' | 'java' | 'trusth-values' | |
+|  BOOLEAN | A binary value commonly used to denote 'true' or 'false' | 'java' | 'truth-values' | |
 |  BORDER |   | | | |
 |  BORDER-BOTTOM |   | | | |
 |  BORDER-COLLAPSE |   | | | |
