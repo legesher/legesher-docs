@@ -49,6 +49,7 @@ default_labels = {
   "Dialect: German" => "CD5A86",
   "Dialect: Spanish" => "CD5A86",
   "Dialect: Italian" => "CD5A86",
+  "Dialect: Hebrew" => "CD5A86",
   "Dialect: Polish" => "CD5A86",
   "Dialect: Portuguese" => "CD5A86",
   "Dialect: Russian" => "CD5A86",
