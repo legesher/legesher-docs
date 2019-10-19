@@ -38,6 +38,7 @@ Opportunities describe the type of contribution that the issue is requesting. Th
 `🤔 Opportunity: Ideas`: People who help with ideas and planning  
 `🚇 Opportunity: Infra`: Hosting, Build-Tools, etc. Links to source file (like travis.yml) in repo, if applicable  
 `🚧 Opportunity: Maintenance`: People who help in maintaining the repo, links to commits by the user on this project  
+`💌 Opportunity: Marketing` : People who help in marketing the repo/project
 `📦 Opportunity: Platform`: Porting to support a new platform  
 `🔌 Opportunity: Plugin`: Links to the repo home  
 `📆 Opportunity: Project Management`: Aids in the intiating, planning, controlling, and closing of a project  
