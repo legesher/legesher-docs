@@ -64,6 +64,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ns61817",
+      "name": "NS61817",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3475873?v=4",
+      "profile": "https://github.com/ns61817",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
