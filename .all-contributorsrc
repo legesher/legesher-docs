@@ -101,6 +101,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "joelibaceta",
+      "name": "Joel Ibaceta",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/864790?v=4",
+      "profile": "https://joelibaceta.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
