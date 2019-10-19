@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-docs/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-docs?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-1-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-12-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
@@ -147,6 +147,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/DominiqueFlabbi"><img src="https://avatars1.githubusercontent.com/u/16126059?v=4" width="100px;" alt="Dominique Flabbi"/><br /><sub><b>Dominique Flabbi</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=DominiqueFlabbi" title="Documentation">📖</a></td>
     <td align="center"><a href="https://joelibaceta.github.io"><img src="https://avatars1.githubusercontent.com/u/864790?v=4" width="100px;" alt="Joel Ibaceta"/><br /><sub><b>Joel Ibaceta</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=joelibaceta" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/razanjoshi"><img src="https://avatars3.githubusercontent.com/u/4223130?v=4" width="100px;" alt="Razan Joshi"/><br /><sub><b>Razan Joshi</b></sub></a><br /><a href="#marketing-razanjoshi" title="Marketing - People who help in marketing the repo/project">💌</a></td>
+    <td align="center"><a href="https://github.com/fabio08"><img src="https://avatars3.githubusercontent.com/u/56138795?v=4" width="100px;" alt="Fábio Almeida"/><br /><sub><b>Fábio Almeida</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=fabio08" title="Documentation">📖</a></td>
   </tr>
 </table>
 

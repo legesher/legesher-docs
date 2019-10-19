@@ -126,6 +126,15 @@
       "contributions": [
         "marketing"
       ]
+    },
+    {
+      "login": "fabio08",
+      "name": "Fábio Almeida",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56138795?v=4",
+      "profile": "https://github.com/fabio08",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
