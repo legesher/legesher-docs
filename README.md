@@ -143,6 +143,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Mark-C-Hall"><img src="https://avatars0.githubusercontent.com/u/43194528?v=4" width="100px;" alt="Mark Hall"/><br /><sub><b>Mark Hall</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=Mark-C-Hall" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/rajnish4unow"><img src="https://avatars3.githubusercontent.com/u/1587017?v=4" width="100px;" alt="Rajnish Kumar"/><br /><sub><b>Rajnish Kumar</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=rajnish4unow" title="Documentation">📖</a></td>
   </tr>
 </table>
 
