@@ -146,6 +146,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/rajnish4unow"><img src="https://avatars3.githubusercontent.com/u/1587017?v=4" width="100px;" alt="Rajnish Kumar"/><br /><sub><b>Rajnish Kumar</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=rajnish4unow" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DominiqueFlabbi"><img src="https://avatars1.githubusercontent.com/u/16126059?v=4" width="100px;" alt="Dominique Flabbi"/><br /><sub><b>Dominique Flabbi</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=DominiqueFlabbi" title="Documentation">📖</a></td>
     <td align="center"><a href="https://joelibaceta.github.io"><img src="https://avatars1.githubusercontent.com/u/864790?v=4" width="100px;" alt="Joel Ibaceta"/><br /><sub><b>Joel Ibaceta</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=joelibaceta" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/razanjoshi"><img src="https://avatars3.githubusercontent.com/u/4223130?v=4" width="100px;" alt="Razan Joshi"/><br /><sub><b>Razan Joshi</b></sub></a><br /><a href="#marketing-razanjoshi" title="Marketing - People who help in marketing the repo/project">💌</a></td>
   </tr>
 </table>
 

@@ -7,11 +7,9 @@
     "README.md"
   ],
   "types": {
-    "marketing":
-    {
+    "marketing": {
       "symbol": "💌",
-      "description": "Marketing - People who help in marketing the repo/project",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+      "description": "Marketing - People who help in marketing the repo/project"
     }
   },
   "imageSize": 100,
@@ -118,6 +116,15 @@
       "profile": "https://joelibaceta.github.io",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "razanjoshi",
+      "name": "Razan Joshi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4223130?v=4",
+      "profile": "https://github.com/razanjoshi",
+      "contributions": [
+        "marketing"
       ]
     }
   ],
