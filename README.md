@@ -137,7 +137,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/ChristinaPfaff"><img src="https://avatars3.githubusercontent.com/u/40329912?v=4" width="100px;" alt="Christina Pfaff"/><br /><sub><b>Christina Pfaff</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=ChristinaPfaff" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/blakecarson"><img src="https://avatars3.githubusercontent.com/u/40526625?v=4" width="100px;" alt="Blake Carson"/><br /><sub><b>Blake Carson</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=blakecarson" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.toricodes.com"><img src="https://avatars1.githubusercontent.com/u/37308853?v=4" width="100px;" alt="Victoria Fluharty"/><br /><sub><b>Victoria Fluharty</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=torianne02" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4" width="100px;" alt="Charles Bergeron"/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#ideas-charberg" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4" width="100px;" alt="Charles Bergeron"/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#ideas-charberg" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/madiedgar/legesher-docs/commits?author=charberg" title="Documentation">📖</a></td>
   </tr>
 </table>
 
