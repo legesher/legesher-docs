@@ -135,6 +135,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/ChristinaPfaff"><img src="https://avatars3.githubusercontent.com/u/40329912?v=4" width="100px;" alt="Christina Pfaff"/><br /><sub><b>Christina Pfaff</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=ChristinaPfaff" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/blakecarson"><img src="https://avatars3.githubusercontent.com/u/40526625?v=4" width="100px;" alt="Blake Carson"/><br /><sub><b>Blake Carson</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=blakecarson" title="Documentation">📖</a></td>
   </tr>
 </table>
 
