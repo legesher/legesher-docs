@@ -245,6 +245,7 @@ all_contributors_labels = {
   "🤔 Opportunity: Ideas" => ["66CCFF", "People who help with ideas and planning"],
   "🚇 Opportunity: Infra" => ["66CCFF", "Hosting, Build-Tools, etc. Links to source file (like travis.yml) in repo, if applicable"],
   "🚧 Opportunity: Maintenance" => ["66CCFF", "People who help in maintaining the repo, links to commits by the user on this project"],
+  "💌 Opportunity: Marketing" => ["66CCFF", "People who help in marketing the repo/project"],
   "📦 Opportunity: Platform" => ["66CCFF", "Porting to support a new platform"],
   "🔌 Opportunity: Plugin" => ["66CCFF", "Links to the repo home"],
   "📆 Opportunity: Project Management" => ["66CCFF", "Aids in the intiating, planning, controlling, and closing of a project"],
