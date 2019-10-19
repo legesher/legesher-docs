@@ -73,6 +73,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Mark-C-Hall",
+      "name": "Mark Hall",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43194528?v=4",
+      "profile": "https://github.com/Mark-C-Hall",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7

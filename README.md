@@ -141,6 +141,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/jgtiu"><img src="https://avatars2.githubusercontent.com/u/33926951?v=4" width="100px;" alt="jess"/><br /><sub><b>jess</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=jgtiu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ns61817"><img src="https://avatars2.githubusercontent.com/u/3475873?v=4" width="100px;" alt="NS61817"/><br /><sub><b>NS61817</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/issues?q=author%3Ans61817" title="Bug reports">🐛</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Mark-C-Hall"><img src="https://avatars0.githubusercontent.com/u/43194528?v=4" width="100px;" alt="Mark Hall"/><br /><sub><b>Mark Hall</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-docs/commits?author=Mark-C-Hall" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
