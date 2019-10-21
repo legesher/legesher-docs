@@ -1,6 +1,6 @@
 {
   "projectName": "legesher-docs",
-  "projectOwner": "madiedgar",
+  "projectOwner": "legesher",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -132,6 +132,15 @@
       "name": "Fábio Almeida",
       "avatar_url": "https://avatars3.githubusercontent.com/u/56138795?v=4",
       "profile": "https://github.com/fabio08",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "tawhk",
+      "name": "Gustavo J. Acosta",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18006017?v=4",
+      "profile": "https://github.com/tawhk",
       "contributions": [
         "doc"
       ]
