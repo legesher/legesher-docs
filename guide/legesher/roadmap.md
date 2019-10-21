@@ -97,6 +97,171 @@ Opportunities describe the type of contribution that the issue is requesting. Th
 `Dialect: Portuguese`: Portuguese spoken language
 `Dialect: Russian`: Russian spoken language
 `Dialect: Ukrainian`: Ukrainian spoken language
+`Dialect: Afar` : Afar spoken language
+`Dialect: Abkhazian` : Abkhazian spoken language
+`Dialect: Afrikaans` : Afrikaans spoken language
+`Dialect: Akan` : Akan spoken language
+`Dialect: Amharic` : Amharic spoken language
+`Dialect: Aragonese` : Aragonese spoken language
+`Dialect: Arabic` : Arabic spoken language
+`Dialect: Assamese` : Assamese spoken language
+`Dialect: Avar` : Avar spoken language
+`Dialect: Aymara` : Aymara spoken language
+`Dialect: Azerbaijani` : Azerbaijani spoken language
+`Dialect: Chechen` : Chechen spoken language
+`Dialect: Bashkir` : Bashkir spoken language
+`Dialect: Belarusian` : Belarusian spoken language
+`Dialect: Bulgarian` : Bulgarian spoken language
+`Dialect: Bihari` : Bihari spoken language
+`Dialect: Bislama` : Bislama spoken language
+`Dialect: Bambara` : Bambara spoken language
+`Dialect: Bengali` : Bengali spoken language
+`Dialect: Tibetan` : Tibetan spoken language
+`Dialect: Breton` : Breton spoken language
+`Dialect: Bosnian` : Bosnian spoken language
+`Dialect: Catalan` : Catalan spoken language
+`Dialect: Chamorro` : Chamorro spoken language
+`Dialect: Corsican` : Corsican spoken language
+`Dialect: Cree` : Cree spoken language
+`Dialect: Czech` : Czech spoken language
+`Dialect: Old Church Slavonic / Old Bulgarian` : Old Church Slavonic / Old Bulgarian spoken language
+`Dialect: Chuvash` : Chuvash spoken language
+`Dialect: Welsh` : Welsh spoken language
+`Dialect: Danish` : Danish spoken language
+`Dialect: Divehi` : Divehi spoken language
+`Dialect: Dzongkha` : Dzongkha spoken language
+`Dialect: Ewe` : Ewe spoken language
+`Dialect: Esperanto` : Esperanto spoken language
+`Dialect: Estonian` : Estonian spoken language
+`Dialect: Basque` : Basque spoken language
+`Dialect: Peul` : Peul spoken language
+`Dialect: Finnish` : Finnish spoken language
+`Dialect: Fijian` : Fijian spoken language
+`Dialect: Faroese` : Faroese spoken language
+`Dialect: West Frisian` : West Frisian spoken language
+`Dialect: Irish` : Irish spoken language
+`Dialect: Galician` : Galician spoken language
+`Dialect: Guarani` : Guarani spoken language
+`Dialect: Manx` : Manx spoken language
+`Dialect: Hausa` : Hausa spoken language
+`Dialect: Hebrew` : Hebrew spoken language
+`Dialect: Hindi` : Hindi spoken language
+`Dialect: Hiri Motu` : Hiri Motu spoken language
+`Dialect: Haitian` : Haitian spoken language
+`Dialect: Hungarian` : Hungarian spoken language
+`Dialect: Armenian` : Armenian spoken language
+`Dialect: Croatian` : Croatian spoken language
+`Dialect: Herero` : Herero spoken language
+`Dialect: Interlingua` : Interlingua spoken language
+`Dialect: Indonesian` : Indonesian spoken language
+`Dialect: Interlingue` : Interlingue spoken language
+`Dialect: Igbo` : Igbo spoken language
+`Dialect: Sichuan Yi` : Sichuan Yi spoken language
+`Dialect: Inupiak` : Inupiak spoken language
+`Dialect: Ido` : Ido spoken language
+`Dialect: Icelandic` : Icelandic spoken language
+`Dialect: Inuktitut` : Inuktitut spoken language
+`Dialect: Japanese` : Japanese spoken language
+`Dialect: Javanese` : Javanese spoken language
+`Dialect: Georgian` : Georgian spoken language
+`Dialect: Kongo` : sKongo poken language
+`Dialect: Kikuyu` : Kikuyu spoken language
+`Dialect: Kuanyama` : Kuanyama spoken language
+`Dialect: Kazakh` : Kazakh spoken language
+`Dialect: Greenlandic` : Greenlandic spoken language
+`Dialect: Cambodian` : Cambodian spoken language
+`Dialect: Kannada` : Kannada spoken language
+`Dialect: Korean` : Korean spoken language
+`Dialect: Kanuri` : Kanuri spoken language
+`Dialect: Kashmiri` : Kashmiri spoken language
+`Dialect: Kurdish` : Kurdish spoken language
+`Dialect: Komi` : Komi spoken language
+`Dialect: Cornish` : Cornish spoken language
+`Dialect: Kirghiz` : Kirghiz spoken language
+`Dialect: Latin` : Latin spoken language
+`Dialect: Luxembourgish` : Luxembourgish spoken language
+`Dialect: Ganda` : Ganda spoken language
+`Dialect: Limburgian` : Limburgian spoken language
+`Dialect: Laotian` : Laotian spoken language
+`Dialect: Lithuanian` : Lithuanian spoken language
+`Dialect: Latvian` : Latvian spoken language
+`Dialect: Malagasy` : Malagasy spoken language
+`Dialect: Marshallese` :Marshallese spoken language
+`Dialect: Maori` : Maori spoken language
+`Dialect: Malayalam` : Malayalam spoken language
+`Dialect: Mongolian` : Mongolian spoken language
+`Dialect: Moldovan` : Moldovan spoken language
+`Dialect: Marathi` : Marathi spoken language
+`Dialect: Malay` : Malay spoken language
+`Dialect: Maltese` : Maltese spoken language
+`Dialect: Burmese` : Burmese spoken language
+`Dialect: Nauruan` : Nauruan spoken language
+`Dialect: North Ndebele` : North Ndebele spoken language
+`Dialect: Nepali` : Nepali spoken language
+`Dialect: Ndonga` : Ndonga spoken language
+`Dialect: Dutch` : Dutch spoken language
+`Dialect: Norwegian Nynorsk` : Norwegian Nynorsk spoken language
+`Dialect: Norwegian` : Norwegian spoken language
+`Dialect: South Ndebele` : South Ndebele spoken language
+`Dialect: Navajo` : Navajo spoken language
+`Dialect: Chichewa` : Chichewa spoken language
+`Dialect: Occitan` : Occitan spoken language
+`Dialect: Ojibwa` : Ojibwa spoken language
+`Dialect: Oromo` : Oromo spoken language
+`Dialect: Oriya` : Oriya spoken language
+`Dialect: Ossetian / Ossetic` : Ossetian / Ossetic spoken language
+`Dialect: Panjabi / Punjabi` : Panjabi / Punjabi spoken language
+`Dialect: Pali` : Pali spoken language
+`Dialect: Pashto` : Pashto spoken language
+`Dialect: Quechua` : Quechua spoken language
+`Dialect: Raeto Romance` : Raeto Romance spoken language
+`Dialect: Kirundi` : Kirundi spoken language
+`Dialect: Romanian` : Romanian spoken language
+`Dialect: Rwandi` : Rwandi spoken language
+`Dialect: Sanskrit` : Sanskrit spoken language
+`Dialect: Sardinian` : Sardinian spoken language
+`Dialect: Sindhi` : Sindhi spoken language
+`Dialect: Northern Sami` : Northern Sami spoken language
+`Dialect: Sango` : Sango spoken language
+`Dialect: Serbo-Croatian` : Serbo-Croatian spoken language
+`Dialect: Sinhalese` : Sinhalese spoken language
+`Dialect: Slovak` : Slovak spoken language
+`Dialect: Slovenian` : Slovenian spoken language
+`Dialect: Samoan` : Samoan spoken language
+`Dialect: Shona` : Shona spoken language
+`Dialect: Somalia` : Somalia spoken language
+`Dialect: Albanian` : Albanian spoken language
+`Dialect: Serbian` : Serbian spoken language
+`Dialect: Swati` : Swati spoken language
+`Dialect: Southern Sotho` : Southern Sotho spoken language
+`Dialect: Sundanese` : Sundanese spoken language
+`Dialect: Swedish` : Swedish spoken language
+`Dialect: Swahili` : Swahili spoken language
+`Dialect: Tamil` : Tamil spoken language
+`Dialect: Telugu` : Telugu spoken language
+`Dialect: Tajik` : Tajik spoken language
+`Dialect: Thai` : Thai spoken language
+`Dialect: Tigrinya` : Tigrinya spoken language
+`Dialect: Turkmen` : Turkmen spoken language
+`Dialect: Tagalog` : Tagalog spoken language
+`Dialect: Tswana` : Tswana spoken language
+`Dialect: Tonga` : Tonga spoken language
+`Dialect: Turkish` : Turkish spoken language
+`Dialect: Tsonga` : Tsonga spoken language
+`Dialect: Tatar` : Tatar spoken language
+`Dialect: Twi` : Twi spoken language
+`Dialect: Tahitian` : Tahitian spoken language
+`Dialect: Uyghur` : Uyghur spoken language
+`Dialect: Urdu` : Urdu spoken language
+`Dialect: Uzbek` : Uzbek spoken language
+`Dialect: Venda` : Venda spoken language
+`Dialect: Vietnamese` : Vietnamese spoken language
+`Dialect: Wolof` : Wolof spoken language
+`Dialect: Xhosa` : Xhosa spoken language
+`Dialect: Yiddish` : Yiddish spoken language
+`Dialect: Yoruba` : Yoruba spoken language
+`Dialect: Zhuang` : Zhuang spoken language
+`Dialect: Chinese` : Chinese spoken language
 
 ### Programming Language Labels
 
