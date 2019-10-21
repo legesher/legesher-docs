@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-docs/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-docs?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-13-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-16-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
@@ -136,7 +136,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/ChristinaPfaff"><img src="https://avatars3.githubusercontent.com/u/40329912?v=4" width="100px;" alt="Christina Pfaff"/><br /><sub><b>Christina Pfaff</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=ChristinaPfaff" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/blakecarson"><img src="https://avatars3.githubusercontent.com/u/40526625?v=4" width="100px;" alt="Blake Carson"/><br /><sub><b>Blake Carson</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=blakecarson" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.toricodes.com"><img src="https://avatars1.githubusercontent.com/u/37308853?v=4" width="100px;" alt="Victoria Fluharty"/><br /><sub><b>Victoria Fluharty</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=torianne02" title="Code">💻</a> <a href="https://github.com/legesher/legesher-docs/commits?author=torianne02" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4" width="100px;" alt="Charles Bergeron"/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#ideas-charberg" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/legesher/legesher-docs/commits?author=charberg" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4" width="100px;" alt="Charles Bergeron"/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#ideas-charberg" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/legesher/legesher-docs/commits?author=charberg" title="Documentation">📖</a> <a href="https://github.com/legesher/legesher-docs/commits?author=charberg" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jgtiu"><img src="https://avatars2.githubusercontent.com/u/33926951?v=4" width="100px;" alt="jess"/><br /><sub><b>jess</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=jgtiu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ns61817"><img src="https://avatars2.githubusercontent.com/u/3475873?v=4" width="100px;" alt="NS61817"/><br /><sub><b>NS61817</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/issues?q=author%3Ans61817" title="Bug reports">🐛</a></td>
   </tr>
@@ -148,6 +148,8 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/razanjoshi"><img src="https://avatars3.githubusercontent.com/u/4223130?v=4" width="100px;" alt="Razan Joshi"/><br /><sub><b>Razan Joshi</b></sub></a><br /><a href="#marketing-razanjoshi" title="Marketing - People who help in marketing the repo/project">💌</a></td>
     <td align="center"><a href="https://github.com/fabio08"><img src="https://avatars3.githubusercontent.com/u/56138795?v=4" width="100px;" alt="Fábio Almeida"/><br /><sub><b>Fábio Almeida</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=fabio08" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/MHalseyPerry"><img src="https://avatars0.githubusercontent.com/u/14953518?v=4" width="100px;" alt="Milo Halsey-Perry"/><br /><sub><b>Milo Halsey-Perry</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=MHalseyPerry" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/tawhk"><img src="https://avatars0.githubusercontent.com/u/18006017?v=4" width="100px;" alt="Gustavo J. Acosta"/><br /><sub><b>Gustavo J. Acosta</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=tawhk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ewelinasobora"><img src="https://avatars2.githubusercontent.com/u/11948354?v=4" width="100px;" alt="Ewelina Sobora"/><br /><sub><b>Ewelina Sobora</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=ewelinasobora" title="Documentation">📖</a></td>
   </tr>
