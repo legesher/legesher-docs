@@ -100,7 +100,7 @@ Opportunities describe the type of contribution that the issue is requesting. Th
 
 ### Programming Language Labels
 
-**Color**: Coral (#FF70A6)
+**Color**: Coral (#F48370)
 `Language: Python`: Python programming language  
 `Language: Javascript`: Javascript programming language
 `Language: HTML/CSS`: HTML/CSS programming language
