@@ -144,6 +144,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "tawhk",
+      "name": "Gustavo J. Acosta",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18006017?v=4",
+      "profile": "https://github.com/tawhk",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ewelinasobora",
+      "name": "Ewelina Sobora",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11948354?v=4",
+      "profile": "https://github.com/ewelinasobora",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
