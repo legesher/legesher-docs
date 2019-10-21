@@ -44,9 +44,7 @@ def writeLanguageColumn(target_file, lang_dict):
         keyword = cols[1].strip().upper()
         if keyword in lang_dict and len(lang_dict[keyword]) > 0:
             cols[3] = " " + (", ").join(lang_dict[keyword]) + " "
-        #print("|" + "|".join(cols), end='') #Write line to file
         print("|".join(cols), end='') #Write line to file
-        #print("TEST")
 
 
 if __name__== "__main__":
