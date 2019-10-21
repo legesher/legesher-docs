@@ -77,7 +77,7 @@
 |  BLOCKQUOTE |   | | | |
 |  BODY |   | | | |
 |  BOOL |   | | | |
-|  BOOLEAN |   | | | |
+|  BOOLEAN | A binary value commonly used to denote 'true' or 'false' | 'java' | 'truth-values' | |
 |  BORDER |   | | | |
 |  BORDER-BOTTOM |   | | | |
 |  BORDER-COLLAPSE |   | | | |
@@ -122,7 +122,7 @@
 |  CATCH |   | | | |
 |  CENTER |   | | | |
 |  CHAN |   | | | |
-|  CHAR |   | | | |
+|  CHAR | shorthand for 'character'. Char size can be encoding dependent.  | |  | |
 |  CHAR16_T |   | | | |
 |  CHAR32_T |   | | | |
 |  CHECKED |   | | | |
@@ -131,7 +131,7 @@
 |  CLASS | used to define a new user-defined class - which is a collection of related attributes and methods that try to represent a real world situation | `python`| User Defined Structures | |
 |  CLEAR |   | | | |
 |  CLIP |   | | | |
-|  CLONE |   | | | |
+|  CLONE | Creates a copy of an object. Often is a shallow clone, which copies top level attributes. Deep clones copy object attributes recursively.  | | | |
 |  CMOS |   | | | |
 |  CODATA |   | | | |
 |  CODE |   | | | |
@@ -152,11 +152,11 @@
 |  COMMENT |   | | | |
 |  COMPL |   | | | |
 |  CONCEPT |   | | | |
-|  CONST |   | | | |
+|  CONST | Short for constant, a variable marked 'const' typically cannot be changed | | 'Variable Declarations' | |
 |  CONST_CAST |   | | | |
 |  CONSTEXPR |   | | | |
 |  CONSTRAINT |   | | | |
-|  CONSTRUCTOR |   | | | |
+|  CONSTRUCTOR | An object's self defined method in creating an instance of said object | | 'Function Properties' | |
 |  CONTENT |   | | | |
 |  CONTINUE | used to alter the loop's normal behavior; causes to end the current iteration of the loop, but not the whole loop | `python` | Loops | |
 |  CONVENIENCE |   | | | |
@@ -174,7 +174,7 @@
 |  DECLARE |   | | | |
 |  DECLTYPE |   | | | |
 |  DEF | used to define a new user-defined function |`python`| User Defined Structures | |
-|  DEFAULT |   | | | |
+|  DEFAULT | Denotes either a default behaviour in a switch statement, or a default operator/value  | | | |
 |  DEFER |   | | | |
 |  DEFINE |   | | | |
 |  DEFINED |   | | | |
@@ -182,8 +182,8 @@
 |  DEFPARAM |   | | | |
 |  DEINIT |   | | | |
 |  DEL | used to delete the reference to an object | `python` | References | |
-|  DELEGATE |   | | | |
-|  DELETE |   | | | |
+|  DELEGATE |  | | | |
+|  DELETE | Delete an object property or reference  | | 'References' | |
 |  DEPRECATED |   | | | |
 |  DERIVING |   | | | |
 |  DESCENDING |   | | | |
@@ -212,8 +212,8 @@
 |  EDGE |   | | | |
 |  ELIF | short for "else if" used for conditional branching or decision making  | `python` | Loops | |
 |  ELSE | used for conditional branching or decision making if the condition is false; the last resort | `python` | Loops | |
-|  ELSEIF |   | | | |
-|  ELSIF |   | | | |
+|  ELSEIF | short for "else if" used for conditional branching or decision making  | | Loops | |
+|  ELSIF | short for "else if" used for conditional branching or decision making  | | Loops | |
 |  EM |   | | | |
 |  EMBED |   | | | |
 |  EMPTY |   | | | |
@@ -233,7 +233,7 @@
 |  ENDTASK |   | | | |
 |  ENDWHILE |   | | | |
 |  ENSURE |   | | | |
-|  ENUM |   | | | |
+|  ENUM | User defined collection of constant values | | User Defined Structures | |
 |  ERR |   | | | |
 |  ERROR |   | | | |
 |  ESAC |   | | | |
@@ -271,7 +271,7 @@
 |  FLEX-GROW |   | | | |
 |  FLEX-SHRINK |   | | | |
 |  FLEX-WRAP |   | | | |
-|  FLOAT |   | | | |
+|  FLOAT | Floating point precision number (Number with a decimal)  | | Variable Declaration | |
 |  FN |   | | | |
 |  FONT |   | | | |
 |  FONT-ADJUST |   | | | |
@@ -313,7 +313,7 @@
 |  GET |   | | | |
 |  GLOBAL | used to declare that a variable inside the function is global (outside the function)  | `python` | Variable Abstractions | |
 |  GO |   | | | |
-|  GOTO |   | | | |
+|  GOTO | An unconditional jump to a given statement  | | Loops | |
 |  GRID |   | | | |
 |  GRID-AREA |   | | | |
 |  GRID-AREAS |   | | | |
@@ -346,8 +346,8 @@
 |  ID |   | | | |
 |  IDEA |   | | | |
 |  IF | used for conditional branching or decision making | `python` | Loops | |
-|  IFDEF |   | | | |
-|  IFNDEF |   | | | |
+|  IFDEF | Conditional branching, if the following is defined  | | Loops | |
+|  IFNDEF | Conditional branching, if the following is not defined  | | Loops | |
 |  IFRAME |   | | | |
 |  IMAGE-RENDERING |   | | | |
 |  IMG |   | | | |
@@ -356,7 +356,7 @@
 |  IMPLEMENTS |   | | | |
 |  IMPLICIT |   | | | |
 |  IMPORT | used to import modules into the current namespace  | `python` | Module Abstractions | |
-|  IMPORTALL |   | | | |
+|  IMPORTALL | used to import all modules into the current namespace  | | Module Abstractions | |
 |  IN | used to test if a sequence (list, tuple, string, etc.) contains a value. It returns TRUE if the value is present. Its secondary use is to traverse through a sequence in a for loop | `python` | Loops | |
 |  INCLUDE |   | | | |
 |  INCLUDE_ONCE |   | | | |
@@ -376,10 +376,10 @@
 |  INPUT |   | | | |
 |  INS |   | | | |
 |  INSTANCE |   | | | |
-|  INSTANCEOF |   | | | |
+|  INSTANCEOF |   | | Logical Operator | |
 |  INSTEADOF |   | | | |
-|  INT |   | | | |
-|  INTEGER |   | | | |
+|  INT | Shorthand for integer, a whole number  | | | |
+|  INTEGER | Integer, a whole number. May differ in behaviour from INT depending on the language.  | | | |
 |  INTERFACE |   | | | |
 |  INTERNAL |   | | | |
 |  INTO |   | | | |
