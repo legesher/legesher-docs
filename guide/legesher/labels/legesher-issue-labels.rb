@@ -67,7 +67,6 @@ default_labels = {
   "Dialect: Breton" => "CD5A86",
   "Dialect: Bosnian" => "CD5A86",
   "Dialect: Catalan" => "CD5A86",
-  "Dialect: Chechen" => "CD5A86",
   "Dialect: Chamorro" => "CD5A86",
   "Dialect: Corsican" => "CD5A86",
   "Dialect: Cree" => "CD5A86",
