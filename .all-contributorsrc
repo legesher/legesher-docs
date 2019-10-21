@@ -1,0 +1,141 @@
+{
+  "projectName": "legesher-docs",
+  "projectOwner": "madiedgar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "types": {
+    "marketing": {
+      "symbol": "💌",
+      "description": "Marketing - People who help in marketing the repo/project"
+    }
+  },
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "atom",
+  "contributors": [
+    {
+      "login": "madiedgar",
+      "name": "Madison (Pfaff) Edgar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7844510?v=4",
+      "profile": "http://withmadi.co",
+      "contributions": [
+        "projectManagement",
+        "code"
+      ]
+    },
+    {
+      "login": "ChristinaPfaff",
+      "name": "Christina Pfaff",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40329912?v=4",
+      "profile": "https://github.com/ChristinaPfaff",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "blakecarson",
+      "name": "Blake Carson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40526625?v=4",
+      "profile": "https://github.com/blakecarson",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "torianne02",
+      "name": "Victoria Fluharty",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37308853?v=4",
+      "profile": "http://www.toricodes.com",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "charberg",
+      "name": "Charles Bergeron",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7586930?v=4",
+      "profile": "https://github.com/charberg",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "jgtiu",
+      "name": "jess",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33926951?v=4",
+      "profile": "https://github.com/jgtiu",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ns61817",
+      "name": "NS61817",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3475873?v=4",
+      "profile": "https://github.com/ns61817",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Mark-C-Hall",
+      "name": "Mark Hall",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43194528?v=4",
+      "profile": "https://github.com/Mark-C-Hall",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rajnish4unow",
+      "name": "Rajnish Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1587017?v=4",
+      "profile": "https://github.com/rajnish4unow",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "DominiqueFlabbi",
+      "name": "Dominique Flabbi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16126059?v=4",
+      "profile": "https://github.com/DominiqueFlabbi",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "joelibaceta",
+      "name": "Joel Ibaceta",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/864790?v=4",
+      "profile": "https://joelibaceta.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "razanjoshi",
+      "name": "Razan Joshi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4223130?v=4",
+      "profile": "https://github.com/razanjoshi",
+      "contributions": [
+        "marketing"
+      ]
+    },
+    {
+      "login": "fabio08",
+      "name": "Fábio Almeida",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56138795?v=4",
+      "profile": "https://github.com/fabio08",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
