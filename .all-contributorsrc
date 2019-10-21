@@ -1,6 +1,6 @@
 {
   "projectName": "legesher-docs",
-  "projectOwner": "madiedgar",
+  "projectOwner": "legesher",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -61,7 +61,8 @@
       "profile": "https://github.com/charberg",
       "contributions": [
         "ideas",
-        "doc"
+        "doc",
+        "code"
       ]
     },
     {
