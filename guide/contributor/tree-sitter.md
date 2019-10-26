@@ -57,7 +57,7 @@ Please refer to the [`Requirements` section in this gist](https://gist.github.co
 
 `**script**`: this is where language specific use cases are introduced and explained.
 
-`**src**`: this is where all the magic happens. more information on this folder later.
+`**src**`: this is where all the magic happens. More information on this folder later.
 
 `**grammar.js**`: key file that denotes the grammar, we'll be using this more going forward.
 
@@ -88,7 +88,7 @@ The templating agent we are using looks for `testKEYWORDlegesher`, so as you tra
     pass_statement: $ => prec.left('testpasslegesher'),
     ```
 -   `/corpus/*.txt`
-    -   For these text files, it's a little bit more complicated than a simple `cmd-f` keyword. Here's an example of the `await` and `return` keywords being templating out in the abstract syntax tree explanation of how an _await expression_ is handled.
+    -   For these text files, it's a little bit more complicated than a simple `cmd-f` keyword. Here's an example of the `await` and `return` keywords being templated out in the abstract syntax tree explanation of how an _await expression_ is handled.
     ``` txt
     =====================================
     Await expressions
@@ -125,7 +125,7 @@ The templating agent we are using looks for `testKEYWORDlegesher`, so as you tra
     ```
 
 **Testing Grammar Changes**
-Next we'll need to test out all of the changes we've made to the grammar, to make sure the programming language is still in tact. When we've passed all of our tests, then we can continue going forward in adding this programming language to the Legesher repository.
+Next we'll need to test out all of the changes we've made to the grammar, to make sure the programming language is still intact. When we've passed all of our tests, then we can continue going forward in adding this programming language to the Legesher repository.
 
 We'll need to recompile the grammar with the changes we've made.
 -   Run `tree-sitter generate`

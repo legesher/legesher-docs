@@ -8,7 +8,7 @@ After the programming language's grammar and parser has been created from the **
 ### `language-legesher-PROGRAMMINGLANGUAGE`
 A couple of changes must be made when support for a new language is incorporated. I'll walk through the changes here:
 
--   `package.json`: within this file, the tree-sitter grammar that the atom pulls from to parse the programming language correctly, will have to be changed to Legesher's tree-sitter counterpart.
+-   `package.json`: within this file, the tree-sitter grammar that Atom pulls from to parse the programming language correctly, will have to be changed to Legesher's tree-sitter counterpart.
     -   This will probably mean you will have to remove the `package-lock.json` file as well as the `/node_modules` folder for a clean rebuild. Running `npm install` after such changes will create updated versions of those files.
 -   `grammars/*`: within the grammars folder there will be several files.
     -   `tree-sitter-PROGRAMMINGLANGUAGE.cson`: This file is the necessary file in order to create the language support in Atom. Update the file name to follow the naming convention for Legesher projects: `tree-sitter-legesher-PROGRAMMINGLANGUAGE.cson`. We will have to first set up templating within the language here.
@@ -74,7 +74,7 @@ A couple of changes must be made when support for a new language is incorporated
 -   `spec/`: TESTS TESTS TESTS, we all love testing and making sure everything is working correctly. Go through each of these files and make sure the proper things are templated out. Make sure to also go through the `fixtures/` folder for more tests to template out.
 
 ### Testing
-Run the command `apm test` to run the language tests in atom.
+Run the command `apm test` to run the language tests in Atom.
 
 ### Updating Version
 This tool is available within [Atom's package listings](https://atom.io/packages/language-legesher-python) and needs to be updated within there. Here are the [instructions to follow to update this specific package](https://flight-manual.atom.io/hacking-atom/sections/publishing/).
