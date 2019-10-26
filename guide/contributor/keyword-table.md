@@ -116,15 +116,15 @@
 |  CAPTION |   | html | | |
 |  CAPTION-SIDE |   | css | | |
 |  CARET-COLOR |   | css | | |
-|  CASE |   | c#, java, swift, javascript, golang, php, bash, scala, typescript, afl, verilog, c++, haskell, c, ruby | | |
+|  CASE | Used in switch statements. Each case keyword is followed by a possible value for the condition  | c#, java, swift, javascript, golang, php, bash, scala, typescript, afl, verilog, c++, haskell, c, ruby | | |
 |  CASEX |   | verilog | | |
 |  CASEZ |   | verilog | | |
 |  CATCH |   | c#, swift, javascript, julia, php, scala, typescript, c++, java | | |
 |  CENTER |   | html | | |
 |  CHAN |   | golang | | |
 |  CHAR | shorthand for 'character'. Char size can be encoding dependent.  | c++, java, c, c# |  | |
-|  CHAR16_T |   | c++ | | |
-|  CHAR32_T |   | c++ | | |
+|  CHAR16_T | type for UTF-16 character representation, required to be large enough to represent any UTF-16 code unit (16 bits) | c++ | | |
+|  CHAR32_T | type for UTF-32 character representation, required to be large enough to represent any UTF-32 code unit (32 bits)  | c++ | | |
 |  CHECKED |   | c# | | |
 |  CHGME |   | | | |
 |  CITE |   | html | | |
