@@ -13,7 +13,7 @@
 |  ALIGN-CONTENT |   | css | | |
 |  ALIGN-ITEMS |   | css | | |
 |  ALIGN-SELF |   | css | | |
-|  ALIGNAS |   | c++ | | |
+|  ALIGNAS |Specifies the alignment requirement of a type or an object | c++ |variable or a non-bitfield class data member | |
 |  ALIGNOF |   | c++, rust | | |
 |  ALL |   | python, css | | |
 |  ALWAYS |   | verilog | | |
