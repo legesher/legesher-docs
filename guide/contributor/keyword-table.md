@@ -14,11 +14,11 @@
 |  ALIGN-ITEMS |   | css | | |
 |  ALIGN-SELF |   | css | | |
 |  ALIGNAS |   | c++ | | |
-|  ALIGNOF |   | c++, rust | | |
+|  ALIGNOF | queries alignment requirements of a type | c++, rust |Returns the alignment, in bytes |Operator|
 |  ALL |   | python, css | | |
 |  ALWAYS |   | verilog | | |
 |  AND | will result into True only if both the operands are True  | python, ocaml, afl, verilog, php, c++, ruby | Logical Operators |  |
-|  AND_EQ |   | c++ | | |
+|  AND_EQ | Used as an alternative for &=  | c++ |Operator | |
 |  ANIMATION |   | css | | |
 |  ANIMATION-COUNT |   | css | | |
 |  ANIMATION-DELAY |   | css | | |
@@ -37,7 +37,7 @@
 |  AS |used to create an alias while importing a module, giving a different name to a module while importing it | c#, swift, python, rust, ocaml, typescript, php, haskell | References | |
 |  ASCENDING |   | c# | | |
 |  ASIDE |   | html | | |
-|  ASM |   | c++ | | |
+|  ASM |used to embed assembly language source code within a C++ program | c++ |Declaration | |
 |  ASR |   | ocaml | | |
 |  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true | ocaml, java, python | Debugging | |
 |  ASSIGN |   | verilog | | |
@@ -48,20 +48,20 @@
 |  ATOMIC_COMMIT |   | c++ | | |
 |  ATOMIC_NOEXCEPT |   | c++ | | |
 |  AUDIO |   | html | | |
-|  AUTO |   | c++, c | | |
+|  AUTO | specifies that the return type will be deduced from its return statements | c++, c | Type specifier | |
 |  AVAILABLE |   | | | |
 |  AWAIT | coroutine keywords that denote the beginning of a promise within an asynchronous function. | c#, javascript, python | User Defined Structures | There can be as many `await` keywords within a function as needed. |
-|  B |   | html | | |
-|  BACKFACE-VISIBILITY |   | css | | |
+|  B |Used for bold text in an HTML document   | html | | |
+|  BACKFACE-VISIBILITY |It is used to determine whether the back of the element is visible when it has been rotated and its back is facing the user  | css | | |
 |  BACKGROUND |   | css | | |
 |  BACKGROUND-ATTACHMENT |   | css | | |
-|  BACKGROUND-CLIP |   | css | | |
-|  BACKGROUND-COLOR |   | css | | |
-|  BACKGROUND-IMAGE |   | css | | |
+|  BACKGROUND-CLIP |lets you control how far a background image or color extends beyond an element's padding or content   | css | | |
+|  BACKGROUND-COLOR | applies solid colors as background on an element   | css | | |
+|  BACKGROUND-IMAGE | applies a graphic or gradient to the background of an element | css | | |
 |  BACKGROUND-MODE |   | css | | |
 |  BACKGROUND-ORIGIN |   | css | | |
 |  BACKGROUND-POSITION |   | css | | |
-|  BACKGROUND-REPEAT |   | css | | |
+|  BACKGROUND-REPEAT |if the background image property is specified, it defines how it will repeat  | css | | |
 |  BACKGROUND-SIZE |   | css | | |
 |  BAREMODULE |   | julia | | |
 |  BASE |   | c#, html | | |
@@ -71,8 +71,8 @@
 |  BECOME |   | rust | | |
 |  BEGIN |   | julia, verilog, ocaml, ruby | | |
 |  BIG |   | html | | |
-|  BITAND |   | c++ | | |
-|  BITOR |   | c++ | | |
+|  BITAND |used as an alternative for &   | c++ | Logical operator| |
+|  BITOR |used as an alternative for |   | c++ | | |
 |  BITSTYPE |   | julia | | |
 |  BLOCKQUOTE |   | html | | |
 |  BODY |   | html | | |
@@ -87,7 +87,7 @@
 |  BORDER-OUTSET |   | css | | |
 |  BORDER-RADIUS |   | css | | |
 |  BORDER-REPEAT |   | css | | |
-|  BORDER-RIGHT |   | css | | |
+|  BORDER-RIGHT |   | css | | |d
 |  BORDER-SLICE |   | css | | |
 |  BORDER-SOURCE |   | css | | |
 |  BORDER-SPACING |   | css | | |
