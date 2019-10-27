@@ -4,7 +4,7 @@
 
 >So where do we start?
 
-Great question! We're going to walk through the different tools that will be important to contributing to the project. There are many ways to contribute to Legesher - most of which you only need wifi access! We'll walk you through the different tools, their purpose, and how we use them within in Legesher. If you're an experienced developer, you probably already have most of the items below. We've tried to detail out all of the tools / processes that are used within the project so as to open-source the process as well as the code, share the knowledge, If there are ways to improve, you can look at our entire process and see if its a better fit. Feel free to use the rest of the guides as supplemental education to reference if you're getting stuck or want to contribute in a new area.
+Great question! We're going to walk through the different tools that will be important to contributing to the project. There are many ways to contribute to Legesher - most of which you only need wifi access! We'll walk you through the different tools, their purpose, and how we use them within in Legesher. If you're an experienced developer, you probably already have most of the items below. We've tried to detail out all of the tools / processes that are used within the project so as to open-source the process as well as the code and share the knowledge. If there are ways to improve, you can look at our entire process and see if it's a better fit. Feel free to use the rest of the guides as supplemental education to reference if you're getting stuck or want to contribute in a new area.
 
 Other than that, **enjoy**!
 
@@ -12,7 +12,7 @@ Other than that, **enjoy**!
 
 ## Table of Contents
 
-The best place to start is to evaluate what _exactly_ you have in your toolbox and what else you need to obtain. In this lesson, we'll walk through a few key tools that are essential to contributing to Legesher: Discord, a github account and a text editor (Atom). Allow me to explain!
+The best place to start is to evaluate what _exactly_ you have in your toolbox and what else you need to obtain. In this lesson, we'll walk through a few key tools that are essential to contributing to Legesher: Discord, a Github account and a text editor (Atom). Allow me to explain!
 
 - [The Pride w/ Discord](#the-pride)
 - [The Code w/ Github](#the-code)
@@ -42,8 +42,8 @@ You can either open Discord up in the browser using their web application or you
 
 On Discord, you'll be able to connect with other inspiring individuals like yourself as you contribute towards Legesher.  
 1️⃣ Introduce yourself on the `#introductions` channel  
-2️⃣ Check out our [community guidelines]()  
-3️⃣ Learn [how to contribute]() to Legesher   
+2️⃣ Check out our [community guidelines](../legesher/community-guide.md)  
+3️⃣ Learn [how to contribute](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) to Legesher   
 
 **Servers**
 After you accept the invitation to join Legesher's Discord Community, you are essentially adding the Legesher server to your Discord account. The far left-hand column contains all of the servers you as a user are connected to.
@@ -67,22 +67,22 @@ _TONS_ of buzz words there ^, so let's break it down!
 **Github**  
 Github is like a social media platform for developers. Instead of posting photos, you’re posting your coding projects. You can “like” other’s projects ⭐ and follow other people to stay updated with their work. You can “repost” projects and add your own twist to them by forking 🍴.
 
-Github is also like Google Drive, where it hosts all of the content and assets for your projects in larger files called _repositories_. A repository has all of the code, images, assets, etc. needed for a particular project. Github has it's own version of "revision history" to trace back what a specific document / project looked like at a specific moment in time. You hit save or _commit_ to create a checkpoint in your project to reference back to.
+Github is also like Google Drive, where it hosts all of the content and assets for your projects in larger files called _repositories_. A repository has all of the code, images, assets, etc. needed for a particular project. Github has its own version of "revision history" to trace back what a specific document / project looked like at a specific moment in time. You hit save or _commit_ to create a checkpoint in your project to reference back to.
 
 **Git**  
 Git is the version control software that Github uses to keep track of what is happening to your coding projects.
 
 **_What does version control mean?_**  
-Anytime you work in your project, anytime you save a change (in git we call that `committing a change`), you’re able to go back to that “snapshot” of the project and restart from there if you find yourself in a pigeon hole. Just like if checkpoints in video games, if you fail a challenge you can restart at the checkpoint. Best thing about git, is that you can create checkpoints whenever and how ever often you want!
+Anytime you work in your project, anytime you save a change (in git we call that `committing a change`), you’re able to go back to that “snapshot” of the project and restart from there if you find yourself in a pigeon hole. Just like checkpoints in video games, if you fail a challenge you can restart at the checkpoint. Best thing about git, is that you can create checkpoints whenever and how ever often you want!
 
 **_Why use a version control software?_**  
-I put every project on github, because you can never predict when your laptop is going to crash/get stolen and you don’t want to lose all the work you’ve done. In college, I started writing my essays in google drive so I can work anywhere and the auto-saves literally save my butt anytime my computer crashed. (And now, google drive has “revision history” so its now even a little more like git)
+I put every project on Github, because you can never predict when your laptop is going to crash/get stolen and you don’t want to lose all the work you’ve done. In college, I started writing my essays in Google Drive so I can work anywhere and the auto-saves literally save my butt anytime my computer crashed. (And now, Google Drive has “revision history” so it's now even a little more like git)
 
 With a version control software you are able to work anywhere, with anyone, at anytime. _Pretty cool, huh?_
 
 ### Creating a Github :octocat: Account
 
-You might already feel lost - you just decided you want to help on this project but right out of the bag you're faced with a hurdle of unknown. That helplessness you feel is exactly the type of feeling the programmers we're building this tool for! Let's get through this together, and learn a lot in the process.
+You might already feel lost - you just decided you want to help on this project but right out of the bag you're faced with a hurdle of unknown. That helplessness you feel is exactly the type of feeling the programmers we're building this tool for experience! Let's get through this together, and learn a lot in the process.
 
 <img src="/lib/images/Sign-Up-Github.png" align="center" height="350px"/>  
 
@@ -90,7 +90,7 @@ You might already feel lost - you just decided you want to help on this project 
 
 <img src="/lib/images/Github-1.png" align="center" height="350px"/>  
 
-2️⃣ Verify your not a robot 🤖by going through the exercise.
+2️⃣ Verify you're not a robot 🤖by going through the exercise.
 
 <img src="/lib/images/Github-2.png" align="center" height="350px"/>  
 
@@ -126,7 +126,7 @@ Just like any other basic social media platform, you are given the ability to fo
 
 > Text Editor - interface that allows you to open and edit your code in an user-friendly environment
 
-Text editors can do a number of amazing things for your code - including autocorrect and color formatting. Great text editors keep tract of key words and variables that you set, so you spend less time searching and debugging your code and more time implementing your solution. At this time, we are only actively working on extensions for [Atom](https://atom.io).
+Text editors can do a number of amazing things for your code - including autocorrect and color formatting. Great text editors keep track of key words and variables that you set, so you spend less time searching and debugging your code and more time implementing your solution. At this time, we are only actively working on extensions for [Atom](https://atom.io).
 
 The text editor is a foundational element for the Legesher project. The syntax highlighting of keywords is a key element to the success of our code.
 
