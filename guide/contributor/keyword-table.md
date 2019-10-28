@@ -310,7 +310,7 @@
 |  FUNCTION |   | javascript, julia, bash, ocaml, typescript, afl, verilog, php | | |
 |  FUNCTIONS |   | razor | | |
 |  FUNCTOR |   | ocaml | | |
-|  GET |   | c#, typescript, swift | | |
+|  GET |   | c#, html, typescript, swift | | |
 |  GLOBAL | used to declare that a variable inside the function is global (outside the function)  | c#, python, julia, afl, php | Variable Abstractions | |
 |  GO |   | golang | | |
 |  GOTO | An unconditional jump to a given statement  | c#, java, golang, c, php, c++ | Loops | |
@@ -531,14 +531,14 @@
 |  POSITION | | css | | |
 |  POSTFIX | | swift | | |
 |  POSTULATE | | agda | | |
-|  PRAGMA | | | | |
+|  PRAGMA | It is used for checking whether the compiler you’re using is compatible with the code | c, solidity | | |
 |  PRE | | html | | |
 |  PRECEDENCE | | swift | | |
 |  PREFIX | | swift | | |
 |  PRIMITIVE | | agda, verilog | | |
 |  PRINT | | php, python | | |
 |  PRIV | | rust | | |
-|  PRIVATE | | c#, java, swift, javascript, ocaml, agda, scala, typescript, php, c++ | | |
+|  PRIVATE | An access modifier that specifies the accessibility or scope to be contained within a field, method, constructor, or class | c#, java, swift, javascript, ocaml, agda, scala, typescript, php, c++ | | |
 |  PROC | | haskell, rust | | |
 |  PROCEDURE | | afl | | |
 |  PROGRESS | | html | | |
