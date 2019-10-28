@@ -59,7 +59,7 @@
 
 # Introduction
 
-Welcome to the documentation of Legesher. This documentation guide is to serve beginners who are learning how to code :laptop:, developers who are using Legesher to program their projects :woman_technologist:, and any individual (whether tech savvy or not) who wants to share their creativity 🎨 and innovation 💡 with this project to propel it forward 🎁.
+Welcome to the documentation of Legesher. This documentation guide is to serve beginners who are learning how to code 💻, developers who are using Legesher to program their projects :woman_technologist:, and any individual (whether tech savvy or not) who wants to share their creativity 🎨 and innovation 💡 with this project to propel it forward 🎁.
 
 **`legesher-docs`** :loudspeaker: is the home of the documentation for the entire Legesher project. Currently we update documentation here and it is then transferred to our public facing site from readme.io: [Legesher.readme.io](https://legesher.readme.io/).
 
