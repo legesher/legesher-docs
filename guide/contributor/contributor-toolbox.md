@@ -65,15 +65,15 @@ Obviously, a very important aspect of Legesher is the code itself. Whether you a
 _TONS_ of buzz words there ^, so let's break it down!
 
 **Github**  
-Github is like a social media platform for developers. Instead of posting photos, you’re posting your coding projects. You can “like” other’s projects ⭐ and follow other people to stay updated with their work. You can “repost” projects and add your own twist to them by forking 🍴.
+Github is like a social media platform for developers. Instead of posting photos, you’re posting your coding projects. You can “like” other’s projects ⭐ and follow other people to stay updated with their work. You can “repost” projects and add your twist to them by forking 🍴.
 
-Github is also like Google Drive, where it hosts all of the content and assets for your projects in larger files called _repositories_. A repository has all of the code, images, assets, etc. needed for a particular project. Github has its own version of "revision history" to trace back what a specific document / project looked like at a specific moment in time. You hit save or _commit_ to create a checkpoint in your project to reference back to.
+Github is also like Google Drive, where it hosts all of the content and assets for your projects in larger files called _repositories_. A repository has all of the code, images, assets, etc. needed for a particular project. Github has its version of "revision history" to trace back what a specific document / project looked like at a specific moment in time. You hit save or _commit_ to create a checkpoint in your project to reference back to.
 
 **Git**  
 Git is the version control software that Github uses to keep track of what is happening to your coding projects.
 
 **_What does version control mean?_**  
-Anytime you work in your project, anytime you save a change (in git we call that `committing a change`), you’re able to go back to that “snapshot” of the project and restart from there if you find yourself in a pigeon hole. Just like checkpoints in video games, if you fail a challenge you can restart at the checkpoint. Best thing about git, is that you can create checkpoints whenever and how ever often you want!
+Anytime you work in your project, anytime you save a change (in git we call that `committing a change`), you’re able to go back to that “snapshot” of the project and restart from there if you find yourself in a pigeon hole. Just like checkpoints in video games, if you fail a challenge you can restart at the checkpoint. Best thing about git, is that you can create checkpoints whenever and however often you want!
 
 **_Why use a version control software?_**  
 I put every project on Github, because you can never predict when your laptop is going to crash/get stolen and you don’t want to lose all the work you’ve done. In college, I started writing my essays in Google Drive so I can work anywhere and the auto-saves literally save my butt anytime my computer crashed. (And now, Google Drive has “revision history” so it's now even a little more like git)
