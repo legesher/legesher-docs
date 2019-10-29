@@ -10,24 +10,24 @@
 |  ADD |   | c# | | |
 |  ADDRESS |   | html | | |
 |  ALIAS |   | c#, ruby | | |
-|  ALIGN-CONTENT |   | css | | |
-|  ALIGN-ITEMS |   | css | | |
-|  ALIGN-SELF |   | css | | |
+|  ALIGN-CONTENT | Sets the alignment value for an entire row of direct children. In Flexbox, the alignment value refers to the cross axis. In Grid Layout, it refers to the alignment of items on the block axis within their grid area. | css | | |
+|  ALIGN-ITEMS | Sets the alignment value for direct children. In Flexbox, the alignment value refers to the cross axis. In Grid Layout, it refers to the alignment of items on the block axis within their grid area. | css | | |
+|  ALIGN-SELF | Sets the alignment value for an element. In Flexbox, the alignment value refers to the cross axis. In Grid Layout, it refers to the alignment of items on the block axis within their grid area. | css | | |
 |  ALIGNAS |   | c++ | | |
 |  ALIGNOF | queries alignment requirements of a type | c++, rust |Returns the alignment, in bytes |Operator|
 |  ALL |   | python, css | | |
 |  ALWAYS |   | verilog | | |
 |  AND | will result into True only if both the operands are True  | python, ocaml, afl, verilog, php, c++, ruby | Logical Operators |  |
 |  AND_EQ | Used as an alternative for &=  | c++ |Operator | |
-|  ANIMATION |   | css | | |
-|  ANIMATION-COUNT |   | css | | |
-|  ANIMATION-DELAY |   | css | | |
-|  ANIMATION-DIRECTION |   | css | | |
-|  ANIMATION-DURATION |   | css | | |
-|  ANIMATION-FUNCTION |   | css | | |
-|  ANIMATION-MODE |   | css | | |
-|  ANIMATION-NAME |   | css | | |
-|  ANIMATION-STATE |   | css | | |
+|  ANIMATION | A shorthand property for defining animation between CSS styles | css | | |
+|  ANIMATION-COUNT |  | css | | |
+|  ANIMATION-DELAY | Sets when an animation starts | css | | |
+|  ANIMATION-DIRECTION | Sets whether an animation plays forwards, backwards, alternating, or reverse-alternating | css | | |
+|  ANIMATION-DURATION | Sets the length of time that an animation takes | css | | |
+|  ANIMATION-TIMING-FUNCTION | Sets a function that defines how an animation progresses through an animation cycle | css | | |
+|  ANIMATION-FILL-MODE | Sets how an animation applies CSS styles before and after the animation | css | | |
+|  ANIMATION-NAME | Sets one or more animation names for an element. Names refer to a @keyframes rule that defines the properties of an animation itself. | css | | |
+|  ANIMATION-PLAY-STATE | Sets whether an animation is running or paused | css | | |
 |  ANY |   | typescript, python | | |
 |  APPLET |   | html | | |
 |  AREA |   | html | | |
