@@ -8,7 +8,7 @@
 |  ABSTRACT |   | c#, julia, rust, scala, agda, php, java | | |
 |  ACRONYM |   | html | | |
 |  ADD |   | c# | | |
-|  ADDRESS |   | html | | |
+|  ADDRESS |A new structure-related tag in HTML5 that defines an area for contact information for a page or section.| html | | |
 |  ALIAS |   | c#, ruby | | |
 |  ALIGN-CONTENT |   | css | | |
 |  ALIGN-ITEMS |   | css | | |
@@ -29,14 +29,16 @@
 |  ANIMATION-NAME |   | css | | |
 |  ANIMATION-STATE |   | css | | |
 |  ANY |   | typescript, python | | |
-|  APPLET |   | html | | |
+|  APPLET | Defines an embedded applet.  This tag is not support in HTML5.  Use <object> instead.  | html | | |
 |  AREA |   | html | | |
 |  ARGUMENTS |   | javascript | | |
 |  ARRAY |   | php | | |
-|  ARTICLE |   | html | | |
+|  ARTICLE | This tag defines an article, such as a magazine or newspaper article, blog post, or
+similar content.   | html | | |
 |  AS |used to create an alias while importing a module, giving a different name to a module while importing it | c#, swift, python, rust, ocaml, typescript, php, haskell | References | |
 |  ASCENDING |   | c# | | |
-|  ASIDE |   | html | | |
+|  ASIDE | This tag defines content that’s separate from but related to the page content; similar
+to a sidebar in book chapters and magazine articles.  | html | | |
 |  ASM |used to embed assembly language source code within a C++ program | c++ |Declaration | |
 |  ASR |   | ocaml | | |
 |  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true | ocaml, java, python | Debugging | |
@@ -187,7 +189,8 @@
 |  DEPRECATED |   | | | |
 |  DERIVING |   | haskell | | |
 |  DESCENDING |   | c# | | |
-|  DETAILS |   | html | | |
+|  DETAILS | The tag contains additional details pertinent to text around it; creates an interactive
+widget a user can display or hide.  | html | | |
 |  DFN |   | html | | |
 |  DIALOG |   | html | | |
 |  DIDSET |   | swift | | |
@@ -291,7 +294,9 @@
 |  FONT-SYNTHESIS |   | css | | |
 |  FONT-VARIANT |   | css | | |
 |  FONT-WEIGHT |   | css | | |
-|  FOOTER |   | html | | |
+|  FOOTER | This tag defines a footer for a document or section; may include the document
+author, contact information, copyright information, and links to terms
+of use.  | html | | |
 |  FOR | used for looping, generally when we know the number of times we want to loop with any type of sequence like a list or string | c#, java, swift, javascript, python, julia, golang, php, rust, bash, ocaml, scala, afl, typescript, verilog, c++, c, ruby | Loops | |
 |  FORALL |   | haskell, agda | | |
 |  FORCE |   | verilog | | |
@@ -340,7 +345,8 @@
 |  HIGHZ0 |   | verilog | | |
 |  HIGHZ1 |   | verilog | | |
 |  HR |   | html | | |
-|  HTML |   | html | | |
+|  HTML |This tag defines a header for a document or section; may contain introductory content
+or navigation links. | html | | |
 |  HYPHENS |   | css | | |
 |  I |   | html | | |
 |  ID |   | python | | |
@@ -448,7 +454,7 @@
 |  NAMESPACE | | c#, razor, c++, php | | |
 |  NAND | | verilog | | |
 |  NATIVE | | java | | |
-|  NAV | | html | | |
+|  NAV |This tag defines a group of navigation links. | html | | |
 |  NEGEDGE | | verilog | | |
 |  NEW | | c#, javascript, php, ocaml, scala, typescript, c++, java | | |
 |  NEWTYPE | | haskell | | |
@@ -602,7 +608,8 @@
 |  SCRIPT | | html | | |
 |  SCROLL-BEHAVIOR | | css | | |
 |  SEALED | | c#, scala | | |
-|  SECTION | | razor, html | | |
+|  SECTION |This tag defines a section in a document, such as chapters, parts of a thesis, or
+parts of a Web page whose content is distinct from each other. | razor, html | | |
 |  SELECT | | bash, golang, c#, html | | |
 |  SELECTOR | | | | |
 |  SELF | | swift, ruby, rust | | |
@@ -746,7 +753,9 @@
 |  WAND | | verilog | | |
 |  WARN | | | | |
 |  WARNING | | | | |
-|  WBR | | html | | |
+|  WBR |This tag defines a possible line break; when a word is very long, or you’re concerned
+the browser will break a line at the wrong place, you can use the
+<wbr> element to break the word or line appropriately.| html | | |
 |  WCHAR_T | | c++ | | |
 |  WEAK | | swift | | |
 |  WEAK0 | | verilog | | |
