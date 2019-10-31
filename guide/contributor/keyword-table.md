@@ -15,7 +15,7 @@
 |  ALIGN-SELF |   | css | | |
 |  ALIGNAS |   | c++ | | |
 |  ALIGNOF | queries alignment requirements of a type | c++, rust |Returns the alignment, in bytes |Operator|
-|  ALL |   | python, css | | |
+|  ALL | Returns true if all of the items in a given list are True | python, css | inbuilt function | |
 |  ALWAYS |   | verilog | | |
 |  AND | will result into True only if both the operands are True  | python, ocaml, afl, verilog, php, c++, ruby | Logical Operators |  |
 |  AND_EQ | Used as an alternative for &=  | c++ |Operator | |
@@ -28,7 +28,7 @@
 |  ANIMATION-MODE |   | css | | |
 |  ANIMATION-NAME |   | css | | |
 |  ANIMATION-STATE |   | css | | |
-|  ANY |   | typescript, python | | |
+|  ANY | Returns true if any of the items in a given list are True | typescript, python | inbuilt function | |
 |  APPLET |   | html | | |
 |  AREA |   | html | | |
 |  ARGUMENTS |   | javascript | | |
@@ -111,7 +111,7 @@
 |  BUG |   | | | |
 |  BUTTON |   | html | | |
 |  BYTE |   | c#, java | | |
-|  CALLABLE |   | php, python | | |
+|  CALLABLE | callable function checks and returns True if the object passed appears to be callable, otherwise False. | php, python | inbuilt function | There may be few cases where callable() returns true, but the call to object fails. But if a case returns False, calling object will never succeed. |
 |  CANVAS |   | html | | |
 |  CAPTION |   | html | | |
 |  CAPTION-SIDE |   | css | | |
@@ -192,7 +192,7 @@
 |  DIALOG |   | html | | |
 |  DIDSET |   | swift | | |
 |  DIE |   | php | | |
-|  DIR |   | python, html | | |
+|  DIR | dir function in Python3 returns list of the attributes and methods of any object | python, html | inbuilt function | |
 |  DIRECTION |   | css | | |
 |  DIRNAME |   | | | |
 |  DISABLE |   | verilog | | |
@@ -260,7 +260,7 @@
 |  FIGURE |   | html | | |
 |  FILE |   | | | |
 |  FILENAME |   | | | |
-|  FILTER |   | python, css | | |
+|  FILTER | The filter() function in python filters the given sequence with the help of a function that tests each element in the sequence to be true or not | python, css | inbuilt function | |
 |  FINAL |   | swift, c++, rust, scala, php, java | | |
 |  FINALLY | used with try...except statements to close up resources or file streams. This ensures that the block of code inside it gets executed even if there is an unhandled exception | c#, javascript, python, julia, scala, typescript, java | Exceptions | |
 |  FIXED |   | c# | | |
@@ -343,7 +343,7 @@
 |  HTML |   | html | | |
 |  HYPHENS |   | css | | |
 |  I |   | html | | |
-|  ID |   | python | | |
+|  ID | id() function returns the *identity* of the object which is guaranteed to be unique | python | inbuilt function | |
 |  IDEA |   | | | |
 |  IF | used for conditional branching or decision making | c#, java, swift, javascript, python, julia, golang, php, rust, bash, ocaml, scala, afl, typescript, verilog, c++, haskell, c, ruby | Loops | |
 |  IFDEF | Conditional branching, if the following is defined  | | Loops | |
@@ -373,7 +373,7 @@
 |  INITIALIZER |   | ocaml | | |
 |  INLINE |   | c++ | | |
 |  INOUT |   | swift, verilog | | |
-|  INPUT |   | python, verilog, html | | |
+|  INPUT | The input() function allows user input. | python, verilog, html | inbuilt function | |
 |  INS |   | html | | |
 |  INSTANCE |   | haskell, agda | | |
 |  INSTANCEOF |   | php, typescript, java, javascript | Logical Operator | |
@@ -403,7 +403,7 @@
 |  LINE-BREAK |   | css | | |
 |  LINE-HEIGHT |   | css | | |
 |  LINK |   | html | | |
-|  LIST |   | php, python | | |
+|  LIST | list is a data type in python just like arrays in other languages | php, python | data type | |
 |  LIST-IMAGE |   | css | | |
 |  LIST-POSITION |   | css | | |
 |  LIST-STYLE |   | css | | |
@@ -419,7 +419,7 @@
 |  MACRO |   | julia, agda, rust, scala | | |
 |  MACROMODULE | | verilog | | |
 |  MAIN | | html | | |
-|  MAP | | python, golang, html | | |
+|  MAP | map() function in python is used to apply a function on all the elements of specified list | python, golang, html | inbuilt function | |
 |  MARGIN | | css | | |
 |  MARGIN-BOTTOM | | css | | |
 |  MARGIN-LEFT | | css | | |
@@ -452,7 +452,7 @@
 |  NEGEDGE | | verilog | | |
 |  NEW | | c#, javascript, php, ocaml, scala, typescript, c++, java | | |
 |  NEWTYPE | | haskell | | |
-|  NEXT | | ruby, python | | |
+|  NEXT | The next function returns the next item in an list | ruby, python | inbuilt function | |
 |  NIL | | swift, ruby | | |
 |  NMOS | | verilog | | |
 |  NO-ETA-EQUALITY | | agda | | |
@@ -473,7 +473,7 @@
 |  NULL | | c#, javascript, typescript, scala, afl | | |
 |  NULLPTR | | c++ | | |
 |  NUMBER | | typescript | | |
-|  OBJECT | | c#, python, ocaml, scala, html | | |
+|  OBJECT | Object is simply a collection of data (variables) and methods (functions) that act on those data | c#, python, ocaml, scala, html | User-Defined Structures | |
 |  OBJECT-FIT | | css | | |
 |  OBJECT-POSITION | | css | | |
 |  OF | | haskell, ocaml, typescript | | |
@@ -482,7 +482,7 @@
 |  OMFGRLY | | | | |
 |  OMG | | | | |
 |  OPACITY | | css | | |
-|  OPEN | | ocaml, agda, python | | |
+|  OPEN | The open function opens a file, and returns it as a file object. | ocaml, agda, python | inbuilt function | |
 |  OPERATOR | | c#, swift, c++ | | |
 |  OPTGROUP | | html | | |
 |  OPTIMIZE | | | | |
