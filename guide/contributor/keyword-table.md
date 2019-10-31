@@ -8,35 +8,37 @@
 |  ABSTRACT |   | c#, julia, rust, scala, agda, php, java | | |
 |  ACRONYM |   | html | | |
 |  ADD |   | c# | | |
-|  ADDRESS |   | html | | |
+|  ADDRESS |A new structure-related tag in HTML5 that defines an area for contact information for a page or section.| html | | |
 |  ALIAS |   | c#, ruby | | |
-|  ALIGN-CONTENT |   | css | | |
-|  ALIGN-ITEMS |   | css | | |
-|  ALIGN-SELF |   | css | | |
+|  ALIGN-CONTENT | Sets the alignment value for an entire row of direct children. In Flexbox, the alignment value refers to the cross axis. In Grid Layout, it refers to the alignment of items on the block axis within their grid area. | css | | |
+|  ALIGN-ITEMS | Sets the alignment value for direct children. In Flexbox, the alignment value refers to the cross axis. In Grid Layout, it refers to the alignment of items on the block axis within their grid area. | css | | |
+|  ALIGN-SELF | Sets the alignment value for an element. In Flexbox, the alignment value refers to the cross axis. In Grid Layout, it refers to the alignment of items on the block axis within their grid area. | css | | |
 |  ALIGNAS |   | c++ | | |
 |  ALIGNOF | queries alignment requirements of a type | c++, rust |Returns the alignment, in bytes |Operator|
 |  ALL | Returns true if all of the items in a given list are True | python, css | inbuilt function | |
 |  ALWAYS |   | verilog | | |
 |  AND | will result into True only if both the operands are True  | python, ocaml, afl, verilog, php, c++, ruby | Logical Operators |  |
 |  AND_EQ | Used as an alternative for &=  | c++ |Operator | |
-|  ANIMATION |   | css | | |
-|  ANIMATION-COUNT |   | css | | |
-|  ANIMATION-DELAY |   | css | | |
-|  ANIMATION-DIRECTION |   | css | | |
-|  ANIMATION-DURATION |   | css | | |
-|  ANIMATION-FUNCTION |   | css | | |
-|  ANIMATION-MODE |   | css | | |
-|  ANIMATION-NAME |   | css | | |
-|  ANIMATION-STATE |   | css | | |
-|  ANY | Returns true if any of the items in a given list are True | typescript, python | inbuilt function | |
-|  APPLET |   | html | | |
+|  ANIMATION | A shorthand property for defining animation between CSS styles | css | | |
+|  ANIMATION-COUNT |  | css | | |
+|  ANIMATION-DELAY | Sets when an animation starts | css | | |
+|  ANIMATION-DIRECTION | Sets whether an animation plays forwards, backwards, alternating, or reverse-alternating | css | | |
+|  ANIMATION-DURATION | Sets the length of time that an animation takes | css | | |
+|  ANIMATION-TIMING-FUNCTION | Sets a function that defines how an animation progresses through an animation cycle | css | | |
+|  ANIMATION-FILL-MODE | Sets how an animation applies CSS styles before and after the animation | css | | |
+|  ANIMATION-NAME | Sets one or more animation names for an element. Names refer to a @keyframes rule that defines the properties of an animation itself. | css | | |
+|  ANIMATION-PLAY-STATE | Sets whether an animation is running or paused | css | | |
+|  ANY |   | typescript, python | | |
+|  APPLET | Defines an embedded applet.  This tag is not support in HTML5.  Use <object> instead.  | html | | |
 |  AREA |   | html | | |
 |  ARGUMENTS |   | javascript | | |
 |  ARRAY |   | php | | |
-|  ARTICLE |   | html | | |
+|  ARTICLE | This tag defines an article, such as a magazine or newspaper article, blog post, or
+similar content.   | html | | |
 |  AS |used to create an alias while importing a module, giving a different name to a module while importing it | c#, swift, python, rust, ocaml, typescript, php, haskell | References | |
 |  ASCENDING |   | c# | | |
-|  ASIDE |   | html | | |
+|  ASIDE | This tag defines content that’s separate from but related to the page content; similar
+to a sidebar in book chapters and magazine articles.  | html | | |
 |  ASM |used to embed assembly language source code within a C++ program | c++ |Declaration | |
 |  ASR |   | ocaml | | |
 |  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true | ocaml, java, python | Debugging | |
@@ -187,7 +189,8 @@
 |  DEPRECATED |   | | | |
 |  DERIVING |   | haskell | | |
 |  DESCENDING |   | c# | | |
-|  DETAILS |   | html | | |
+|  DETAILS | The tag contains additional details pertinent to text around it; creates an interactive
+widget a user can display or hide.  | html | | |
 |  DFN |   | html | | |
 |  DIALOG |   | html | | |
 |  DIDSET |   | swift | | |
@@ -291,7 +294,9 @@
 |  FONT-SYNTHESIS |   | css | | |
 |  FONT-VARIANT |   | css | | |
 |  FONT-WEIGHT |   | css | | |
-|  FOOTER |   | html | | |
+|  FOOTER | This tag defines a footer for a document or section; may include the document
+author, contact information, copyright information, and links to terms
+of use.  | html | | |
 |  FOR | used for looping, generally when we know the number of times we want to loop with any type of sequence like a list or string | c#, java, swift, javascript, python, julia, golang, php, rust, bash, ocaml, scala, afl, typescript, verilog, c++, c, ruby | Loops | |
 |  FORALL |   | haskell, agda | | |
 |  FORCE |   | verilog | | |
@@ -310,7 +315,7 @@
 |  FUNCTION |   | javascript, julia, bash, ocaml, typescript, afl, verilog, php | | |
 |  FUNCTIONS |   | razor | | |
 |  FUNCTOR |   | ocaml | | |
-|  GET |   | c#, typescript, swift | | |
+|  GET |   | c#, html, typescript, swift | | |
 |  GLOBAL | used to declare that a variable inside the function is global (outside the function)  | c#, python, julia, afl, php | Variable Abstractions | |
 |  GO |   | golang | | |
 |  GOTO | An unconditional jump to a given statement  | c#, java, golang, c, php, c++ | Loops | |
@@ -340,7 +345,8 @@
 |  HIGHZ0 |   | verilog | | |
 |  HIGHZ1 |   | verilog | | |
 |  HR |   | html | | |
-|  HTML |   | html | | |
+|  HTML |This tag defines a header for a document or section; may contain introductory content
+or navigation links. | html | | |
 |  HYPHENS |   | css | | |
 |  I |   | html | | |
 |  ID | id() function returns the *identity* of the object which is guaranteed to be unique | python | inbuilt function | |
@@ -448,7 +454,7 @@
 |  NAMESPACE | | c#, razor, c++, php | | |
 |  NAND | | verilog | | |
 |  NATIVE | | java | | |
-|  NAV | | html | | |
+|  NAV |This tag defines a group of navigation links. | html | | |
 |  NEGEDGE | | verilog | | |
 |  NEW | | c#, javascript, php, ocaml, scala, typescript, c++, java | | |
 |  NEWTYPE | | haskell | | |
@@ -531,14 +537,14 @@
 |  POSITION | | css | | |
 |  POSTFIX | | swift | | |
 |  POSTULATE | | agda | | |
-|  PRAGMA | | | | |
+|  PRAGMA | It is used for checking whether the compiler you’re using is compatible with the code | c, solidity | | |
 |  PRE | | html | | |
 |  PRECEDENCE | | swift | | |
 |  PREFIX | | swift | | |
 |  PRIMITIVE | | agda, verilog | | |
 |  PRINT | | php, python | | |
 |  PRIV | | rust | | |
-|  PRIVATE | | c#, java, swift, javascript, ocaml, agda, scala, typescript, php, c++ | | |
+|  PRIVATE | An access modifier that specifies the accessibility or scope to be contained within a field, method, constructor, or class | c#, java, swift, javascript, ocaml, agda, scala, typescript, php, c++ | | |
 |  PROC | | haskell, rust | | |
 |  PROCEDURE | | afl | | |
 |  PROGRESS | | html | | |
@@ -602,7 +608,8 @@
 |  SCRIPT | | html | | |
 |  SCROLL-BEHAVIOR | | css | | |
 |  SEALED | | c#, scala | | |
-|  SECTION | | razor, html | | |
+|  SECTION |This tag defines a section in a document, such as chapters, parts of a thesis, or
+parts of a Web page whose content is distinct from each other. | razor, html | | |
 |  SELECT | | bash, golang, c#, html | | |
 |  SELECTOR | | | | |
 |  SELF | | swift, ruby, rust | | |
@@ -746,7 +753,9 @@
 |  WAND | | verilog | | |
 |  WARN | | | | |
 |  WARNING | | | | |
-|  WBR | | html | | |
+|  WBR |This tag defines a possible line break; when a word is very long, or you’re concerned
+the browser will break a line at the wrong place, you can use the
+<wbr> element to break the word or line appropriately.| html | | |
 |  WCHAR_T | | c++ | | |
 |  WEAK | | swift | | |
 |  WEAK0 | | verilog | | |
