@@ -1,4 +1,4 @@
-# Roadmap Breakdown
+﻿# Roadmap Breakdown
 
 Every project within the Legesher portfolio follows a similar guideline and flow. Here's the inside scoop to understand how everything works together. 👍
 
@@ -41,7 +41,7 @@ Opportunities describe the type of contribution that the issue is requesting. Th
 `💌 Opportunity: Marketing` : People who help in marketing the repo/project
 `📦 Opportunity: Platform`: Porting to support a new platform  
 `🔌 Opportunity: Plugin`: Links to the repo home  
-`📆 Opportunity: Project Management`: Aids in the intiating, planning, controlling, and closing of a project  
+`📆 Opportunity: Project Management`: Aids in the initiating, planning, controlling, and closing of a project  
 `👀 Opportunity: Review`: People who review the repo  
 `🛡️ Opportunity: Security`: Identify and/or reduce security threats, GDPR, Privacy, etc  
 `🔧 Opportunity: Tool`: Links to the repo home  
@@ -322,9 +322,9 @@ We love our people and we love empowering them to contribute what they know to p
 
 ### If you would like to view the public roadmap
 
-We use ZenHub for our roadmap and sprint backlog. Unfortunately, the roadmap cannot be visible without being a member of the different repositories. The best way to receive access is to contribute to the project. Outside contributors will receive access as their email is readily available through github. You can also add your [email here](http://eepurl.com/dH0reL) to request access to the roadmap.
+We use ZenHub for our roadmap and sprint backlog. Unfortunately, the roadmap cannot be visible without being a member of the different repositories. The best way to receive access is to contribute to the project. Outside contributors will receive access as their email is readily available through GitHub. You can also add your [email here](http://eepurl.com/dH0reL) to request access to the roadmap.
 
-## Github Milestones
+## GitHub Milestones
 
 For managing the Legesher project, sprints are described in GitHub as _milestones_. Each sprint is 2-weeks comprised of around 80 story points (as the project progresses thus number may fluctuate).
 
@@ -340,7 +340,7 @@ Each issue when it is accepted into the current sprint will be given story point
 
 Epics are described as larger feature goals that are set for the project. Epics are usually comprised of multiple issues that all feed into the epic's completion. These have their own label `Epic`.
 
-For example, one of our current epics include [Preparing for Open Source Release](https://github.com/legesher/legesher/issues/1). On Github it looks like a normal issue with another label, but within the ZenHub project management tool it contains a snapshot of all the issues that are associated with the epic, current status of all of the issues as well as their story point estimations.
+For example, one of our current epics include [Preparing for Open Source Release](https://github.com/legesher/legesher/issues/1). On GitHub it looks like a normal issue with another label, but within the ZenHub project management tool it contains a snapshot of all the issues that are associated with the epic, current status of all of the issues as well as their story point estimations.
 
 This is what it might look like on ZenHub:
 <img src="/lib/images/ZenHubEpicView.png" align="center"/>
@@ -349,7 +349,7 @@ This is what it might look like on ZenHub:
 
 Within the ZenHub Project Management tool, the issues are then organized into pipelines depending on the status of the issue.
 
-- `New Issues`: When issues are created they first reside here
+- `New Issues`: When issues are created, they first reside here
 - `Epic`: Where all the major Epics live
 - `Incubator`: In the icebox - issues/features that are +6 months out
 - `Development Backlog`: Work that is sprint-ready, but not yet accepted and planned into the upcoming Milestone
@@ -357,11 +357,11 @@ Within the ZenHub Project Management tool, the issues are then organized into pi
 - `In Progress`: For items that are in the current sprint
 - `Review/QA`: For items that are waiting approval
 - `Done`: Issues that have been completed within the specific sprint.
-- `Closed`: When issues are completed they go here
+- `Closed`: When issues are completed, they go here
 
 ## Releases
 
-Releases are the larger moments that the public are aware of. When a new version of a software is released, it is included in a "Release". Some may be a patches because a certain bug was found to full on version upgrades.
+Releases are the larger moments that the public are aware of. When a new version of a software is released, it is included in a "Release". Some may be a patch because a certain bug was found to full on version upgrades.
 
 ## Assignees
 
