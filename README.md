@@ -156,6 +156,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="http://victoriamachen.com"><img src="https://avatars2.githubusercontent.com/u/21050517?v=4" width="100px;" alt="Victoria Machen"/><br /><sub><b>Victoria Machen</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=machen2" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/pablostellet"><img src="https://avatars1.githubusercontent.com/u/21026497?v=4" width="100px;" alt="Pablo Stellet Dias"/><br /><sub><b>Pablo Stellet Dias</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=pablostellet" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mehnazyunus"><img src="https://avatars1.githubusercontent.com/u/27924407?v=4" width="100px;" alt="Mehnaz Yunus"/><br /><sub><b>Mehnaz Yunus</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=mehnazyunus" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/michizhou"><img src="https://avatars3.githubusercontent.com/u/33012425?v=4" width="100px;" alt="michizhou"/><br /><sub><b>michizhou</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=michizhou" title="Documentation">📖</a></td>
   </tr>
 </table>
 
