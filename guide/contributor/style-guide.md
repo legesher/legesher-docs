@@ -1,17 +1,18 @@
 <!-- this coding style was modified from the Electron style guide -->
+
 # Legesher Documentation Style Guide
 
-These are the guidelines for writing Legesher documentation. 
+These are the guidelines for writing Legesher documentation.
 
 ## Titles
 
-* Each page must have a single `#`-level title at the top.
-* Chapters in the same page must have `##`-level titles.
-* Sub-chapters need to increase the number of `#` in the title according to
+- Each page must have a single `#`-level title at the top.
+- Chapters in the same page must have `##`-level titles.
+- Sub-chapters need to increase the number of `#` in the title according to
   their nesting depth.
-* All words in the page's title must be capitalized, except for conjunctions
+- All words in the page's title must be capitalized, except for conjunctions
   like "of" and "and" .
-* Only the first word of a chapter title must be capitalized.
+- Only the first word of a chapter title must be capitalized.
 
 Using `Quick Start` as example:
 
@@ -45,16 +46,16 @@ For API references, there are exceptions to this rule.
 
 ## Markdown rules
 
-* Use `sh` instead of `cmd` in code blocks (due to the syntax highlighter).
-* Lines should be wrapped at 80 columns.
-* No nesting lists more than 2 levels (due to the markdown renderer).
-* All `js` and `javascript` code blocks are linted with
-[standard-markdown](http://npm.im/standard-markdown).
+- Use `sh` instead of `cmd` in code blocks (due to the syntax highlighter).
+- Lines should be wrapped at 80 columns.
+- No nesting lists more than 2 levels (due to the markdown renderer).
+- All `js` and `javascript` code blocks are linted with
+  [standard-markdown](http://npm.im/standard-markdown).
 
 ## Picking words
 
-* Use "will" over "would" when describing outcomes.
-* Prefer "in the ___ process" over "on".
+- Use "will" over "would" when describing outcomes.
+- Prefer "in the \_\_\_ process" over "on".
 
 ## API references
 
@@ -96,17 +97,17 @@ Using `autoUpdater` as an example:
 
 ### Classes
 
-* API classes or classes that are part of modules must be listed under a
+- API classes or classes that are part of modules must be listed under a
   `## Class: TheClassName` chapter.
-* One page can have multiple classes.
-* Constructors must be listed with `###`-level titles.
-* [Static Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static) must be listed under a `### Static Methods` chapter.
-* [Instance Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Prototype_methods) must be listed under an `### Instance Methods` chapter.
-* All methods that have a return value must start their description with "Returns `[TYPE]` - Return description"
-  * If the method returns an `Object`, its structure can be specified using a colon followed by a newline then an unordered list of properties in the same style as function parameters.
-* Instance Events must be listed under an `### Instance Events` chapter.
-* Instance Properties must be listed under an `### Instance Properties` chapter.
-  * Instance properties must start with "A [Property Type] ..."
+- One page can have multiple classes.
+- Constructors must be listed with `###`-level titles.
+- [Static Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static) must be listed under a `### Static Methods` chapter.
+- [Instance Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Prototype_methods) must be listed under an `### Instance Methods` chapter.
+- All methods that have a return value must start their description with "Returns `[TYPE]` - Return description"
+  - If the method returns an `Object`, its structure can be specified using a colon followed by a newline then an unordered list of properties in the same style as function parameters.
+- Instance Events must be listed under an `### Instance Events` chapter.
+- Instance Properties must be listed under an `### Instance Properties` chapter.
+  - Instance properties must start with "A [Property Type] ..."
 
 Using the `Session` and `Cookies` classes as an example:
 
@@ -149,8 +150,8 @@ The methods chapter must be in the following form:
 ```markdown
 ### `objectName.methodName(required[, optional]))`
 
-* `required` String - A parameter description.
-* `optional` Integer (optional) - Another parameter description.
+- `required` String - A parameter description.
+- `optional` Integer (optional) - Another parameter description.
 
 ...
 ```
@@ -176,19 +177,19 @@ required[, optional]
 Below the method is more detailed information on each of the arguments. The type
 of argument is notated by either the common types:
 
-* [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-* [`Number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
-* [`Object`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-* [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* [`Boolean`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
-* Or a custom type like Electron's [`WebContent`](api/web-contents.md)
+- [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [`Number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+- [`Object`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [`Boolean`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+- Or a custom type like Electron's [`WebContent`](api/web-contents.md)
 
 If an argument or a method is unique to certain platforms, those platforms are
 denoted using a space-delimited italicized list following the datatype. Values
 can be `macOS`, `Windows` or `Linux`.
 
 ```markdown
-* `animate` Boolean (optional) _macOS_ _Windows_ - Animate the thing.
+- `animate` Boolean (optional) _macOS_ _Windows_ - Animate the thing.
 ```
 
 `Array` type arguments must specify what elements the array may include in
@@ -206,7 +207,7 @@ The events chapter must be in following form:
 
 Returns:
 
-* `time` String
+- `time` String
 
 ...
 ```

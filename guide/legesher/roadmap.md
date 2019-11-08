@@ -267,31 +267,31 @@ Opportunities describe the type of contribution that the issue is requesting. Th
 
 **Color**: Coral (#F48370)
 `Language: Atom`: Atom programming language
-`Language: Agda`: Agda programming language 
-`Language: AFL`: AFL programming language 
-`Language: Bash`: Bash programming language 
-`Language: C`: C programming language 
-`Language: C#`: C# programming language 
-`Language: Fluent`: Fluent programming language 
-`Language: Golang`: Golang programming language 
-`Language: Haskell`: Haskell programming language 
-`Language: HTML/CSS`: HTML/CSS programming language 
-`Language: Java`: Java programming language 
-`Language: JavaScript`: JavaScript programming language 
-`Language: Julia`: Julia programming language 
-`Language: JSDoc`: JSDoc programming language 
-`Language: JSON`: JSON programming language 
-`Language: Node`: Node programming language 
-`Language: OCaml`: OCaml programming language 
-`Language: PHP`: PHP programming language 
-`Language: Python`: Python programming language 
-`Language: Razor`: Razor programming language 
-`Language: RegEx`: RegEx programming language 
-`Language: Ruby`: Ruby programming language 
-`Language: Rust`: Rust programming language 
-`Language: Scala`: Scala programming language 
-`Language: Swift`: Swift programming language 
-`Language: TypeScript`: TypeScript programming language 
+`Language: Agda`: Agda programming language
+`Language: AFL`: AFL programming language
+`Language: Bash`: Bash programming language
+`Language: C`: C programming language
+`Language: C#`: C# programming language
+`Language: Fluent`: Fluent programming language
+`Language: Golang`: Golang programming language
+`Language: Haskell`: Haskell programming language
+`Language: HTML/CSS`: HTML/CSS programming language
+`Language: Java`: Java programming language
+`Language: JavaScript`: JavaScript programming language
+`Language: Julia`: Julia programming language
+`Language: JSDoc`: JSDoc programming language
+`Language: JSON`: JSON programming language
+`Language: Node`: Node programming language
+`Language: OCaml`: OCaml programming language
+`Language: PHP`: PHP programming language
+`Language: Python`: Python programming language
+`Language: Razor`: Razor programming language
+`Language: RegEx`: RegEx programming language
+`Language: Ruby`: Ruby programming language
+`Language: Rust`: Rust programming language
+`Language: Scala`: Scala programming language
+`Language: Swift`: Swift programming language
+`Language: TypeScript`: TypeScript programming language
 `Language: Verilog`: Verilog programming language
 
 ### Technical Experience
