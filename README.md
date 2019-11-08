@@ -166,6 +166,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/csteacher1"><img src="https://avatars1.githubusercontent.com/u/23364000?v=4" width="100px;" alt="csteacher1"/><br /><sub><b>csteacher1</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=csteacher1" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sameshl"><img src="https://avatars0.githubusercontent.com/u/43701530?v=4" width="100px;" alt="Samesh Lakhotia"/><br /><sub><b>Samesh Lakhotia</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=sameshl" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/underscoreanuj"><img src="https://avatars1.githubusercontent.com/u/30765911?v=4" width="100px;" alt="Anuj Singh"/><br /><sub><b>Anuj Singh</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=underscoreanuj" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/arnav-ishaan-00a91b14a/"><img src="https://avatars1.githubusercontent.com/u/44508544?v=4" width="100px;" alt="Arnav Ishaan"/><br /><sub><b>Arnav Ishaan</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=knightwayne" title="Documentation">📖</a></td>
   </tr>
 </table>
 

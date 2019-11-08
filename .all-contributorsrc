@@ -262,6 +262,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "knightwayne",
+      "name": "Arnav Ishaan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44508544?v=4",
+      "profile": "https://www.linkedin.com/in/arnav-ishaan-00a91b14a/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
