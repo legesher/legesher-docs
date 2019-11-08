@@ -162,6 +162,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="http://valerianpereira.in"><img src="https://avatars1.githubusercontent.com/u/5975506?v=4" width="100px;" alt="Valerian Pereira"/><br /><sub><b>Valerian Pereira</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/issues?q=author%3Avalerianpereira" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/r-narayanan"><img src="https://avatars1.githubusercontent.com/u/56675287?v=4" width="100px;" alt="r-narayanan"/><br /><sub><b>r-narayanan</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=r-narayanan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/josephkmh"><img src="https://avatars3.githubusercontent.com/u/7550957?v=4" width="100px;" alt="Joey Marshment-Howell"/><br /><sub><b>Joey Marshment-Howell</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=josephkmh" title="Code">💻</a></td>
   </tr>
 </table>
 
