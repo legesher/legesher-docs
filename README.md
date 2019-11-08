@@ -157,6 +157,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/pablostellet"><img src="https://avatars1.githubusercontent.com/u/21026497?v=4" width="100px;" alt="Pablo Stellet Dias"/><br /><sub><b>Pablo Stellet Dias</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=pablostellet" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mehnazyunus"><img src="https://avatars1.githubusercontent.com/u/27924407?v=4" width="100px;" alt="Mehnaz Yunus"/><br /><sub><b>Mehnaz Yunus</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=mehnazyunus" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/michizhou"><img src="https://avatars3.githubusercontent.com/u/33012425?v=4" width="100px;" alt="michizhou"/><br /><sub><b>michizhou</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=michizhou" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kichloo"><img src="https://avatars1.githubusercontent.com/u/31816531?v=4" width="100px;" alt="Vishal Kichloo"/><br /><sub><b>Vishal Kichloo</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=kichloo" title="Code">💻</a></td>
   </tr>
 </table>
 
