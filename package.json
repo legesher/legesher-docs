@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "legesher-docs",
   "version": "0.0.1",
   "description": "Legesher's documentation hub.",
@@ -33,25 +32,3 @@
     "unibeautify": "^0.17.0"
   }
 }
-=======
-    "name": "legesher-docs",
-    "version": "0.0.1",
-    "description": "Legesher's documentation hub.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/legesher/legesher-docs.git"
-    },
-    "keywords": [
-        "documentation", "legesher", "open-source"
-    ],
-    "author": "Madison Edgar",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/legesher/legesher-docs/issues"
-    },
-    "homepage": "https://github.com/legesher/legesher-docs#readme",
-    "dependencies": {
-        "all-contributors-cli": "^6.9.2"
-    }
-}
->>>>>>> 9170894ba30687f617182c5ed747e9ef2fcdefb1
