@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-docs/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-docs?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-16-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-28-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
@@ -129,7 +129,8 @@ A message from our [founder, Madi](https://www.instagram.com/withmadico/):
 Meet our [community](https://github.com/legesher/legesher/tree/master/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a> <a href="https://github.com/legesher/legesher-docs/commits?author=madiedgar" title="Code">💻</a></td>
@@ -152,8 +153,25 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="https://github.com/tawhk"><img src="https://avatars0.githubusercontent.com/u/18006017?v=4" width="100px;" alt="Gustavo J. Acosta"/><br /><sub><b>Gustavo J. Acosta</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=tawhk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ewelinasobora"><img src="https://avatars2.githubusercontent.com/u/11948354?v=4" width="100px;" alt="Ewelina Sobora"/><br /><sub><b>Ewelina Sobora</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=ewelinasobora" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://victoriamachen.com"><img src="https://avatars2.githubusercontent.com/u/21050517?v=4" width="100px;" alt="Victoria Machen"/><br /><sub><b>Victoria Machen</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=machen2" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pablostellet"><img src="https://avatars1.githubusercontent.com/u/21026497?v=4" width="100px;" alt="Pablo Stellet Dias"/><br /><sub><b>Pablo Stellet Dias</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=pablostellet" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mehnazyunus"><img src="https://avatars1.githubusercontent.com/u/27924407?v=4" width="100px;" alt="Mehnaz Yunus"/><br /><sub><b>Mehnaz Yunus</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=mehnazyunus" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/michizhou"><img src="https://avatars3.githubusercontent.com/u/33012425?v=4" width="100px;" alt="michizhou"/><br /><sub><b>michizhou</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=michizhou" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kichloo"><img src="https://avatars1.githubusercontent.com/u/31816531?v=4" width="100px;" alt="Vishal Kichloo"/><br /><sub><b>Vishal Kichloo</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=kichloo" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://valerianpereira.in"><img src="https://avatars1.githubusercontent.com/u/5975506?v=4" width="100px;" alt="Valerian Pereira"/><br /><sub><b>Valerian Pereira</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/issues?q=author%3Avalerianpereira" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/r-narayanan"><img src="https://avatars1.githubusercontent.com/u/56675287?v=4" width="100px;" alt="r-narayanan"/><br /><sub><b>r-narayanan</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=r-narayanan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/josephkmh"><img src="https://avatars3.githubusercontent.com/u/7550957?v=4" width="100px;" alt="Joey Marshment-Howell"/><br /><sub><b>Joey Marshment-Howell</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=josephkmh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/csteacher1"><img src="https://avatars1.githubusercontent.com/u/23364000?v=4" width="100px;" alt="csteacher1"/><br /><sub><b>csteacher1</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=csteacher1" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sameshl"><img src="https://avatars0.githubusercontent.com/u/43701530?v=4" width="100px;" alt="Samesh Lakhotia"/><br /><sub><b>Samesh Lakhotia</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=sameshl" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/underscoreanuj"><img src="https://avatars1.githubusercontent.com/u/30765911?v=4" width="100px;" alt="Anuj Singh"/><br /><sub><b>Anuj Singh</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=underscoreanuj" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/arnav-ishaan-00a91b14a/"><img src="https://avatars1.githubusercontent.com/u/44508544?v=4" width="100px;" alt="Arnav Ishaan"/><br /><sub><b>Arnav Ishaan</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=knightwayne" title="Documentation">📖</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
