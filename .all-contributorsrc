@@ -163,6 +163,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "machen2",
+      "name": "Victoria Machen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21050517?v=4",
+      "profile": "http://victoriamachen.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7

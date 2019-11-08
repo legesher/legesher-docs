@@ -129,7 +129,8 @@ A message from our [founder, Madi](https://www.instagram.com/withmadico/):
 Meet our [community](https://github.com/legesher/legesher/tree/master/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a> <a href="https://github.com/legesher/legesher-docs/commits?author=madiedgar" title="Code">💻</a></td>
@@ -152,9 +153,12 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="https://github.com/tawhk"><img src="https://avatars0.githubusercontent.com/u/18006017?v=4" width="100px;" alt="Gustavo J. Acosta"/><br /><sub><b>Gustavo J. Acosta</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=tawhk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ewelinasobora"><img src="https://avatars2.githubusercontent.com/u/11948354?v=4" width="100px;" alt="Ewelina Sobora"/><br /><sub><b>Ewelina Sobora</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=ewelinasobora" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://victoriamachen.com"><img src="https://avatars2.githubusercontent.com/u/21050517?v=4" width="100px;" alt="Victoria Machen"/><br /><sub><b>Victoria Machen</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=machen2" title="Documentation">📖</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 _This project follows the [all-contributors](https://allcontributors.org/) specification. Contributions of any kind are welcome and recognized. ✨_
