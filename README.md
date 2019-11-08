@@ -159,6 +159,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/michizhou"><img src="https://avatars3.githubusercontent.com/u/33012425?v=4" width="100px;" alt="michizhou"/><br /><sub><b>michizhou</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=michizhou" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kichloo"><img src="https://avatars1.githubusercontent.com/u/31816531?v=4" width="100px;" alt="Vishal Kichloo"/><br /><sub><b>Vishal Kichloo</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=kichloo" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://valerianpereira.in"><img src="https://avatars1.githubusercontent.com/u/5975506?v=4" width="100px;" alt="Valerian Pereira"/><br /><sub><b>Valerian Pereira</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/issues?q=author%3Avalerianpereira" title="Bug reports">🐛</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->

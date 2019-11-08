@@ -208,6 +208,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "valerianpereira",
+      "name": "Valerian Pereira",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5975506?v=4",
+      "profile": "http://valerianpereira.in",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
