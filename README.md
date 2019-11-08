@@ -164,6 +164,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/r-narayanan"><img src="https://avatars1.githubusercontent.com/u/56675287?v=4" width="100px;" alt="r-narayanan"/><br /><sub><b>r-narayanan</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=r-narayanan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/josephkmh"><img src="https://avatars3.githubusercontent.com/u/7550957?v=4" width="100px;" alt="Joey Marshment-Howell"/><br /><sub><b>Joey Marshment-Howell</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=josephkmh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/csteacher1"><img src="https://avatars1.githubusercontent.com/u/23364000?v=4" width="100px;" alt="csteacher1"/><br /><sub><b>csteacher1</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=csteacher1" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sameshl"><img src="https://avatars0.githubusercontent.com/u/43701530?v=4" width="100px;" alt="Samesh Lakhotia"/><br /><sub><b>Samesh Lakhotia</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=sameshl" title="Code">💻</a></td>
   </tr>
 </table>
 
