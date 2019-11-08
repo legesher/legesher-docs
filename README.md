@@ -154,6 +154,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/tawhk"><img src="https://avatars0.githubusercontent.com/u/18006017?v=4" width="100px;" alt="Gustavo J. Acosta"/><br /><sub><b>Gustavo J. Acosta</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=tawhk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ewelinasobora"><img src="https://avatars2.githubusercontent.com/u/11948354?v=4" width="100px;" alt="Ewelina Sobora"/><br /><sub><b>Ewelina Sobora</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=ewelinasobora" title="Documentation">📖</a></td>
     <td align="center"><a href="http://victoriamachen.com"><img src="https://avatars2.githubusercontent.com/u/21050517?v=4" width="100px;" alt="Victoria Machen"/><br /><sub><b>Victoria Machen</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=machen2" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pablostellet"><img src="https://avatars1.githubusercontent.com/u/21026497?v=4" width="100px;" alt="Pablo Stellet Dias"/><br /><sub><b>Pablo Stellet Dias</b></sub></a><br /><a href="https://github.com/legesher/legesher-docs/commits?author=pablostellet" title="Documentation">📖</a></td>
   </tr>
 </table>
 
