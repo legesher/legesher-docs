@@ -1,31 +1,36 @@
 # Table of contents
 
-* [README](README.md)
-* [guide](guide/README.md)
-  * [creator](guide/creator/README.md)
-    * [Creator Guide 🎨](guide/creator/creator-guide.md)
-  * [contributor](guide/contributor/README.md)
-    * [glossary](guide/contributor/glossary.md)
-    * [Keyword Table](guide/contributor/keyword-table.md)
-    * [Contributor Guide 🎁](guide/contributor/contributor-guide.md)
-    * [\(FREE\) Toolbox Shopping 💰](guide/contributor/contributor-toolbox.md)
-    * [Legesher Documentation Style Guide](guide/contributor/style-guide.md)
-    * [Legesher Translation Guide](guide/contributor/translation-guide.md)
-    * [Coding Style](guide/contributor/coding-style.md)
-    * [Language :loudspeaker: Guide](guide/contributor/language-guide.md)
-    * [Tree 🌴 Sitter Guide](guide/contributor/tree-sitter.md)
-  * [legesher](guide/legesher/README.md)
-    * [the-reason-why](guide/legesher/the-reason-why.md)
-    * [roadmap](guide/legesher/roadmap.md)
-    * [community-guide](guide/legesher/community-guide.md)
-    * [idea-breakdown](guide/legesher/idea-breakdown.md)
-* [LICENSE](license.md)
-* [.github](.github/README.md)
-  * [ISSUE\_TEMPLATE](.github/issue_template/README.md)
-    * [Adding LANGUAGE to the Legesher Translations for Python](.github/issue_template/add_dialect.md)
-    * [FEATURE\_REQUEST](.github/issue_template/feature_request.md)
-    * [BUG\_REPORT](.github/issue_template/bug_report.md)
-    * [Review DIALECT Language Translations for the Python Programming Language](.github/issue_template/review_dialect.md)
-  * [PULL\_REQUEST\_TEMPLATE](.github/pull_request_template.md)
-* [CONTRIBUTING](contributing.md)
+* [What is Legesher?](README.md)
+
+## 🎨 legesher-docs
+
+* [Getting Started](legesher-docs/getting-started.md)
+* [Keyword Table](legesher-docs/keyword-table.md)
+* [Glossary](legesher-docs/glossary.md)
+* [Documentation Style Guide](legesher-docs/style-guide.md)
+* [Coding Style Guide](legesher-docs/coding-style.md)
+
+## 💡 Legesher
+
+* [The Reason Why](legesher/the-reason-why.md)
+* [Project Breakdown](legesher/roadmap.md)
+* [Community Guide](legesher/community-guide.md)
+* [Idea Breakdown](legesher/idea-breakdown.md)
+
+## 🔄 Legesher-translations
+
+* [Translation Guide](legesher-translations/translation-guide.md)
+
+## 🌴 tree-sitter-legesher-python
+
+* [Tree Sitter Guide](tree-sitter-legesher-python/tree-sitter.md)
+
+## 🗣 language-legesher-python
+
+* [Language Guide](language-legesher-python/language-guide.md)
+
+## ⚖️ The Official Things
+
+* [Open Source License](the-official-things/license.md)
+* [Contributing Guidelines](the-official-things/contributing-guidelines.md)
 
