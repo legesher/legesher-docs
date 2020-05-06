@@ -1,10 +1,12 @@
-﻿# The Reason Why
+# the-reason-why
+
+\# The Reason Why
 
 > Okay, but why?
 
 It is absolutely okay if you're asking yourself this question - "But why are we even building this?" In short, we're building Legesher because we can. We're building Legesher to provide new ways for non-native english speakers to understand programming. We're creating a new coworking normalcy for world-wide teams that already tackle enough barriers in their daily collaboration.
 
-For the native English speaker (like myself):
+For the native English speaker \(like myself\):
 
 Allow me to paint you a picture. You're familiar with a `STOP` 🔴 sign right? That red hexagon with 4 white letters `S`,`T`,`O`,`P` that you see at intersections?
 
@@ -26,3 +28,4 @@ Right now in the world of software development, we're full of `STOP` signs that 
 > **But it doesn't have to be this way.**
 
 Language doesn't have to be a barrier. Language can be a bridge. **Legesher** creates this ability for people to learn and develop code in their own native language, without getting stuck trying to understand foreign symbols and slang. That's what we're doing here.
+
