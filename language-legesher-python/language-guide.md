@@ -1,4 +1,4 @@
-# Language Guide
+# Atom Language Guide
 
 This is the documentation I've been following \(and creating\) as I've been making changes to the language repositories for the different text editors that Legesher is able to be run on.
 

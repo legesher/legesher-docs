@@ -12,14 +12,14 @@
 
 ## 💡 Legesher
 
-* [The Reason Why](legesher/the-reason-why.md)
-* [Project Breakdown](legesher/roadmap.md)
-* [Community Guide](legesher/community-guide.md)
-* [Idea Breakdown](legesher/idea-breakdown.md)
+* [The Why](legesher/the-why.md)
+* [The Breakdown](legesher/roadmap.md)
+* [The Roadmap](https://github.com/orgs/legesher/projects)
 
 ## 🔄 Legesher-translations
 
 * [Translation Guide](legesher-translations/translation-guide.md)
+* [Translation Conventions](legesher-translations/untitled.md)
 
 ## 🌴 tree-sitter-legesher-python
 
@@ -27,10 +27,12 @@
 
 ## 🗣 language-legesher-python
 
-* [Language Guide](language-legesher-python/language-guide.md)
+* [Atom Language Guide](language-legesher-python/language-guide.md)
 
 ## ⚖️ The Official Things
 
+* [Governance](the-official-things/untitled-1.md)
+* [Code of Conduct](the-official-things/untitled.md)
 * [Open Source License](the-official-things/license.md)
 * [Contributing Guidelines](the-official-things/contributing-guidelines.md)
 

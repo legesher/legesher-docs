@@ -1,4 +1,4 @@
-# Project Breakdown
+# The Breakdown
 
 ## Project Breakdown
 
@@ -155,6 +155,4 @@ Releases are the larger moments that the public are aware of. When a new version
 On each issue an individual or team of people will be assigned when it is added to a Milestone/Sprint. If you are assigned to the issue it is your responsibility to complete the assignment. As always, we are more than willing to help and involve the community as best as you can - even documenting your thought process along the way. If you would like to be assigned to the issue and help solve the issue, please comment on the issue and take the initiative. We love that!! ❤️
 
 * We have contributor guidelines that are to ensure you're not wasting your time with mundane tasks and additionally so we maintain consistency across the project. When you have contributed to the project, we would like to honor you and thank you for your contribution. When your contribution is accepted, you will receive instructions to receive your gift. 🎁
-
-[Take a look at our current contributors here](roadmap.md)
 

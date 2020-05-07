@@ -2,13 +2,15 @@
 
 > So where do we start?
 
-Great question! We're going to walk through the different tools that will be important to contributing to the project. There are many ways to contribute to Legesher - most of which you only need wifi access! We'll walk you through the different tools, their purpose, and how we use them within in Legesher. If you're an experienced developer, you probably already have most of the items below. We've tried to detail out all of the tools / processes that are used within the project so as to open-source the process as well as the code and share the knowledge. If there are ways to improve, you can look at our entire process and see if it's a better fit. Feel free to use the rest of the guides as supplemental education to reference if you're getting stuck or want to contribute in a new area.
+_Great question!_ Below are a couple of different tools that will be important in contributing to the project. There are many ways to contribute to Legesher - most of which you only need wifi access! 
 
-Other than that, **enjoy**!
+We'll walk the installation of each tool, their purpose, and how we use them within in Legesher. 
+
+But above all, **enjoy**!
 
 ## Table of Contents
 
-The best place to start is to evaluate what _exactly_ you have in your toolbox and what else you need to obtain. In this lesson, we'll walk through a few key tools that are essential to contributing to Legesher: Discord, a Github account and a text editor \(Atom\). Allow me to explain!
+The best place to start is to evaluate what _exactly_ you have in your toolbox and what else you need to obtain. The few key tools that are essential to contributing to Legesher: **Discord**, a **Github account** and a **text editor** \(Atom\). 
 
 * [The Pride w/ Discord](getting-started.md#the-pride)
 * [The Code w/ Github](getting-started.md#the-code)
@@ -24,7 +26,11 @@ Community is extremely important to us, and having a designated space for all of
 
 ### Getting Connected
 
-Welcome to the Pride, [click here to enter](https://discord.gg/yvsprVf)! This link will take you to this page. Discord is similar to any other communication platform - like `Slack` or `Cisco Spark`, but allows us to focus on a key feature we love within the Legesher community - our voice.
+{% hint style="success" %}
+Welcome to the Pride, [click here to enter](https://discord.gg/yvsprVf)! 
+{% endhint %}
+
+This link will take you to this page. Discord is similar to any other communication platform - like `Slack` or `Cisco Spark`, but allows us to focus on a key feature we love within the Legesher community - our voice.
 
 ![](../.gitbook/assets/discord-invitation.png)
 
@@ -35,9 +41,9 @@ You can either open Discord up in the browser using their web application or you
 ![](../.gitbook/assets/discord-welcome.png)
 
 On Discord, you'll be able to connect with other inspiring individuals like yourself as you contribute towards Legesher.  
-1️⃣ Introduce yourself on the `#introductions` channel  
-2️⃣ Check out our [community guidelines](../legesher/community-guide.md)  
-3️⃣ Learn [how to contribute](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) to Legesher
+1⃣ Introduce yourself on the `#introductions` channel  
+2⃣Check out our[ Code of Conduct](../the-official-things/untitled.md)  
+3⃣ Learn [how to contribute](../the-official-things/contributing-guidelines.md) to Legesher
 
 **Servers** After you accept the invitation to join Legesher's Discord Community, you are essentially adding the Legesher server to your Discord account. The far left-hand column contains all of the servers you as a user are connected to.
 
@@ -68,36 +74,36 @@ Github is also like Google Drive, where it hosts all of the content and assets f
 Git is the version control software that Github uses to keep track of what is happening to your coding projects.
 
 _**What does version control mean?**_  
-Anytime you work in your project, anytime you save a change \(in git we call that `committing a change`\), you’re able to go back to that “snapshot” of the project and restart from there if you find yourself in a pigeon hole. Just like checkpoints in video games, if you fail a challenge you can restart at the checkpoint. Best thing about git, is that you can create checkpoints whenever and how ever often you want!
+Anytime you work in your project, anytime you save a change \(in git we call that `committing a change`\), you’re able to go back to that “snapshot” of the project and restart from there if you find yourself in a pigeon hole. Just like checkpoints in video games, if you fail a challenge you can restart at the checkpoint. Best thing about git, is that you can create checkpoints whenever and however often you want!
 
 _**Why use a version control software?**_  
 I put every project on Github, because you can never predict when your laptop is going to crash/get stolen and you don’t want to lose all the work you’ve done. In college, I started writing my essays in Google Drive so I can work anywhere and the auto-saves literally save my butt anytime my computer crashed. \(And now, Google Drive has “revision history” so it's now even a little more like git\)
 
 With a version control software you are able to work anywhere, with anyone, at anytime. _Pretty cool, huh?_
 
-### Creating a Github :octocat: Account
+### Creating a Github Account
 
 You might already feel lost - you just decided you want to help on this project but right out of the bag you're faced with a hurdle of unknown. That helplessness you feel is exactly the type of feeling the programmers we're building this tool for experience! Let's get through this together, and learn a lot in the process.
 
 ![](../.gitbook/assets/sign-up-github.png)
 
-1️⃣ Navigate to [Github](https://github.com) to create a new account. Enter your desired username, associated email address and secret password.
+1⃣ Navigate to [Github](https://github.com) to create a new account. Enter your desired username, associated email address and secret password.
 
 ![](../.gitbook/assets/github-1.png)
 
-2️⃣ Verify you're not a robot 🤖by going through the exercise.
+2⃣ Verify you're not a robot 🤖by going through the exercise.
 
 ![](../.gitbook/assets/github-2.png)
 
-3️⃣ Once verified human, select your subscription \(free is more than fine for now\). You don't need to select the `Help me set up an organization next` for you will be contributing to the `Legesher` organization's repositories to start!
+3⃣ Once verified human, select your subscription \(free is more than fine\). You don't need to select the `Help me set up an organization next` for you will be contributing to the `Legesher` organization's repositories to start!
 
 ![](../.gitbook/assets/github-4.png)
 
-4️⃣ You will then need to verify your email address to finish setting up your account. \(Also, feel free to email `legsher@gmail.com` for questions, concerns, or funny memes.\)
+4⃣ You will then need to verify your email address to finish setting up your account. \(Also, feel free to email `legsher@gmail.com` for questions, concerns, or funny memes.\)
 
 ![](../.gitbook/assets/github-5.png)
 
-5️⃣ After you verified your account, you can access your profile. This is where other developers can see what you've been working on and connect with you.
+5⃣ After you verified your account, you can access your profile. This is where other developers can see what you've been working on and connect with you.
 
 **Repositories**  
 You repositories will be available to view here \(unless they are private repositories, then they will only be visible to you\).
@@ -113,7 +119,7 @@ Just like any other basic social media platform, you are given the ability to fo
 
 ![](../.gitbook/assets/github-6.png)
 
-6️⃣ Let's dive into Legesher and how to contribute! Feel free to star any \(or all lol\) of these repositories and follow any of our team members because they're inspiring people just like you!
+6⃣ Let's dive into Legesher and how to contribute! Feel free to star any \(or all lol\) of these repositories and follow any of our team members because they're inspiring people just like you!
 
 ## The Platform
 

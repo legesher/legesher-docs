@@ -2,27 +2,27 @@
 
 ## Legesher's Contributing Guideline👐
 
-### THANK YOU❤️
+First off, thank you for just being _here_. 
 
-First off, thank you for just being _here_. It's people like you who have a heart❤️ to serve and desire to create something bigger than themselves that we want to be part of our team. So thank you, because by choosing to contribute to **Legesher** we're one step closer to creating a world where innovation, creativity and collaboration aren't lost in translation. This is so much more than a product, it's an opportunity that opens doors. Thank YOU for making all of this possible.
+It's people like you who have a heart❤️ to serve and desire to create something bigger than themselves that we want to be part of our team. So thank you, because by choosing to contribute to **Legesher** we're one step closer to creating a world where innovation, creativity and collaboration aren't lost in translation. This is so much more than a product, it's an opportunity that opens doors. Thank YOU for making all of this possible.
 
 Here's a high level overview of what this guide entails. It is designed to be read and revisited as you become more involved with the project.
 
-* Our Reason Why
-* You Can Be a Part
-  * Legesher Resources
-* Contributing
-  * Ground Rules
-  * My First Contribution
-* Review Process
-  * Program Enhancements
-  * Language Translations
-* Style Guide
-  * Commit Message Guidelines
-* Submitting Issues
-  * Bug Reports
-  * Feature or Enhancement Suggestions
-  * Security Reports
+* [Our Reason Why](contributing-guidelines.md#our-reason-why)
+* [You Can Be a Part](contributing-guidelines.md#you-can-be-a-part)
+  * [Legesher Resources](contributing-guidelines.md#legesher-resources)
+* [Contributing](contributing-guidelines.md#contributing)
+  * [Ground Rules](contributing-guidelines.md#ground-rules)
+  * [My First Contribution](contributing-guidelines.md#my-first-contribution)
+* [Review Process](contributing-guidelines.md#review-process)
+  * [Program Enhancements](contributing-guidelines.md#program-enhancements)
+  * [Language Translations](contributing-guidelines.md#language-translations)
+* [Style Guide](contributing-guidelines.md#style-guide)
+  * [Commit Message Guidelines](contributing-guidelines.md#commit-message-guidelines)
+* [Submitting Issues](contributing-guidelines.md#submitting-issues)
+  * [Bug Reports](contributing-guidelines.md#bug-reports)
+  * [Feature or Enhancement Suggestions](contributing-guidelines.md#feature-or-enhancement-suggestions)
+  * [Security Reports](contributing-guidelines.md#security-reports)
 
 ## Our Reason Why🔑
 
@@ -30,7 +30,7 @@ We all have the same goal:
 
 > Programming with **Legesher**'s dev tools empowers any developer to create without losing the art of innovation💡, creativity🎨, or collaboration🤝 in translation.
 
-To learn why [Madi](https://www.instagram.com/withmadico/) created this project, more information can be found [here](https://github.com/legesher/legesher-docs/blob/master/guide/legesher/the-reason-why.md).
+To learn why [Madi](https://www.instagram.com/withmadico/) created this project, more information can be found [here](../legesher/the-why.md).
 
 ### You Can Be A Part🤝
 
@@ -44,7 +44,7 @@ Here are some important and helpful resources for **Legesher**:
   * Use the `Legesher` channel for questions about Legesher
   * Use the `tutorials` channel for questions about Legesher, Github, or Programming tutorials
   * There are many other channels available, check the channel list
-* [Current Project Status](https://github.com/legesher/legesher) \(we're keeping everything on Github for the time being\)
+* [Current Project Status ](https://github.com/orgs/legesher/projects)
 * [Official Legesher Website](https://legesher.io/)
 * [Legesher Documentation Website](https://docs.legesher.io)
 
@@ -60,9 +60,9 @@ There are many ways for you to get involved in **Legesher**. One of the biggest 
 
 When contributing it is important to make sure we follow the same guidelines:
 
-* Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. [\(Read More\)](https://github.com/legesher/Legesher/blob/master/CODE_OF_CONDUCT.md)
+* Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. [\(Read More\)](untitled.md)
 * Ensure cross-platform compatibility for every change that's accepted. \(Windows, Mac, Debian & Ubuntu Linux\)
-* Ensure that code that goes into core meets all requirements in [this checklist](https://github.com/legesher/Legesher/tree/master/.github/ISSUE_TEMPLATE)
+* Ensure that code that goes into core meets all requirements in [this checklist](contributing-guidelines.md)
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 * Don't add any classes to the codebase unless absolutely needed. Err on the side of using functions.
 * Keep feature versions as small as possible, preferably one new feature per version.
@@ -182,11 +182,11 @@ _See_ [_conventionalcommits.org_](https://conventionalcommits.org/) _for more de
 
 ### Bug Reports🐛
 
-Answer [these questions](https://github.com/legesher/Legesher/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) when reporting a bug.
+When reporting a bug, answer the questions in the issue templates in each repository.
 
 ### Feature or Enhancement Suggestions🚀
 
-Answer [these questions](https://github.com/legesher/Legesher/blob/master/.github/ISSUE_TEMPLATE/feature_request.md) when suggesting a feature or enhancement.
+When suggesting a feature or enhancement, answer the questions in the issue templates in each repository.
 
 ### Security Reports🚓
 

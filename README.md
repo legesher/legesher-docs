@@ -24,39 +24,9 @@ _📢 Check if your native language is in current development in the_ [_Legesher
 
 ❤️ Legesher relies on the passionate members of its community \(both developer and non-developer alike\) to keep delivering impactful tools to people all over the world.
 
-Before contributing, be sure to consult Legesher's [contribution guidelines](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) and [language conventions](https://github.com/legesher/legesher/blob/master/LANGUAGE_CONVENTIONS.md). As a member of our community, you must abide by our [Code Of Conduct](https://github.com/legesher/legesher/blob/master/CODE_OF_CONDUCT.md).
+Before contributing, be sure to consult Legesher's [contribution guidelines](the-official-things/contributing-guidelines.md) and [language conventions](legesher-translations/untitled.md). As a member of our community, you must abide by our [Code Of Conduct](the-official-things/untitled.md).
 
-### Installation
-
-1⃣ **Fork the `legesher/legesher-docs/` repository**  
-Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
-
-**2️⃣ Cloning the repository**  
-Once you have set up your fork of the `legesher/legesher-docs` repository, you'll want to clone it to your local machine. This is so you can make and test all of your personal edits before adding it to the master version of `legesher/legesher-docs`.
-
-Navigate to the location on your computer where you want to host your code. Once in the appropriate folder, run the following command to clone the repository to your local machine.
-
-```text
-git clone git@github.com:your-username/legesher-docs.git
-```
-
-\*\*\*\*3⃣ **Bootstrapping the repository**  
-You'll then want to navigate within the folder that was just created that contains all of the content of the forked repository. There you'll want to run the installation script to get the updated version of all the dependencies.
-
-```text
-cd legesher-docs
-cd guide
-```
-
-### Development
-
-We love your desire to give back, and want to make the process as welcoming to newcomers and experts as possible. We're working on developing more intuitive tutorials for individuals of all skill levels and expertise, so if you think the community would value from being walked through the steps you're going through please share! ❤️
-
-#### Test Changes
-
-When you start making changes to the code on your local branch, you'll need to test those changes. Most of the documentation is written in Markdown, you'll want to make sure everything is formatted properly. I suggest Atom's [`markdown-preview`](https://atom.io/packages/markdown-preview) package to test out the file.
-
-## Legesher Projects
+### Legesher Projects
 
 Legesher Developer Tools might be useful to you if:
 
@@ -81,7 +51,7 @@ A message from our [founder, Madi](https://www.instagram.com/withmadico/):
 
 > It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
 
-Meet our [community](https://github.com/legesher/legesher/tree/master/community) \(full of contributors, backers, sponsors, and supporters\) that give a little piece of their heart to this project. Thank you so much. \([emoji key](https://allcontributors.org/docs/en/emoji-key)\)
+Our biggest thanks goes to our [community](https://github.com/legesher/legesher/tree/master/community) \(full of contributors, backers, sponsors, and supporters\) that give a little piece of their heart to this project. The individuals below have contributed to the [`legesher-docs`](https://github.com/legesher/legesher-docs)repository specifically. 💛 Thank you so much. \([emoji key](https://allcontributors.org/docs/en/emoji-key)\)
 
 | [![Madison \(Pfaff\) Edgar](https://avatars0.githubusercontent.com/u/7844510?v=4) **Madison \(Pfaff\) Edgar**](http://withmadi.co) [📆](./#projectManagement-madiedgar) [💻](https://github.com/legesher/legesher-docs/commits?author=madiedgar) | [![Christina Pfaff](https://avatars3.githubusercontent.com/u/40329912?v=4) **Christina Pfaff**](https://github.com/ChristinaPfaff) [📖](https://github.com/legesher/legesher-docs/commits?author=ChristinaPfaff) | [![Blake Carson](https://avatars3.githubusercontent.com/u/40526625?v=4) **Blake Carson**](https://github.com/blakecarson) [📖](https://github.com/legesher/legesher-docs/commits?author=blakecarson) | [![Victoria Fluharty](https://avatars1.githubusercontent.com/u/37308853?v=4) **Victoria Fluharty**](http://www.toricodes.com) [💻](https://github.com/legesher/legesher-docs/commits?author=torianne02) [📖](https://github.com/legesher/legesher-docs/commits?author=torianne02) | [![Charles Bergeron](https://avatars2.githubusercontent.com/u/7586930?v=4) **Charles Bergeron**](https://github.com/charberg) [🤔](./#ideas-charberg) [📖](https://github.com/legesher/legesher-docs/commits?author=charberg) [💻](https://github.com/legesher/legesher-docs/commits?author=charberg) | [![jess](https://avatars2.githubusercontent.com/u/33926951?v=4) **jess**](https://github.com/jgtiu) [📖](https://github.com/legesher/legesher-docs/commits?author=jgtiu) | [![NS61817](https://avatars2.githubusercontent.com/u/3475873?v=4) **NS61817**](https://github.com/ns61817) [🐛](https://github.com/legesher/legesher-docs/issues?q=author%3Ans61817) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

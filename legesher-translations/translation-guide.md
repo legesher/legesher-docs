@@ -12,7 +12,7 @@ This may just be the most exciting part of the entire project. Having the abilit
 
 First, confirm the language is not already in active development by checking this list [here](https://github.com/legesher/legesher-translations).  If the language is already in development, skip on down to _step \#6_ for ways you can further contribute to the language. 
 
-### 2⃣ Find Language Abbreviation
+### 2⃣ Find Language Abbreviation 
 
 Each language has an associated language abbreviation to maintain consistency across the platform. Navigate over to the dialect list [`legesher-translations/locale/dialect-list.yml`](https://github.com/legesher/legesher-translations/blob/master/locale/dialect-list.yml) to find the language extension to use in the steps below. 
 
