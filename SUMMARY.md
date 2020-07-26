@@ -31,8 +31,13 @@
 
 ## ⚖️ The Official Things
 
-* [Governance](the-official-things/untitled-1.md)
-* [Code of Conduct](the-official-things/untitled.md)
+* [Governance](the-official-things/governance.md)
+* [Code of Conduct](the-official-things/code-of-conduct.md)
 * [Open Source License](the-official-things/license.md)
 * [Contributing Guidelines](the-official-things/contributing-guidelines.md)
+
+## 📨ORGANIZATIONAL
+
+* [Weekly Updates](organizational/weekly-updates.md)
+* [Changelog](organizational/changelog.md)
 

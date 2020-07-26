@@ -60,7 +60,7 @@ There are many ways for you to get involved in **Legesher**. One of the biggest 
 
 When contributing it is important to make sure we follow the same guidelines:
 
-* Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. [\(Read More\)](untitled.md)
+* Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. [\(Read More\)](code-of-conduct.md)
 * Ensure cross-platform compatibility for every change that's accepted. \(Windows, Mac, Debian & Ubuntu Linux\)
 * Ensure that code that goes into core meets all requirements in [this checklist](contributing-guidelines.md)
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.

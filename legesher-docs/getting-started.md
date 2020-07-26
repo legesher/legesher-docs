@@ -42,7 +42,7 @@ You can either open Discord up in the browser using their web application or you
 
 On Discord, you'll be able to connect with other inspiring individuals like yourself as you contribute towards Legesher.  
 1⃣ Introduce yourself on the `#introductions` channel  
-2⃣Check out our[ Code of Conduct](../the-official-things/untitled.md)  
+2⃣Check out our[ Code of Conduct](../the-official-things/code-of-conduct.md)  
 3⃣ Learn [how to contribute](../the-official-things/contributing-guidelines.md) to Legesher
 
 **Servers** After you accept the invitation to join Legesher's Discord Community, you are essentially adding the Legesher server to your Discord account. The far left-hand column contains all of the servers you as a user are connected to.

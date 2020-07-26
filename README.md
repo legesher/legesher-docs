@@ -24,7 +24,7 @@ _📢 Check if your native language is in current development in the_ [_Legesher
 
 ❤️ Legesher relies on the passionate members of its community \(both developer and non-developer alike\) to keep delivering impactful tools to people all over the world.
 
-Before contributing, be sure to consult Legesher's [contribution guidelines](the-official-things/contributing-guidelines.md) and [language conventions](legesher-translations/untitled.md). As a member of our community, you must abide by our [Code Of Conduct](the-official-things/untitled.md).
+Before contributing, be sure to consult Legesher's [contribution guidelines](the-official-things/contributing-guidelines.md) and [language conventions](legesher-translations/untitled.md). As a member of our community, you must abide by our [Code Of Conduct](the-official-things/code-of-conduct.md).
 
 ### Legesher Projects
 
