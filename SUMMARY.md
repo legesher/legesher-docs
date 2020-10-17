@@ -19,7 +19,7 @@
 ## 🔄 Legesher-translations
 
 * [Translation Guide](legesher-translations/translation-guide.md)
-* [Translation Conventions](legesher-translations/untitled.md)
+* [Translation Conventions](legesher-translations/translation-conventions.md)
 
 ## 🌴 tree-sitter-legesher-python
 

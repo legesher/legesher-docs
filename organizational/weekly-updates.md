@@ -6,6 +6,42 @@ Here you'll find Legesher's weekly sprints and updates for what is going on for 
 Current weeks will have a "task list" with associated items, some of which may be linked to repository issues to be claimed by our brilliant community. Please jump on in and contribute on any of these issues.
 {% endhint %}
 
+## Weekly Updates \#4 \| 9.30.2020 - 8.06.2020
+
+{% hint style="info" %}
+**SPRINT GOALS:**
+
+1. 🍁 Hacktoberfest Launch ****
+2. 🤝 Incorporate community into the entire process
+{% endhint %}
+
+### Repositories
+
+#### **`Legesher-Translations`**
+
+* 🌎 [\[ISSUE \#121\]](https://github.com/legesher/legesher-translations/issues/121) - Review Dialect: Hindi \(Python\) \(reviewed in [\#135](https://github.com/legesher/legesher-translations/pull/135) by [@sshiv5768](https://github.com/sshiv5768)\)
+* 🌎 [\[ISSUE \#42\]](https://github.com/legesher/legesher-translations/issues/42) - Review Dialect: French \(Python\) \(reviewed in [\#137](https://github.com/legesher/legesher-translations/pull/137) by [@ectalite](https://github.com/Ectalite)\)
+* 🌎 [\[ISSUE \#37\]](https://github.com/legesher/legesher-translations/issues/37) - Review Dialect: Spanish \(Python\) \(reviewed in [\#138](https://github.com/legesher/legesher-translations/pull/138) by [@aliciacisnerosm](https://github.com/aliciacisnerosm)\)
+* 🌎 [\[ISSUE \#80\]](https://github.com/legesher/legesher-translations/issues/80) - Review Dialect: Arabic \(Python\) \(reviewed in [\#139](https://github.com/legesher/legesher-translations/pull/139) by [@naderalfakesh](https://github.com/naderalfakesh)\)
+* 🌎 [\[ISSUE \#127\]](https://github.com/legesher/legesher-translations/issues/127) - Review Dialect: Telugu \(Python\) \(reviewed in [\#140](https://github.com/legesher/legesher-translations/pull/140) by [@nagendrady](https://github.com/nagendrady)\)
+* 🌎 [\[ISSUE \#141\]](https://github.com/legesher/legesher-translations/pull/141) - Add Initial Dialect: Hebrew \(Javascript\) \(reviewed in [\#141](https://github.com/legesher/legesher-translations/pull/141) by [@adarwall](https://github.com/Adarwall)\)
+* 🌎 [\[ISSUE \#40\]](https://github.com/legesher/legesher-translations/issues/40) - Review Dialect: Portuguese \(Python\) \(reviewed in [\#142](https://github.com/legesher/legesher-translations/pull/142) by [@fernandakawasaki](https://github.com/fernandakawasaki)\)
+* 🌎 [\[ISSUE \#39\]](https://github.com/legesher/legesher-translations/issues/39) - Review Dialect: Polish \(Python\) \(reviewed in [\#143](https://github.com/legesher/legesher-translations/pull/143) by [@ypresion](https://github.com/ypresion)\)
+* 🌎[ \[ISSUE \#37\]](https://github.com/legesher/legesher-translations/issues/37) - Review Dialect: Spanish \(Python\) \(reviewed in [\#145](https://github.com/legesher/legesher-translations/issues/145) by [@iam-agf](https://github.com/iam-agf)\)
+* 🌎[ \[ISSUE \#43\] ](https://github.com/legesher/legesher-translations/issues/43)- Review Dialect: German \(Python\) \(reviewed in [\#146](https://github.com/legesher/legesher-translations/pull/146) by [@alxnull](https://github.com/alxnull)\)
+* 🌎 [\[ISSUE \#121\]](https://github.com/legesher/legesher-translations/issues/121) - Add Initial Translation: Hindi \(Atom\) \(reviewed in [\#148](https://github.com/legesher/legesher-translations/pull/148) by [@sshiv5768](https://github.com/sshiv5768)\)
+* 🌎[ \[ISSUE \#144\] ](https://github.com/legesher/legesher-translations/issues/144)- Add Initial Dialect: Hebrew \(Python\) \(reviewed in [\#149](https://github.com/legesher/legesher-translations/pull/149) by [@adarwall](https://github.com/Adarwall)\)
+* 📖 [\[ISSUE \#144\]](https://github.com/legesher/legesher-translations/issues/144) Feat: update README \(reviewed in [\#150](https://github.com/legesher/legesher-translations/pull/150) by [@adarwall](https://github.com/Adarwall)\)
+* 🌎 [\[ISSUE \#121\]](https://github.com/legesher/legesher-translations/issues/121) - Review Dialect: Hindi \(Python\) \(reviewed in [\#151](https://github.com/legesher/legesher-translations/pull/151) by [@sshiv5768](https://github.com/sshiv5768)\)
+* 🌎 [\[ISSUE \#38\]](https://github.com/legesher/legesher-translations/issues/38) - Review Dialect: Russian \(Python\) \(reviewed in [\#152](https://github.com/legesher/legesher-translations/pull/152) by [@sva1](https://github.com/SvA1)\)
+* 🌎 [\[ISSUE \#147\] ](https://github.com/legesher/legesher-translations/issues/147)- Add New Dialect: Indonesian \(Python\) \(reviewed in [\#154](https://github.com/legesher/legesher-translations/pull/154) by [@syauqy](https://github.com/syauqy)\)
+
+#### **`Legesher-Dot-Io`**
+
+* 🐛 [\[ISSUE \#53\]](https://github.com/legesher/legesher-dot-io/issues/53) - BUG: Fix container span in XL view \(resolved in [\#56](https://github.com/legesher/legesher-dot-io/pull/56) by [@jaebirds](https://github.com/jaebirds)\)
+* 🐛 [\[ISSUE \#58\]](https://github.com/legesher/legesher-dot-io/issues/58) - BUG: subscribe form is triggered for both header and footer onclick event \(resolved in [\#59](https://github.com/legesher/legesher-dot-io/pull/59) by [@arunmohanraj471](https://github.com/ARUNMOHANRAJ471)\)
+* 🐛 [\[ISSUE \#38\]](https://github.com/legesher/legesher-dot-io/issues/38) - BUG fix for \#38 \(resolved in [\#60 ](https://github.com/legesher/legesher-dot-io/pull/60)by [@arunmohanraj471](https://github.com/ARUNMOHANRAJ471)\)
+
 ## Weekly Updates \#3 \| 7.22.2020 - 7.28.2020
 
 {% hint style="info" %}
