@@ -1,9 +1,9 @@
 ---
-name: "\U0001F30DReview Dialect"
+name: 🌍Review Dialect
 about: Review dialect translation for the project
 ---
 
-# Review DIALECT Language Translations for the Python Programming Language
+## Review DIALECT Language Translations for the Python Programming Language
 
 Version 1 of Legesher only includes translations for the Python programming language. In order to add this language to the project, complete the steps detailed in [the translation guide](https://legesher.readme.io/docs/translation-guide).
 
@@ -13,15 +13,15 @@ Version 1 of Legesher only includes translations for the Python programming lang
 
 **To complete this issue**:
 
-* [ ] Navigate to the _Python_ section of the dialect's `locale/DIALECT.yml` file
-* [ ] Go through each of the translations for the Python keywords and built in functions adding commentary as comments
-  * Leave a `✅`after a translation if you agree that's the right word to give context to the keyword
-  * Leave a `❓` after a translation if you think there may be a better translation / form of the translation
-  * Leave a `🤔` after a word that you're not sure if there is a translation
-* [ ] Create a pull request with changes into branch titled `DIALECT-translation` on this repo
-* [ ] In your pull request, reference the original pull request that added your dialect.
+- [ ] Navigate to the _Python_ section of the dialect's `locale/DIALECT.yml` file
+- [ ] Go through each of the translations for the Python keywords and built in functions adding commentary as comments
+  - Leave a `✅`after a translation if you agree that's the right word to give context to the keyword
+  - Leave a `❓` after a translation if you think there may be a better translation / form of the translation
+  - Leave a `🤔` after a word that you're not sure if there is a translation
+- [ ] Create a pull request with changes into branch titled `DIALECT-translation` on this repo
+- [ ] In your pull request, reference the original pull request that added your dialect.
 
-## Reviewers Needed
+### Reviewers Needed
 
 In order to add the translations into our database to use, the translations will need to be approved and accepted by 3 additional native / fluent speakers. If you would like to be one of the reviewers for this language, please mention in this issue! :smile: Also feel free to loop in a friend that might be able to help with the translations!
 
@@ -29,9 +29,8 @@ The translated word needs to have `# ✅✅✅` in the comments after it in orde
 
 **Review Status**:
 
-* [ ] `Add New Dialect` Issue \(\)
-* [ ] Initiator: @ \(\)
-* [ ] Reviewer 1:
-* [ ] Reviewer 2:
-* [ ] Reviewer 3:
-
+- [ ] `Add New Dialect` Issue ()
+- [ ] Initiator: @ ()
+- [ ] Reviewer 1:
+- [ ] Reviewer 2:
+- [ ] Reviewer 3:
