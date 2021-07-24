@@ -1,6 +1,6 @@
 # \(FREE\) Toolbox Shopping 💰
 
-:movie\_camera: [You can watch the video of our Founder, @madiedgar, walking us through these steps in this online guide here.](https://twitch.tv/withmadico)
+:movie_camera: [You can watch the video of our Founder, @madiedgar, walking us through these steps in this online guide here.](https://twitch.tv/withmadico)
 
 > So where do we start?
 
@@ -12,9 +12,9 @@ Other than that, **enjoy**!
 
 The best place to start is to evaluate what _exactly_ you have in your toolbox and what else you need to obtain. In this lesson, we'll walk through a few key tools that are essential to contributing to Legesher: Discord, a Github account and a text editor \(Atom\). Allow me to explain!
 
-* [The Pride w/ Discord](contributor-toolbox.md#the-pride)
-* [The Code w/ Github](contributor-toolbox.md#the-code)
-* [The Platform w/ Atom](contributor-toolbox.md#the-platform)
+- [The Pride w/ Discord](contributor-toolbox.md#the-pride)
+- [The Code w/ Github](contributor-toolbox.md#the-code)
+- [The Platform w/ Atom](contributor-toolbox.md#the-platform)
 
 ## The Pride
 
@@ -39,15 +39,15 @@ You can either open Discord up in the browser using their web application or you
 On Discord, you'll be able to connect with other inspiring individuals like yourself as you contribute towards Legesher.  
 1️⃣ Introduce yourself on the `#introductions` channel  
 2️⃣ Check out our [community guidelines](../legesher/community-guide.md)  
-3️⃣ Learn [how to contribute](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) to Legesher
+3️⃣ Learn [how to contribute](https://docs.legesher.io/the-official-things/contributing-guidelines) to Legesher
 
 **Servers** After you accept the invitation to join Legesher's Discord Community, you are essentially adding the Legesher server to your Discord account. The far left-hand column contains all of the servers you as a user are connected to.
 
 **Channels**  
 The column next to the server list contains all of the channels within a specific server. You start with being in the `#Welcome` channel.
 
-* `#introductions`: place to connect with other members of the pride.
-* `#announcements`: place where major updates will be communicated.
+- `#introductions`: place to connect with other members of the pride.
+- `#announcements`: place where major updates will be communicated.
 
 Every channel has a short description that details the manner of the conversation within that specific channel. If you have questions regarding a specific part of the project, finding the channel that relates would be the best place to ask it!
 
@@ -130,4 +130,3 @@ The text editor is a foundational element for the Legesher project. The syntax h
 ### Introduction to Atom \(Text Editor\)
 
 In the Atom text editor, you can add `packages` to enhance the capabilities of the editor. This is where many of the **legesher** packages will be made available / what we will be building off of. For example, on the image above you can see the `language-legesher-python` package _installed_ and _enabled_ on my editor.
-
