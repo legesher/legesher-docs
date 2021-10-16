@@ -77,25 +77,25 @@
 | BITOR | used as an alternative for |  | c++ |  |  |
 | BITSTYPE |  | julia |  |  |  |
 | BLOCKQUOTE |  | html |  |  |  |
-| BODY |  | html |  |  |  |
+| BODY | Marks the content of the page that gets rendered on the browser. It can have paragraphs, headings, tables, images etc.| html | References |  |  |
 | BOOL |  | c\#, c++, python |  |  |  |
 | BOOLEAN | A binary value commonly used to denote 'true' or 'false' | typescript, java | 'truth-values' |  |  |
-| BORDER |  | css |  |  |  |
-| BORDER-BOTTOM |  | css |  |  |  |
-| BORDER-COLLAPSE |  | css |  |  |  |
-| BORDER-COLOR |  | css |  |  |  |
+| BORDER |  Used to specify color, image, width, spacing etc. of the border around an element| css |  |  |  |
+| BORDER-BOTTOM | Used to set the style of bottom border of element. e.g. h1 {border-bottom: 10px solid black;} | css |  |  |  |
+| BORDER-COLLAPSE |  Used usually to define border property of cells in a table, to set whether the border of cells should collapse or remain separate. e.g. #table1{border-collapse: separate;}| css |  |  |  |
+| BORDER-COLOR | Used to set the color of the border. It can accept single or multiple values. If a single value is mentioned then all the border sides are of that color otherwise its dependent on the order in which colors are specified. e.g. div {border-color: red;}. It can also accept hexadecimal color codes | css |  |  |  |
 | BORDER-IMAGE |  | css |  |  |  |
-| BORDER-LEFT |  | css |  |  |  |
+| BORDER-LEFT | Used to specifically set the left border of an element. | css |  |  |  |
 | BORDER-OUTSET |  | css |  |  |  |
 | BORDER-RADIUS |  | css |  |  |  |
 | BORDER-REPEAT |  | css |  |  |  |
-| BORDER-RIGHT |  | css |  |  | d |
+| BORDER-RIGHT | Used to specifically set the right border of an element. | css |  |  |  |
 | BORDER-SLICE |  | css |  |  |  |
 | BORDER-SOURCE |  | css |  |  |  |
-| BORDER-SPACING |  | css |  |  |  |
-| BORDER-STYLE |  | css |  |  |  |
-| BORDER-TOP |  | css |  |  |  |
-| BORDER-WIDTH |  | css |  |  |  |
+| BORDER-SPACING | Used to set spacing between the borders of adjacent cells. This property works when the border-collapse property is set to separate. e.g. {border-collapse: separate; border-spacing: 20px;} This would set spacing of 20px between table cells from all sides. | css |  |  |  |
+| BORDER-STYLE | Used to set the style of the border around four sides of an element. | css |  |  |  |
+| BORDER-TOP | Used to specifically set the top border of an element.  | css |  |  |  |
+| BORDER-WIDTH | Poperty is used to specify the width of the four borders around an element. | css |  |  |  |
 | BOTTOM |  | css |  |  |  |
 | BOX |  | rust |  |  |  |
 | BOX-BREAK |  | css |  |  |  |
@@ -112,7 +112,7 @@
 | BUFIF1 |  | verilog |  |  |  |
 | BUG |  |  |  |  |  |
 | BUTTON |  | html |  |  |  |
-| BYTE |  | c\#, java |  |  |  |
+| BYTE | Unit of measuring memory space. 1 Byte = 8 bits. | c\#, java, c++, c |  |  |  |
 | CALLABLE | callable function checks and returns True if the object passed appears to be callable, otherwise False. | php, python | inbuilt function | There may be few cases where callable\(\) returns true, but the call to object fails. But if a case returns False, calling object will never succeed. |  |
 | CANVAS |  | html |  |  |  |
 | CAPTION |  | html |  |  |  |
@@ -121,8 +121,8 @@
 | CASE | Used in switch statements. Each case keyword is followed by a possible value for the condition | c\#, java, swift, javascript, golang, php, bash, scala, typescript, afl, verilog, c++, haskell, c, ruby |  |  |  |
 | CASEX |  | verilog |  |  |  |
 | CASEZ |  | verilog |  |  |  |
-| CATCH |  | c\#, swift, javascript, julia, php, scala, typescript, c++, java |  |  |  |
-| CENTER |  | html |  |  |  |
+| CATCH | Used along with `try` to handle an exception thrown in try block. Catch block contains code to handle the specific exception thrown. | c\#, swift, javascript, julia, php, scala, typescript, c++, java | Exceptions |  |  |
+| CENTER | Used as the property value to center the text of the element. e.g. div {text-align: center;} would align the text in this element to center.| html |  |  |  |
 | CHAN |  | golang |  |  |  |
 | CHAR | shorthand for 'character'. Char size can be encoding dependent. | c++, java, c, c\# |  |  |  |
 | CHAR16\_T | type for UTF-16 character representation, required to be large enough to represent any UTF-16 code unit \(16 bits\) | c++ |  |  |  |
@@ -147,9 +147,9 @@
 | COLUMN-FILL |  | css |  |  |  |
 | COLUMN-GAP |  | css |  |  |  |
 | COLUMN-RULE |  | css |  |  |  |
-| COLUMN-SPAN |  | css |  |  |  |
+| COLUMN-SPAN | Property is used to specify the number of columns an element would span across. | css |  |  |  |
 | COLUMN-STYLE |  | css |  |  |  |
-| COLUMN-WIDTH |  | css |  |  |  |
+| COLUMN-WIDTH | Property is used to specify the width of the column. | css |  |  |  |
 | COLUMNS |  | css |  |  |  |
 | COMMENT |  |  |  |  |  |
 | COMPL |  | c++ |  |  |  |
@@ -251,12 +251,12 @@
 | EXPORTS |  | node |  |  |  |
 | EXTENDS |  | javascript, typescript, scala, php, java |  |  |  |
 | EXTENSION |  | swift |  |  |  |
-| EXTERN |  | c++, c, c\#, rust |  |  |  |
+| EXTERN | Used to tell compiler that the used variable/ function is defined outside the current scope. | c++, c, c\#, rust | Variable Declarations |  |  |
 | EXTERNAL |  | ocaml |  |  |  |
 | FALLTHROUGH |  | swift, golang |  |  |  |
 | FALSE | Boolean logic for what is considered **false** | c\#, swift, javascript, python, julia, rust, ocaml, scala, typescript, c++, ruby | `truth-values` |  |  |
 | FALSEABSTRACT |  |  |  |  |  |
-| FI |  | bash |  |  |  |
+| FI | Used to specify the end of the commands that need to be run once the `if` condition is satisfied. `if...then...fi` | bash |  |  |  |
 | FIELD |  | agda |  |  |  |
 | FIELDSET |  | html |  |  |  |
 | FIGCAPTION |  | html |  |  |  |
