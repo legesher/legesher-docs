@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Legesher?](README.md)
+* [🗨 What is Legesher?](README.md)
 
 ## 🎨 legesher-docs
 
@@ -40,4 +40,3 @@
 
 * [Weekly Updates](organizational/weekly-updates.md)
 * [Changelog](organizational/changelog.md)
-
