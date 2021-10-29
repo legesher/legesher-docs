@@ -33,10 +33,11 @@
 |  AREA |   | html | | |
 |  ARGUMENTS |   | javascript | | |
 |  ARRAY |   | php | | |
-|  ARTICLE |   | html | | |
+|  ARTICLE |Defines an article, such as a magazine or newspaper article, blog post, or
+similar content.   | html | | |
 |  AS |used to create an alias while importing a module, giving a different name to a module while importing it | c#, swift, python, rust, ocaml, typescript, php, haskell | References | |
 |  ASCENDING |   | c# | | |
-|  ASIDE |   | html | | |
+|  ASIDE | Defines content that’s separate from but related to the page content; similar to a sidebar in book chapters and magazine articles.  | html | | |
 |  ASM |used to embed assembly language source code within a C++ program | c++ |Declaration | |
 |  ASR |   | ocaml | | |
 |  ASSERT |used for debugging purposes by checking the internal state or if assumptions are true | ocaml, java, python | Debugging | |
@@ -187,7 +188,7 @@
 |  DEPRECATED |   | | | |
 |  DERIVING |   | haskell | | |
 |  DESCENDING |   | c# | | |
-|  DETAILS |   | html | | |
+|  DETAILS | Contains additional details pertinent to text around it; creates an interactive widget a user can display or hide.  | html | | |
 |  DFN |   | html | | |
 |  DIALOG |   | html | | |
 |  DIDSET |   | swift | | |
@@ -448,7 +449,7 @@
 |  NAMESPACE | | c#, razor, c++, php | | |
 |  NAND | | verilog | | |
 |  NATIVE | | java | | |
-|  NAV | | html | | |
+|  NAV |Defines a block of navigation links. | html | | |
 |  NEGEDGE | | verilog | | |
 |  NEW | | c#, javascript, php, ocaml, scala, typescript, c++, java | | |
 |  NEWTYPE | | haskell | | |
@@ -631,7 +632,8 @@
 |  STYLE | | html | | |
 |  SUB | | html | | |
 |  SUBSCRIPT | | swift | | |
-|  SUMMARY | | html | | |
+|  SUMMARY |Defines a visible heading for a details element; user can click to display or
+hide information. | html | | |
 |  SUP | | html | | |
 |  SUPER | | swift, javascript, python, rust, scala, typescript, java, ruby | | |
 |  SUPPLY0 | | verilog | | |
