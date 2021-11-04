@@ -1,0 +1,8 @@
+{
+  "Python": {
+    "beautifiers": ["Black", "YAPF"]
+  },
+  "JSON": {
+    "beautifiers": ["Prettier", "Pretty Diff", "JS-Beautify"]
+  }
+}
