@@ -25,7 +25,7 @@
         "@unibeautify/cli": "^0.5.1",
         "all-contributors-cli": "^6.14.0",
         "js-beautify": "^1.10.3",
-        "minimist": ">=1.2.2",
+        "minimist": ">=1.2.6",
         "prettier": "^1.19.1",
         "prettydiff2": "^2.2.8",
         "unibeautify": "^0.17.0"
