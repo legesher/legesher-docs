@@ -23,7 +23,7 @@
         "@unibeautify/beautifier-prettydiff": "^0.6.0",
         "@unibeautify/beautifier-yapf": "^0.3.0",
         "@unibeautify/cli": "^0.5.1",
-        "all-contributors-cli": "^6.14.0",
+        "all-contributors-cli": "^6.26.1",
         "js-beautify": "^1.10.3",
         "minimist": ">=1.2.6",
         "prettier": "^1.19.1",
