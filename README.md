@@ -6,7 +6,7 @@ coverY: 300.4072085889571
 > [!NOTE]
 > **This repository is part of the Legesher ecosystem.** A major update consolidating and improving this functionality is in active development and will be released as open source in 2026.
 >
-> Up-to-date documentation is published at **[docs.legesher.io](https://docs.legesher.io)**. The current source lives in **[Legesher/legesher → `docs/`](https://github.com/Legesher/legesher/tree/main/docs)**. Follow progress at **[legesher.io](https://legesher.io)** or join the community on Discord.
+> Up-to-date documentation is published at **[docs.legesher.io](https://docs.legesher.io)**. The current source lives in **[Legesher/legesher → `docs/`](https://github.com/Legesher/legesher/tree/main/docs)**. Follow progress at **[legesher.io](https://legesher.io)** or join the community on **[Slack](https://legesher.io/go/slack)**.
 >
 > This repo's current state is pinned as the legacy reference. See the legacy release and the All Contributors table below for full contributor credits.
 
